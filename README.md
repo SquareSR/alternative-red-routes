@@ -3,9 +3,9 @@
 # Pokemon Red Glitchless Intermediate Guide
 
 ### Good documents
-- [Defensive Damage Ranges](../resources/defensive-ranges.md)
-- [Offensive Damage Ranges](../resources/offensive-ranges.md)
-- Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/hp-strats.md)
+- [Defensive Damage Ranges]([../resources/defensive-ranges.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges))
+- [Offensive Damage Ranges]([../resources/offensive-ranges.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges))
+- Not recommended for this route, but worth reading: [Advanced HP Strats]([../resources/hp-strats.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats))
 
 ### Glossary
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
