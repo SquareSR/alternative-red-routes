@@ -3,8 +3,8 @@
 # Pokemon Red Glitchless Intermediate Guide
 
 ### Good documents
-- [Defensive Damage Ranges]([../resources/defensive-ranges.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges))
-- [Offensive Damage Ranges]([../resources/offensive-ranges.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges))
+- [Defensive Damage Ranges](../resources/defensive-ranges.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
+- [Offensive Damage Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
 - Not recommended for this route, but worth reading: [Advanced HP Strats]([../resources/hp-strats.md](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats))
 
 ### Glossary
