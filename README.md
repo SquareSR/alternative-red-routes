@@ -1,48 +1,15 @@
 # alternative-red-routes
 
-# Pokemon Red Glitchless Intermediate Guide
-
-### Good documents
-- [Defensive Damage Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
-- [Offensive Damage Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
-- Not recommended for this route, but worth reading: [HP Strats Advanced](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats)
-
-### Glossary
-- Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
-	- (+ MOVE): A situational move used to finish off a pokemon when a damage range is missed
-- IT = Instant Text
-
-### Before you start
-- Clear any existing save file by pressing Up + B + Select on the game title screen
-- Set your options to fast text and animations OFF
 
 ## NIDORAN SPLIT
 
-Rival 1:
-- Tail Whip + spam Tackle
-
-> Optional: check stats on level up after Rival 1
-> - 10 ATK - Tail Whip x3 on Weedle Guy in forest
-> - 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
-> - 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
-> - 12 SPC is guaranteed good special (2 hit on Geodude & Onix)
-
-Route 1
-- Spam Tackle to faint one encounter that is L2 or L3
-
 Viridian Mart
-- Buy 3, 4 or 5 Poke Balls depending on your yoloball consistency
-> If buying 5 Balls, always pick up both hidden Potions and buy one fewer Potion in Pewter Mart
-
-Do [Nido Manip](../resources/nido-manip.md)
-> Optional: Do [Triple Extended Manip](../resources/triple-extended/)
+- Buy 4 Poke Balls
 
 ## BROCK SPLIT
 
 - Pick up the Antidote
 - Pick up the hidden Weedle Guy Potion
-
-> 1-12 Potion before the fight
 
 Weedle Guy:
 - Tail Whip x2, spam Tackle [1-4 Potion]
@@ -50,7 +17,7 @@ Weedle Guy:
 Swap Squirtle and Nido at some point
 - 1-10 Potion and use/toss Antidote
 
-Pewter Mart
+Early Pewter Mart
 - Buy 8 Potions
 
 Brock:
@@ -66,7 +33,7 @@ Change Options to Set before leaving the gym
 Bug Catcher 1:
 - Caterpie: Leer + HA x2 (+ Tackle)
 - Weedle: Leer + HA + Tackle (or HA)
-- Caterpie: Leer + HA + Tackle (or HA)
+- Caterpie: Leer + HA + Tackle
 
 **Menu** if 1-24: Potion and toss Antidote
 
@@ -75,7 +42,6 @@ Shorts Guy:
 	- Leer + HA x2 (at 25-27 HP use HA x2 + Tackle)
 - Ekans: [1-3 Potion, 1-4 at @-1, 1-5 at @-2]
 	- Leer + HA x2
-> Potion turn 1 of Wrap if you don't live 4 or 5 turn Wrap
 
 Bug Catcher 2:
 - Weedle:
@@ -83,7 +49,7 @@ Bug Catcher 2:
 - Kakuna:
 	- Spam HA, finish with Tackle
 - Caterpie: [1-3 Potion]
-	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
+	- HA x2 (Tackle turn 2 only if Weedle hit 2 String Shots)
 - Metapod:
 	- HA x2 + Tackle (or HA if Metapod outsped you)
 
@@ -102,14 +68,11 @@ Catch a flyer:
 ## MT. MOON SPLIT
 
 **Moon Manip Save**
-- Potion to 36+
-- If in red bar and confident with yoloball, delay heal until after Paras catch
-
 Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 
-> Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. If you'd like to learn the alternative movement used to manipulate Mt. Moon on these frames check [F36/F37 Backups](../resources/rt3moon-f36-f37-backups.md)
+> Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. In this case SOFT RESET with A,B,Start,Select - Re-save and try rt 3 manip again.
 
-If you get an IGT encounter or fail the manip before the last floor do the [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the [older version](https://pastebin.com/7kcZu3g4))
+- Menu before PoY Manip: Heal to 36+ hp
 
 Rocket: (strategy depends on HA count)
 
@@ -130,8 +93,8 @@ Rocket: (strategy depends on HA count)
 	- Rat: HA x2 (+ PS)
 	- Zubat: HA x2-3 (+ Tackle)
 
-**Moon Menu** immediately after defeating Rocket
-- Toss Poke Balls and Antidote (do not toss Balls if you still need to catch Paras)
+**Moon Menu** immediately after defeating Rocket (can take 1-2 steps before menuing for easier movement)
+- Toss Poke Balls
 - Use Rare Candy
 - Teach TM12 (Water Gun) in slot 2
 - Use Moon Stone
@@ -208,24 +171,20 @@ Lass: Ideally save 2+ MP for after this fight
 > HA the 2nd Oddish if you leveled early from Moon Exp
 - Teach Thrash in slot 2 over WG
 
-> If you happen to have 35+ HP and 0 Mega Punches, pick up the [hidden Ether](https://gunnermaniac.com/pokeworld?map=1#288/3) and use it on Mega Punch before using Escape Rope in Bill Menu.
-
-> Note: Can heal to just 48+ HP if low on Potions or on bad pace; or can take the center on any HP if pace is good enough to skip fly red bar
-
 **Bill Menu**
 - Slot 1 - Potion
 	- **1-14:** 3 Potions or take the center after using Escape Rope
 	- **15-34:** 2 Potions
 	- **35-54:** 1 Potion
-	- **55+:** Don't Heal
+	- **55+:** Don't Heal or heal to 65+ on great pace
 - Slot 5 - Rare Candy
 - Slot 3 - Escape Rope
 
 **Get Instant Text again**
 
 Dig Rocket:
-- Thrash
-- Thrash (+ PS)
+- Thrash x1-2
+- Thrash x1-2 (+ PS)
 
 Goldeen:
 - Thrash
@@ -254,7 +213,7 @@ Boat Rival:
 - Pidgeotto:
 	- HA x2 (HA + BB if you have it)
 		- If you get Sand-Attacked swap to bird and let it faint
-		- With high HP and 1 Sand-Attack consider a risky strategy: MP/HA Rat, HA Kadabra, HA x2 Ivy (never Thrash after Sand) swap if HP gets too low
+		- With high HP and 1 Sand-Attack consider a risky strategy: Spam HA on every Pokemon in the fight (swap if HP gets too low)
 - Raticate:
 	- 1-6: Potion turn 1
 	- 7-22: MP or Thrash if only 1 MP is left
@@ -269,10 +228,11 @@ Get HM01 Cut from the captain.
 
 - If you have 2-4 HP and IT, fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 - If you have 5-8 HP and IT, fight the Gentleman and pick up the Candy if on good pace
+- Under 11 hp can do gentleman if the pace is really good.
 
 Vermilion Mart
 - Sell TM34 and Nugget
-- Buy 6 Repels and 3 Parlyz Heals (buy 4 Parlyz Heals if you fought Gentleman)
+- Buy 6 Repels and 4 Parlyz Heals (buy 5 Parlyz Heals if you fought Gentleman)
 
 **Cut Menu**
 - Slot 5 - Teach TM11 (Bubblebeam) in slot 4 over Poison Sting
@@ -282,16 +242,14 @@ Vermilion Mart
 
 Use Cut and do Cans Manip
 - Surge Cans Manip:
-	- [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
-	- [Palette Cans](https://youtu.be/_tWhfBITf_g)
-	- [60/60 Cans](https://www.youtube.com/watch?v=T6pXrZ9_Vq0)
 
 Surge:
 > If ever confused on Raichu swap to bird or Squirtle, unless you can live hit self
 - Voltorb:
 	- 1-20: Thrash x1-2
 	- 21-24: HA + BB
-	- 25+: BB x2
+	- 25-40: BB x2
+	- 41+: BB turn 1, BB turn 2 if screech or sonicboom hit; otherwise Thrash turn 2
 - Pikachu: Thrash
 - Raichu: Thrash x2
 	- Hit self damage:
@@ -307,13 +265,12 @@ Fly split red bar
 
 HP at L28 | Strat
 --------- | ------------------
-4-17 & 19 | Play normally
-18        | BB all on Bug Catcher - hope for Tackle from Venonat
+15-19     | BB all on Bug Catcher - hope for Tackle from Venonat
 20-21     | BB all on Bug Catcher if good pace; otherwise Thrash first Slowpoke
-22-27     | Thrash first Slowpoke
+22-27     | Thrash first Slowpoke (or BB + TB if you prefer)
 28-38     | TB stall on Cubone
 39-43     | BB + BB + TB Slowpoke (take 2 hits)
-44+       | TB Cubone and then Thrash Slowpoke (take 2 hits)
+44+       | TB Cubone and then Thrash (or BB+TB) Slowpoke (take 2 hits)
 
 ## FLY SPLIT
 
@@ -350,7 +307,7 @@ Pokemaniac 1:
 Pokemaniac 2:
 - Slowpoke: TB
 
-Oddish Girl:
+Oddish Girl: (in general, if para'd - delay using para heal until your last repel menu in tunnel)
 - Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5, if paralyzed still use Thrash)
 - Bulba: Thrash
 
@@ -373,29 +330,17 @@ Gambler: [1-4 Potion turn 1]
 
 HP    | Strategy
 ----- | --------------
-1-8   | Early Drill
-9-15  | Late Drill
-16    | Early Drill, Late Drill if Gentleman Candy
-17-18 | Late Drill
-19    | Late Drill, Early Drill if you got Moon Exp
-20-27 | Early Drill
-28+   | Late Drill
+1-8   | Potion before getting on your bike inside underground
 
-> At 17+ you can also just stick to your personal preference
-> - On Early Drill - Horn Drill is taught in the *Fly Menu* before Lavender Rival
-> - On Late Drill - Horn Drill is taught near the top of *Lavender Tower* just before the Marowak Ghost
 
 Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 
 ### Celadon Mart
-> - If you fought the Gentleman guarding the Candy on boat, then...
->	- On Early Drill, you are still able to buy 4 Super Potions and 5 X Specials
->	- On Late Drill, buy 6 X Specials and 4 X Speeds (1 extra of each)
 
 - 2nd Floor
 	- Buy TM07
 	- Buy 7 Super Repels
-	- Buy 4 Super Potions (**3 on Early Drill** - still 4 if gentleman)
+	- Buy 4 Super Potions
 - 4th Floor
 	- Buy 1 Poke Doll
 - Roof
@@ -403,9 +348,9 @@ Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 	- Trade it to the girl
 	- Buy a Fresh Water
 - 5th Floor
-	- Buy 11 X Accuracy (**12 on Early Drill**)
-	- Buy 5 X Specials (**4 on Early Drill** - still 5 if gentleman)
-	- Buy 3 X Speeds
+	- Buy **10 X Accuracy**  (only if you fought gentleman on boat get 11)
+	- Buy 6 X Specials 
+	- Buy 4 X Speeds
 
 Get HM02 Fly
 
@@ -414,22 +359,22 @@ Get HM02 Fly
 **Fly Menu**
 - Swap slot 2 **Helix Fossil** for **TM07** (3 below Potion)
 - Down 1 to use **Super Repel**
-- Down 3 to teach **TM48** (Rock Slide) over slot 1 MP (**over slot 2 Thrash on Early Drill**)
-- (**only if on Early Drill - teach TM07 (Horn Drill) over slot 1 MP**)
+- Down 3 to teach **TM48** (Rock Slide) over slot 1 MP 
 - Swap **S.S. Ticket** for **X Accuracy** (2 below Poke Doll)
 - Down 3 to teach **HM02** (Fly) to bird
 - Fly to Lavender
 
 Lavender Rival:
-- On Late Drill:
-	- TB x2, BB, Thrash (1-8 on Growlithe use Potion, then BB)
-- On Early Drill:
-	- 1-8: Turn 1 use slot 6 **Potion**, turn 2 scroll up 4 to use **X Acc**, HD x5
-	- 16: TB x2, X Acc on Growlithe, HD x3
-	- 20+: X Acc, HD x5 (can Potion turn 2 if 1-8)
+- Pidgeott: TB
+- Gyarados: TB
+- Growlithe: (1-8 hp, use Potion), BB
+- Kadabra: Thrash
+- Ivy: Thrash x1-2
+
+> If you have 3+ potions left, potion to 24+ hp on god pace
 
 Channeler 1: ([Tower Map](https://imgur.com/gallery/Yf2tY3u))
-- RS x2 (don't forget Rock Slide will be in either slot 1 or slot 2)
+- RS x2 
 
 Pick up the Elixer item ball AND the hidden Elixer on the next floor
 
@@ -457,7 +402,7 @@ Rocket 2:
 
 Rocket 3:
 - TB x2
-- Thrash (or TB x2-3 if Early Drill)
+- Thrash 
 
 Get the Poke Flute
 
@@ -471,15 +416,14 @@ Go to floor 5 and pick up the hidden [Tree Elixer](https://gunnermaniac.com/poke
 - How to play the next two fights depends on whether you did Early or Late Drill
 
 Arbok Rocket:
-- On Late Drill: Thrash
-	- Do NOT use a Parlyz Heal in fight and enter the next fight still paralyzed
-- On Early Drill: X Acc + HD
-	- Use Parlyz Heal immediately if Glare hits
+- Thrash
+> Do NOT use a Parlyz Heal in fight and enter the next fight still paralyzed
+
 
 Silph Rival:
 - Pidgeot: X Acc + (use Parlyz Heal if needed) + X Speed + HD
 - Gyarados: HD
-- Growlithe: RS on Early Drill / HD on Late Drill
+- Growlithe: HD
 - Alakazam: HD
 - Venusaur: HD
 
@@ -525,7 +469,7 @@ Use your Bike and go west to Snorlax
 > - In the 3rd Zone of the Safari - pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
 > - In the Surf menu - swap HM01 with X Speed
 
-**Menu**
+**Menu** 
 - Use slot 4 **Repel**
 - Down 2 to swap **Potion** with **X Special** (3 below HM01)
 - Down 6 to teach **TM26** Earthquake in move slot 2 (over Thrash or RS)
@@ -533,9 +477,9 @@ Use your Bike and go west to Snorlax
 
 In the Safari Zone:
 - If needed see [Safari Movement](https://imgur.com/gallery/h9KpU3I)
-- Menu in the 2nd Zone around [this tile](https://gunnermaniac.com/pokeworld?map=217#17/24) to use slot 3 Super Repel (cursor is on items)
-- If you have zero Potions, pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
-- Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get HM03
+- Menu in the 2nd Zone around [this tile](https://gunnermaniac.com/pokeworld?map=217#17/24/S) to use slot 3 Super Repel (cursor is on items)
+- If you have zero Potions, pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7/S) for bag space
+- Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7/S) and get HM03
 - Exit the Surf house, Dig out of the safari, and Fly back to Fuschia City
 
 Juggler 1:
@@ -574,7 +518,7 @@ Mansion
 - Down 1 to Teach **TM14** (Blizzard) to Nido in slot 4 over BB
 - Use slot 4 **Repel**, this is the last regular Repel
 
-Pick up the Rare Candy and Secret Key then Dig out
+**Pick up the Rare Candy** and **Secret Key** then Dig out
 
 Bike to Erika's gym
 
@@ -590,7 +534,7 @@ Erika:
 
 Fly to Cinnabar & Bike to the gym
 
-Quiz: ABBBAB
+Quiz:  A B B B A B
 
 Blaine:
 - X Acc + EQ
@@ -640,8 +584,8 @@ Super Repel locations indicated [here](https://imgur.com/gallery/laeW1PT) & Vict
 
 **Menu** after dropping through the hole
 - Use Strength
-- Items, down 2 to use **Max Ether** on Horn Drill
-- Up 2 to use last **Super Repel**
+- Items, **down 2** to use **Max Ether** on Horn Drill
+- **Up 2** to use last **Super Repel**
 - Get on Bike
 
 Deposit Squirtle and Paras
@@ -671,7 +615,7 @@ Agatha:
 - Gengar: X Spec + EQ
 - Golbat: Blizz
 - EQ x3
-> If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60 and 3+ X Specs remaining. Otherwise Super Potion or yolo.
+> If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60; otherwise yolo her last gengar.
 
 ## LANCE SPLIT
 
@@ -680,7 +624,7 @@ Agatha:
 
 > Note: If you need Lance and/or Champ red bar to PB, then be prepared to stall if Hydro Pump misses
 > - If 127-133, then use X Speed turn 2 on Gyarados instead of on 2nd Dragonair
-> - If 133+, then stall with EQ or X Acc *but only if you have 2 X Accs left*
+> - If 133+, then stall with EQ 
 
 Lance:
 - Gyarados: X Spec + TB
@@ -705,11 +649,11 @@ HP     | Strat
 Any HP | Heal to 45+ or higher if far ahead of PB or you want to play safe
 
 Champion:
-- Pidgeot: X Spec
+- Pidgeot: **X Spec** Turn 1 and adapt:
 	- If Pidgeot does NOT use Sky Attack turn 1:
 		- Pidgeot: X Acc + HD
 		- Alakazam: HD
-		- Rhydon: HD (if not in red bar Blizz Rhydon and HD Gyarados)
+		- Rhydon: HD   (if not in red bar Blizz Rhydon and HD Gyarados)
 		- Gyarados: **TB**
 		- Arcanine: HD
 		- Venusaur: HD
