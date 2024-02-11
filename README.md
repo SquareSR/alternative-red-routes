@@ -1,4 +1,4 @@
-# Intermediate Red - 4 balls, 8 Potions, 10 X-Accuracy - Late Drill
+# Intermediate Red - 4 balls, 8 Potions, 10 X-Accuracy - Late Drill 
 
 
 ## NIDORAN SPLIT
