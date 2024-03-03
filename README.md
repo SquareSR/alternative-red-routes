@@ -67,10 +67,10 @@ Catch a flyer:
 
 ## MT. MOON SPLIT
 
-**Moon Manip Save**
-Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
+**Goon Manip Save**
+Do Goon Manip
 
-> Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. In this case SOFT RESET with A,B,Start,Select - Re-save and try rt 3 manip again.
+> Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. In this case SOFT RESET with A,B,Start,Select - Re-save and try Goon Manip again.
 
 - Menu before PoY Manip: Heal to 36+ hp
 
