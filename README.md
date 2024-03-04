@@ -494,7 +494,22 @@ Koga:
 - Turn 1 on Weezing use slot 8 **Elixer** (3 below Rare Candy)
 > If Koga used X Attack, scroll up 2 and use X Spec, but do not go below 3 X Specs (use BB in that case)
 
-- If you didn't die from Koga you can still try to get red bar by following the [backups](https://pastebin.com/BMQQYcEV)
+- If you didn't die from Koga you can still try to get red bar by following the Backups below:
+
+### Boom Strats Backups
+- https://pastebin.com/BMQQYcEV
+
+| HP after SD on Koga | Red Bar Lost on... | Strategy                                                                                                        | If desperate
+| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------
+| 0-1                 | Machamp            | Normal strats                                                                                                   |
+| 2-4                 | Lapras             | Normal strats                                                                                                   | Elixer(+Blizz) Gio Rhyhorn, X Speed VR Rhyhorn, PP item turn two on Bruno
+| 5-6                 | Cloyster           | Blizz Cooltrainer, Elixer(+Blizz) Gio Rhyhorn, X Speed VR Rhyhorn                                               | TB VR Rhyhorn, PP item turn two on Bruno
+| 7-11                | Rhydon/Growlithe   | Blizz Cooltrainer+Gio, X Spec(+Elixer+Blizz) Nidoking, Elixer Rhydon (wait until bike menu if you have 1 Blizz) |
+| 12-14               | Machop             | Blizz Cooltrainer+Gio, Elixer(+X Spec+TB) Nidoking                                                              |
+| 15-22               | Rapidash/Venomoth  | Poké Flute Vileplume                                                                                            |
+| 23+                 | Exeggcute          | X Acc Victreebel if you have 2 extra, then Poké Flute until hit (can Blizz x3 after X Acc)                      |
+
+
 
 ## ERIKA SPLIT
 
