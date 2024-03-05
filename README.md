@@ -14,8 +14,10 @@ Viridian Mart
 Weedle Guy:
 - Tail Whip x2, spam Tackle [1-4 Potion]
 
-Swap Squirtle and Nido at some point
-- 1-10 Potion and use/toss Antidote
+Menu:
+- Swap Squirtle with Nido
+- Use or Toss Antidote
+- Potion Squirtle to 11+ hp
 
 Early Pewter Mart
 - Buy 8 Potions
@@ -39,7 +41,7 @@ Bug Catcher 1:
 
 Shorts Guy:
 - Rat: [1-9 Potion, or 1-15 at @-1]
-	- Leer + HA x2 (at 25-27 HP use HA x2 + Tackle)
+	- Leer + HA x2 
 - Ekans: [1-3 Potion, 1-4 at @-1, 1-5 at @-2]
 	- Leer + HA x2
 
@@ -58,21 +60,21 @@ Bug Catcher 2:
 Bug Catcher 3:
 - Caterpie:
 	- HA x2
-- Metapod: (Note: You need at least 2 HAs for after this fight)
+- Metapod:
 	- Spam HA, finish with Tackle
 
-Catch a flyer:
+Hop the ledge to enter grass quickly to catch a flyer:
 - Tackle then toss a Ball at any flyer except L8 Pidgey where you HA then toss a Ball
 - Exception: If only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
 
 ## MT. MOON SPLIT
 
-**Goon Manip Save**
-Do Goon Manip
+**Do Goon Manip**
 
 > Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. In this case SOFT RESET with A,B,Start,Select - Re-save and try Goon Manip again.
 
-- Menu before PoY Manip: Heal to 36+ hp
+Menu before PoY Manip: 
+- Heal to 36+ hp
 
 Rocket: (strategy depends on HA count)
 
@@ -232,7 +234,7 @@ Get HM01 Cut from the captain.
 
 Vermilion Mart
 - Sell TM34 and Nugget
-- Buy 6 Repels and 4 Parlyz Heals (buy 5 Parlyz Heals if you fought Gentleman)
+- Buy 6 Repels and 4 Parlyz Heals 
 
 **Cut Menu**
 - Slot 5 - Teach TM11 (Bubblebeam) in slot 4 over Poison Sting
@@ -499,15 +501,14 @@ Koga:
 ### Boom Strats Backups
 - https://pastebin.com/BMQQYcEV
 
-| HP after SD on Koga | Red Bar Lost on... | Strategy                                                                                                        | If desperate
-| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------
-| 0-1                 | Machamp            | Normal strats                                                                                                   |
-| 2-4                 | Lapras             | Normal strats                                                                                                   | Elixer(+Blizz) Gio Rhyhorn, X Speed VR Rhyhorn, PP item turn two on Bruno
-| 5-6                 | Cloyster           | Blizz Cooltrainer, Elixer(+Blizz) Gio Rhyhorn, X Speed VR Rhyhorn                                               | TB VR Rhyhorn, PP item turn two on Bruno
-| 7-11                | Rhydon/Growlithe   | Blizz Cooltrainer+Gio, X Spec(+Elixer+Blizz) Nidoking, Elixer Rhydon (wait until bike menu if you have 1 Blizz) |
-| 12-14               | Machop             | Blizz Cooltrainer+Gio, Elixer(+X Spec+TB) Nidoking                                                              |
-| 15-22               | Rapidash/Venomoth  | Poké Flute Vileplume                                                                                            |
-| 23+                 | Exeggcute          | X Acc Victreebel if you have 2 extra, then Poké Flute until hit (can Blizz x3 after X Acc)                      |
+| HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
+| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- 
+| 0-1                 | Machamp            | Normal strats                                                                                                   
+| 2-4                 | Lapras             | Skip Menu before Bruno. X-Acc, Max Ether HD on his Onix, then spam HD                                                                                                  
+| 5-6                 | Cloyster           | Blizz on Cooltrainer's Rhyhorn, delay Elixer to turn 1 on Giovanni's Rhyhorn, (X-spec turn 2), (TB Stall), EQ at anytime if he hits you                                       
+| 7-14                | Machop or later    | Blizz Cooltrainer, X-Spec Turn 1 on Nidoking (TB Stall), EQ at anytime if he hits you                                                 
+| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume until hit, then EQ                                                                                        
+| 23+                 | Exeggcute          | Poké Flute on Victreebel until hit, then EQ   (Razor Leaf will always crit and this is good)                     
 
 
 
@@ -540,6 +541,11 @@ Bike to Erika's gym
 Beauty:
 - Blizz
 
+| HP Entering Erika / After Exeggcute | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
+
 Erika:
 - EQ
 - Blizz
@@ -567,12 +573,18 @@ Sabrina:
 Take the pad before Digging out, Fly to Viridian City, and Bike to the gym
 
 Cooltrainer:
-- EQ
+- **EQ** (unless Weezing did not KO you, then Blizzard)
 
 Blackbelt:
 - X Acc + HD
 - Blizz
 - HD
+
+| HP After Blackbelt | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-24               | Normal strats                                                                                                                                                                                           
+| 25-6               | Stall on Giovanni's **Rhyhorn**: use slot 4 X-Special turn 1, (spam TB if not yet hit), EQ                                  
+| 27-34              | Stall on Giovanni's **Nidoking**: use slot 4 X-Special Turn 1, (spam TB if not yet hit), EQ
 
 Leave the gym and re-enter.
 
@@ -609,13 +621,13 @@ Lorelei:
 - Swap to bird turn 1
 - Swap to Nidoking
 - X Acc + HD x5
-- Note: Option to swap Nidoking and bird pre-fight if you want to save 0-0.5s at the cost of being difficult
 
 ## BRUNO SPLIT
 
 **Menu**
 - Use Max Ether on Horn Drill
-- Only if 1-19, Rare Candy now unless you need the jingle skip
+
+> delay using the Max Ether until turn 2 on Onix if you lost red bar and need the timesave
 
 Bruno:
 - X Acc + HD x5
