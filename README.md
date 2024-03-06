@@ -583,7 +583,7 @@ Blackbelt:
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
 | 1-24               | Normal strats                                                                                                                                                                                           
-| 25-6               | Stall on Giovanni's **Rhyhorn**: use slot 4 X-Special turn 1, (spam TB if not yet hit), EQ                                  
+| 25-26               | Stall on Giovanni's **Rhyhorn**: use slot 4 X-Special turn 1, (spam TB if not yet hit), EQ                                  
 | 27-34              | Stall on Giovanni's **Nidoking**: use slot 4 X-Special Turn 1, (spam TB if not yet hit), EQ
 
 Leave the gym and re-enter.
@@ -599,7 +599,9 @@ Giovanni:
 
 ## LORELEI SPLIT
 
-Super Repel + Bike as soon as you exit the gym
+Get on Bike and use super repel in preferred location
+
+> Boom Strat: If Nido has HP = 28+, Spam TB on Viridian Rival's Rhyhorn until hit. Use X-spec if a Tail Whip lands for the defense badge boost. 
 
 Rival:
 - X Acc + X Speed + Blizz (+ TB)
