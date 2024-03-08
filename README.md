@@ -341,8 +341,8 @@ Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 
 - 2nd Floor
 	- Buy TM07
-	- Buy 7 Super Repels
-	- Buy 4 Super Potions
+	- Buy 7 Super Repel
+	- Buy 4 Super Potion
 - 4th Floor
 	- Buy 1 Poke Doll
 - Roof
@@ -350,9 +350,9 @@ Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 	- Trade it to the girl
 	- Buy a Fresh Water
 - 5th Floor
-	- Buy **10 X Accuracy**  (only if you fought gentleman on boat get 11)
-	- Buy 6 X Specials 
-	- Buy 4 X Speeds
+	- Buy **10** X Accuracy 
+	- Buy 6 X Special 
+	- Buy 4 X Speed
 
 Get HM02 Fly
 
@@ -364,10 +364,10 @@ Get HM02 Fly
 - Down 3 to teach **TM48** (Rock Slide) over slot 1 MP 
 - Swap **S.S. Ticket** for **X Accuracy** (2 below Poke Doll)
 - Down 3 to teach **HM02** (Fly) to bird
-- Fly to Lavender
+- Fly to Lavender (d3)
 
 Lavender Rival:
-- Pidgeott: TB
+- Pidgeotto: TB
 - Gyarados: TB
 - Growlithe: (1-8 hp, use Potion), BB
 - Kadabra: Thrash
@@ -390,7 +390,7 @@ Channeler 3:
 
 Pick up the Rare Candy
 
-Teach TM07 (Horn Drill) over slot 1 if you haven't already
+Teach TM07 (Horn Drill) over slot 1 
 
 **Ghost Menu**
 - Swap slot 3 **HM01** for **Super Repel** (2 below Elixer)
@@ -582,7 +582,7 @@ Blackbelt:
 
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
-| 1-24               | Normal strats                                                                                                                                                                                           
+| 1-24               | Normal strats 
 | 25-26               | Stall on Giovanni's **Rhyhorn**: use slot 4 X-Special turn 1, (spam TB if not yet hit), EQ                                  
 | 27-34              | Stall on Giovanni's **Nidoking**: use slot 4 X-Special Turn 1, (spam TB if not yet hit), EQ
 
@@ -637,7 +637,7 @@ Bruno:
 ## AGATHA SPLIT
 
 **Menu**
-- Use Super Potion (+ Potion if 1-18)
+- Use Super Potion x1-2 (+ Potion if 1-18)
 - Rare Candy
 
 Agatha:
@@ -669,20 +669,20 @@ Lance:
 
 HP     | Strat
 ------ | ------------------
+Any HP | **Heal to 45+** if you do not need red bar to pb
 1      | Super Potion
 2-17   | Potion
-18-21  | Super Potion (yolo if you need red bar to PB)
-22     | Super Potion on insane pace; otherwise don't heal
+18-22  | Super Potion (yolo if you need red bar to PB)
 23-37  | Don't heal
 38-44  | Potion on insane pace; otherwise don't heal
-Any HP | Heal to 45+ or higher if far ahead of PB or you want to play safe
+
 
 Champion:
 - Pidgeot: **X Spec** Turn 1 and adapt:
 	- If Pidgeot does NOT use Sky Attack turn 1:
 		- Pidgeot: X Acc + HD
 		- Alakazam: HD
-		- Rhydon: HD   (if not in red bar Blizz Rhydon and HD Gyarados)
+		- Rhydon: HD 
 		- Gyarados: **TB**
 		- Arcanine: HD
 		- Venusaur: HD
