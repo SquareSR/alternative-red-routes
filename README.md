@@ -140,7 +140,7 @@ Lass:
 - HA x2
 
 Mankey:
-- 1-7: MP (+ PS) OR Potion turn 1 which will lose Instant Text
+- 1-7: MP (+ PS) OR Potion turn 1 which will lose Instant Text, it is not worth going back for IT at this point.
 - 8-27: HA + HA/PS
 - 28+: MP (+ PS)
 
