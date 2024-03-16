@@ -504,9 +504,10 @@ Koga:
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- 
 | 0-1                 | Machamp            | Normal strats                                                                                                   
-| 2-4                 | Lapras             | Skip Menu before Bruno. X-Acc, Max Ether HD on his Onix, then spam HD                                                                                                  
-| 5-6                 | Cloyster           | Blizz on Cooltrainer's Rhyhorn, delay Elixer to turn 1 on Giovanni's Rhyhorn, (X-spec turn 2), (TB Stall), EQ at anytime if he hits you                                       
-| 7-14                | Machop or later    | Blizz Cooltrainer, X-Spec Turn 1 on Nidoking (TB Stall), EQ at anytime if he hits you                                                 
+| 2-4                 | Lapras             | Skip Menu before Bruno. X-Acc, Max Ether HD on his Onix, then spam HD                                                                        
+| **5-14              | ...                | Blizz on Cooltrainer's Rhyhorn, Gio's Rhyhorn: Elixer (+Bliz)   
+| 5-6                 | Cloyster           | If no dmg, modify Viridian Rival. Pidg: X-Acc, Blizz + TB. VR Rhyhorn, X-Speed + Horn Drill
+| 7-14                | Machop or later    | Gio's Nidoking: X-Spec Turn 1 on Nidoking (TB Stall), EQ at anytime if he hits you or Lands a Tail Whip                               
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume until hit, then EQ                                                                                        
 | 23+                 | Exeggcute          | Poké Flute on Victreebel until hit, then EQ   (Razor Leaf will always crit and this is good)                     
 
@@ -573,7 +574,7 @@ Sabrina:
 Take the pad before Digging out, Fly to Viridian City, and Bike to the gym
 
 Cooltrainer:
-- **EQ** (unless Weezing did not KO you, then Blizzard)
+- **EQ** (unless you lived Weezing on 5-14 hp, then Blizzard instead)
 
 Blackbelt:
 - X Acc + HD
@@ -582,14 +583,14 @@ Blackbelt:
 
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
-| 1-24               | Normal strats 
-| 25-26               | Stall on Giovanni's **Rhyhorn**: use slot 4 X-Special turn 1, (spam TB if not yet hit), EQ                                  
-| 27-34              | Stall on Giovanni's **Nidoking**: use slot 4 X-Special Turn 1, (spam TB if not yet hit), EQ
+| 1-24               | Normal strats - use Elixer before Giovanni like normal.
+| 25-26              | Gio's Rhyhorn: Elixer + Blizz, then play the fight normal.
+| 27-34              | Gio's Rhyhorn: Elixer + Blizz, if no dmg then stall on Nidoking: X-Spec Turn 1, (+ TB Stall), EQ at anytime if he hits you or Lands a Tail Whip 
 
 Leave the gym and re-enter.
 
 **Menu** one step back into the gym
-- Use slot 6 - Elixer
+- Use slot 6 - Elixer  *unless you have 25+ HP.
 
 Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
 
@@ -601,7 +602,7 @@ Giovanni:
 
 Get on Bike and use super repel in preferred location
 
-> Boom Strat: If Nido has HP = 28+, Spam TB on Viridian Rival's Rhyhorn until hit. Use X-spec if a Tail Whip lands for the defense badge boost. 
+> Boom Strat: If Nido has HP = 28+, modify Viridian Rival. Pidg: X-Acc, Blizz + TB. VR Rhyhorn, X-Speed + Horn Drill.
 
 Rival:
 - X Acc + X Speed + Blizz (+ TB)
