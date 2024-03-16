@@ -503,11 +503,9 @@ Koga:
 
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- 
-| 0-1                 | Machamp            | Normal strats                                                                                                   
-| 2-4                 | Lapras             | Skip Menu before Bruno. X-Acc, Max Ether HD on his Onix, then spam HD                                                                        
-| **5-14              | ...                | Blizz on Cooltrainer's Rhyhorn, Gio's Rhyhorn: Elixer (+Bliz)   
-| 5-6                 | Cloyster           | If no dmg, modify Viridian Rival. Pidg: X-Acc, Blizz + TB. VR Rhyhorn, X-Speed + Horn Drill
-| 7-14                | Machop or later    | Gio's Nidoking: X-Spec Turn 1 on Nidoking (TB Stall), EQ at anytime if he hits you or Lands a Tail Whip                               
+| 0-1                 | Machamp            | Normal Strats                                                                                                   
+| 2-4                 | Lapras             | Normal Strats, possible stall on Bruno if no dmg is taken                                                    
+| **5-14              | ...                | Normal Erika, Use Blizzard on Cooltrainer's Rhyhorn in Giovanni's Gym; Stall on Giovani.            
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume until hit, then EQ                                                                                        
 | 23+                 | Exeggcute          | Poké Flute on Victreebel until hit, then EQ   (Razor Leaf will always crit and this is good)                     
 
@@ -581,18 +579,22 @@ Blackbelt:
 - Blizz
 - HD
 
-| HP After Blackbelt | Overview of Strategy                                                                                                       
-| ------------------- | --------------------------------------    
-| 1-24               | Normal strats - use Elixer before Giovanni like normal.
-| 25-26              | Gio's Rhyhorn: Elixer + Blizz (or EQ if you take dmg or get hit by TW), then play the fight normal.
-| 27-31              | Gio's Rhyhorn: Blizz, Gio's Nidoking: X-Spec Turn 1 + EQ, Elixer turn 1 on Rhydon
-| 31-34		     | Gio's Rhyhorn: Blizz, Gio's Nidoking: Elixer Turn 1 + EQ
-
+> Take note of your HP and your Blizzard count.
 
 Leave the gym and re-enter.
 
-**Menu** one step back into the gym
-- Use slot 6 - Elixer  *unless you have 25+ HP.
+| HP After Blackbelt | Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-24               | Use Slot 6 Elixer one step back in and play Gio normally.
+| 25-26              | Delay using Elixer go straight into Giovanni.
+| 27-31              | If 0 Blizzards, use Slot 6 Elixer one step back in; otherwise Delay using Elixer.
+| 31-34		     | Delay using Elixer.
+
+| HP After Blackbelt | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 25-26              | Gio's Rhyhorn: Elixer + Blizz or EQ, then play the fight normal.
+| 27-31              | Gio's Rhyhorn: Blizz; Gio's Nidoking: X-Spec Turn 1 + EQ, Elixer turn 1 on Rhydon
+| 31-34		     | Gio's Rhyhorn: Blizz or EQ if 0 Blizz; Gio's Nidoking: Elixer Turn 1, (if tackle miss use X-Spec / TB Stall), then EQ.
 
 Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
 
