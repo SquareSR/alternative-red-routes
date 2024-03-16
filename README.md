@@ -584,8 +584,10 @@ Blackbelt:
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
 | 1-24               | Normal strats - use Elixer before Giovanni like normal.
-| 25-26              | Gio's Rhyhorn: Elixer + Blizz, then play the fight normal.
-| 27-34              | Gio's Rhyhorn: Elixer + Blizz, if no dmg then stall on Nidoking: X-Spec Turn 1, (+ TB Stall), EQ at anytime if he hits you or Lands a Tail Whip 
+| 25-26              | Gio's Rhyhorn: Elixer + Blizz (or EQ if you take dmg or get hit by TW), then play the fight normal.
+| 27-31              | Same as above, then Gio's Nidoking: X-Spec Turn 1 + Blizz (EQ turn 1 if hit by TW earlier, EQ turn 2 if dmg'd by nido).
+| 31-24		     | Same as above, but continue to TB stall Turn 2+ on Gio's Nidoking until dmg'd or hit by TW, then EQ.
+
 
 Leave the gym and re-enter.
 
