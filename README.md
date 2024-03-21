@@ -583,18 +583,14 @@ Blackbelt:
 
 Leave the gym and re-enter.
 
-| HP After Blackbelt | Strategy                                                                                                       
-| ------------------- | --------------------------------------    
-| 1-24               | Use Slot 6 Elixer one step back in and play Gio normally.
-| 25-26              | Delay using Elixer go straight into Giovanni.
-| 27-31              | If 0 Blizzards, use Slot 6 Elixer one step back in; otherwise Delay using Elixer.
-| 31-34		     | Delay using Elixer.
-
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
+| 1-24               | Use Slot 6 Elixer before Giovanni and play normal.
 | 25-26              | Gio's Rhyhorn: Elixer + Blizz or EQ, then play the fight normal.
-| 27-31              | Gio's Rhyhorn: Blizz; Gio's Nidoking: X-Spec Turn 1 + EQ, Elixer turn 1 on Rhydon
+| 27-31*              | Gio's Rhyhorn: Blizz; Gio's Nidoking: X-Spec Turn 1 + EQ, Elixer turn 1 on Rhydon
 | 31-34		     | Gio's Rhyhorn: Blizz or EQ if 0 Blizz; Gio's Nidoking: Elixer Turn 1, (if tackle miss use X-Spec / TB Stall), then EQ.
+
+> *Elixer before Giovanni at 27-31 hp if 0 Blizz left.
 
 Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
 
