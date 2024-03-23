@@ -35,8 +35,8 @@ Leave the gym and re-enter.
 | 32+		             | Rhyhorn: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
 
 > With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.   
-> If Rhyhorn hits you or lands a tail whip, always Elixer right away (if you didn't already before the fight).
-> If Rhyhorn does not hit you and does not land a tail whip, the best option is typically to EQx3 and Elixer turn 1 on Nidoking even if this risks being KO'd by thrash.   
+> (1) If Rhyhorn **hits you or lands a tail whip**, always Elixer right away (if you didn't already before the fight).
+> (2) Otherwise, EQx3 and Elixer turn 1 on Nidoking even if this risks being KO'd by thrash.   
 
 ## Viridian Rival
 
