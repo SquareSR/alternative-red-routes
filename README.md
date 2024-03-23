@@ -502,12 +502,15 @@ Koga:
 - https://pastebin.com/BMQQYcEV
 
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
-| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- 
+| ------------------- | ------------------ | -----------------------------------------------
 | 0-1                 | Machamp            | Normal Strats                                                                                                   
-| 2-4                 | Lapras             | Normal Strats, possible stall on Bruno if no dmg is taken                                                    
-| **5-14              | ...                | Normal Erika, Use Blizzard on Cooltrainer's Rhyhorn in Giovanni's Gym; Stall on Giovani.            
-| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume until hit, then EQ                                                                                        
-| 23+                 | Exeggcute          | Poké Flute on Victreebel until hit, then EQ   (Razor Leaf will always crit and this is good)                     
+| 2-4                 | Lapras             | Normal until Bruno; Use Max Ether turn 2 on Bruno                                                   
+| *5-14               | ...                | Normal until Gio;  Blizz on Cooltrainer's Rhyhorn         
+| 5-6                 | Cloyster           | Elixer on Gio's Rhyhorn
+| 7-11                | Rhydon/Grolithe    | X-Spec on Gio's Nidoking
+| 12-14               | Machop             | Elixer on Gio's Nidoking
+| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
+| 23+                 | Exeggcute          | Poké Flute on Victreebel                     
 
 
 
@@ -540,7 +543,7 @@ Bike to Erika's gym
 Beauty:
 - Blizz
 
-| HP Entering Erika / After Exeggcute | Overview of Strategy                                                                                                       
+| HP Entering Erika / On Exeggcute | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------                                            
 | 25-32               | Poké Flute on Vileplume until hit                                                                          
 | 33+                 | Poké Flute on Victreebel until hit   
@@ -585,10 +588,10 @@ Leave the gym and re-enter.
 
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
-| 1-24               | Use Slot 6 Elixer before Giovanni and play normal.
-| 25-26              | Gio's Rhyhorn: Elixer + Blizz or EQ, then play the fight normal.
-| 27-31*              | Gio's Rhyhorn: Blizz; Gio's Nidoking: X-Spec Turn 1 + EQ, Elixer turn 1 on Rhydon
-| 31-34		     | Gio's Rhyhorn: Blizz or EQ if 0 Blizz; Gio's Nidoking: Elixer Turn 1, (if tackle miss use X-Spec / TB Stall), then EQ.
+| 1-24                | Play Normal.
+| 25-26               | Gio's Rhyhorn: Elixer + Blizz or EQ, then play normal.
+| 27-31*              | Gio's Rhyhorn: Blizz (+EQ); Gio's Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit** (Elix on Rhydon if you haven't already)
+| 32+		      | Gio's Rhyhorn: Blizz or EQ; Gio's Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
 
 > *Elixer before Giovanni at 27-31 hp if 0 Blizz left.
 
@@ -602,7 +605,10 @@ Giovanni:
 
 Get on Bike and use super repel in preferred location
 
-> Boom Strat: If Nido has HP = 28+, modify Viridian Rival. Pidg: X-Acc, Blizz + TB. VR Rhyhorn, X-Speed + Horn Drill.
+| HP After Giovanni | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-27                | Play Normal.
+| 28+                 | modify Viridian Rival. Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + Horn Drill
 
 Rival:
 - X Acc + X Speed + Blizz (+ TB)
@@ -630,7 +636,7 @@ Lorelei:
 **Menu**
 - Use Max Ether on Horn Drill
 
-> delay using the Max Ether until turn 2 on Onix if you lost red bar and need the timesave
+> delay using the Max Ether until turn 2 on Onix if you lost red bar on Lorelei
 
 Bruno:
 - X Acc + HD x5
