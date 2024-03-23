@@ -34,6 +34,10 @@ Leave the gym and re-enter.
 | 27-31*             | Rhyhorn: Blizz (+EQ); Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit** (Elix on Rhydon if you haven't already)
 | 32+		             | Rhyhorn: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
 
+> With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.   
+> If Rhyhorn hits you or lands a tail whip, always Elixer right away (if you didn't already before the fight).
+> If Rhyhorn does not hit you and does not land a tail whip, the best option is typically to EQx3 and Elixer turn 1 on Nidoking even if this risks being KO'd by thrash.   
+
 ## Viridian Rival
 
 | HP After Giovanni | Overview of Strategy                                                                                                       
