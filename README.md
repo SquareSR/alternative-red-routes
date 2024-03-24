@@ -64,8 +64,8 @@ Bug Catcher 3:
 	- Spam HA, finish with Tackle
 
 Hop the ledge to enter grass quickly to catch a flyer:
-- Tackle then toss a Ball at any flyer except L8 Pidgey where you HA then toss a Ball
-- Exception: If only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
+- Tackle then toss a Ball at any flyer except L8 Pidgey where you HA or Leer+Tachkle then toss a Ball
+- Step back and forth at a rate of about 3 steps per second. 
 
 ## MT. MOON SPLIT
 
@@ -79,9 +79,9 @@ Menu before PoY Manip:
 Rocket: (strategy depends on HA count)
 
 - Heal on Zubat if
-	- 1-7 at @-0; 1-16 if confused
-	- 1-11 at @-1; 1-26 if confused
-	- 1-13 at @-2; if confused either yolo or consider swap if bird/Squirtle have low HP
+	- 1-7 at @-0;    1-16 if confused
+	- 1-11 at @-1;   1-26 if confused
+	- 1-13 at @-2; 
 - 2 HA:
 	- Rat: Leer + HA + Tackle (or PS)
 	- Zubat: Leer + Tackle + HA (+ Tackle)
@@ -95,7 +95,7 @@ Rocket: (strategy depends on HA count)
 	- Rat: HA x2 (+ PS)
 	- Zubat: HA x2-3 (+ Tackle)
 
-**Moon Menu** immediately after defeating Rocket (can take 1-2 steps before menuing for easier movement)
+**Moon Menu** immediately after defeating Rocket
 - Toss Poke Balls
 - Use Rare Candy
 - Teach TM12 (Water Gun) in slot 2
@@ -114,10 +114,12 @@ If you still need to catch Paras:
 
 ## BRIDGE SPLIT
 
-Take the center then get Instant Text then get the hidden Rare Candy
+- Take the center
+- Get Instant Text
+- Get the hidden Rare Candy
 
-Bridge Rival: Swapping is a lot of timeloss; only consider swap if 2+ Sand-Attacks & you are far ahead of PB
-- Pidgeotto: HA x2 + HA or MP (Lead MP if you got moon exp)
+Bridge Rival:
+- Pidgeotto: HA x3
 - Abra: HA
 - Rat: MP
 - Bulba: MP + HA (finish with MP if Growl)
@@ -131,9 +133,10 @@ Lass:
 - HA x2
 
 Youngster:
-- MP (use HA if miss into Tail Whip hit)
+- MP  (use HA on Rat if miss into Tail Whip hit)
 - MP (+ PS)
 - MP (HA if you got Moon Exp)
+> Always HA Zubat if you got Moon Exp
 
 Lass:
 - MP (+ PS)
@@ -142,7 +145,7 @@ Lass:
 Mankey:
 - 1-7: MP (+ PS) OR Potion turn 1 which will lose Instant Text, it is not worth going back for IT at this point.
 - 8-27: HA + HA/PS
-- 28+: MP (+ PS)
+- 28+: MP (+ PS) (go for the one-shot to save health)
 
 Rocket:
 - MP
@@ -174,7 +177,7 @@ Lass: Ideally save 2+ MP for after this fight
 - Teach Thrash in slot 2 over WG
 
 **Bill Menu**
-- Slot 1 - Potion
+- Slot 1 - Potion to ~55+ HP
 	- **1-14:** 3 Potions or take the center after using Escape Rope
 	- **15-34:** 2 Potions
 	- **35-54:** 1 Potion
@@ -243,10 +246,10 @@ Vermilion Mart
 - Up 1 - Teach TM28 (Dig) to Paras
 
 Use Cut and do Cans Manip
-- Surge Cans Manip:
+- Surge Cans Manip
 
 Surge:
-> If ever confused on Raichu swap to bird or Squirtle, unless you can live hit self
+> If ever confused on Raichu swap to bird or Squirtle, unless you can live hit self. If you do live a hit self, then thrashing while confused is not a risk when Raichu is one hit away, b/c hit self does not lock us into thrash. We can safely "yolo" a thrash to either A. Send us into red bar before swapping or B. Hit through and there is no need to swap. Both options save time. 
 - Voltorb:
 	- 1-20: Thrash x1-2
 	- 21-24: HA + BB
