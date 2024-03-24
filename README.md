@@ -586,14 +586,18 @@ Blackbelt:
 
 Leave the gym and re-enter.
 
+> *Elixer before Giovanni at 27-31 hp if 0 Blizz left.
+
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
-| 1-24                | Play Normal.
-| 25-26               | Gio's Rhyhorn: Elixer + Blizz or EQ, then play normal.
-| 27-31*              | Gio's Rhyhorn: Blizz (+EQ); Gio's Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit** (Elix on Rhydon if you haven't already)
-| 32+		      | Gio's Rhyhorn: Blizz or EQ; Gio's Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
+| 1-24               | Play Normal.
+| 25-26              | Rhyhorn: Elixer + Blizz or EQ, then play normal.
+| 27-31*             | Rhyhorn: Blizz (+EQ); Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit** (Elix on Rhydon if you haven't already)
+| 32+		     | Rhyhorn: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
 
-> *Elixer before Giovanni at 27-31 hp if 0 Blizz left.
+> With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.   
+> (1) If Rhyhorn **hits you or lands a tail whip**, always Elixer right away (if you didn't already before the fight).
+> (2) Otherwise, EQx3 and Elixer turn 1 on Nidoking.   
 
 Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
 
@@ -610,7 +614,7 @@ Get on Bike and use super repel in preferred location
 | 1-27                | Play Normal.
 | 28+                 | modify Viridian Rival. Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + Horn Drill
 
-Rival:
+Viridian Rival:
 - X Acc + X Speed + Blizz (+ TB)
 - HD x5
 
