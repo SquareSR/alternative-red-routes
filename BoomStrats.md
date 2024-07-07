@@ -21,18 +21,21 @@
 
 ## After Blackbelt
 > Take note of your HP and your Blizzard count.
-Leave the gym and re-enter.
 
-> *Still use Elixer before Giovanni at 27-31 hp if 0 Blizz are left.
+Leave the gym and re-enter.   
+
+> Delay Elixer with 25+ hp unless:    
+> if you have 0 Blizz left and 27-31 hp, (then use Elixer one step back into gym)      
+
 
 ## Giovanni
 
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
 | 1-24               | Play Normal.
-| 25-26              | Rhyhorn: Elixer + Blizz or EQ, then play normal.
-| 27-31*             | Rhyhorn: Blizz (+EQ); Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit** (Elix on Rhydon if you haven't already)
-| 32+		             | Rhyhorn: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
+| 25-26              | **Rhyhorn**: Elixer + Blizz or EQ, then play normal.
+| 27-31*             | **Rhyhorn**: Blizz (+EQ);  **Nidoking**: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit**;  **Rhydon**: (Elixer) + Blizz
+| 32+		             | **Rhyhorn**: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
 
 > With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.   
 > (1) If Rhyhorn **hits you or lands a tail whip**, always Elixer right away (if you didn't already before the fight).
@@ -43,8 +46,8 @@ Leave the gym and re-enter.
 | HP After Giovanni | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
 | 1-27                | Play Normal.
-| 28+                 | modify Viridian Rival. Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + Horn Drill
+| 28+                 | modify **Viridian Rival**: Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + then play normal
 
 ## Bruno 
 
-- if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on Onix
+> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix
