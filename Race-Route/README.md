@@ -194,7 +194,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - MP (+ PS)
 - HA x2
 
-**Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15, healing is an option but is slow because you lose IT]
+**Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15]
 | HP    | Strategy        |
 | ----- | --------------- |
 | 1-15   | Potion before fight  |
