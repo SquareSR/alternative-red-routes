@@ -325,7 +325,7 @@ Get the Bike Voucher and use Dig on Paras
 - Thrash x3
 
 
-#### Venonat
+**Bug Catcher:**
 | HP           | Strategy                    |
 | ------------ | --------------------------- |
 | 1-4          | BB x2 and Potion on Venonat |
@@ -334,7 +334,6 @@ Get the Bike Voucher and use Dig on Paras
 | 19, 22+      | BB + Thrash                 |
 
    
-**Bug Catcher:**
 - BB (Thrash if you fought the Gentleman)
 - Thrash
 
