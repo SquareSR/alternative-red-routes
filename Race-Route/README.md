@@ -3,7 +3,6 @@
 
 ### Good documents
 - [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
-- [Backup Boom Strats](https://github.com/SquareSR/alternative-red-routes/blob/main/BoomStrats.md)
 
 ### Before you start
 - Clear any existing save file by pressing Up + B + Select on the game title screen
