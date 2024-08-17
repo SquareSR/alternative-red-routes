@@ -3,6 +3,7 @@
 
 ### Good documents
 - [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
+- [Backup Boom Strats](https://github.com/SquareSR/alternative-red-routes/blob/main/BoomStrats.md)
 
 ### Before you start
 - Clear any existing save file by pressing Up + B + Select on the game title screen
@@ -81,7 +82,7 @@ Menu:
 	- Leer + HA x2
 - Ekans: [1-4 Potion, or 1-5 at -2 defense]
 	- Leer + HA x2
-		- Potion turn 1 of Wrap if you don't live 4 or 5 turn Wrap
+		- always potion immediately after wrap hits
 
 **Bug Catcher 2:**
 - Weedle:
@@ -109,7 +110,7 @@ Catch a flyer:
 
 ## Mount Moon
 
-- Do Goon Manip into PoY
+- Do [Goon Manip into PoY](https://pastebin.com/GU0uriYw)
 
 Menu before walking in front of the Rocket:
 - Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
@@ -131,7 +132,7 @@ Menu before walking in front of the Rocket:
 	- Rat: HA x2 (+ PS)
 	- Zubat: HA x3 (+ Tackle)
 
-#### Moon Rocket Zubat *When to Potion
+#### Moon Man Zubat *When to Potion
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
@@ -139,6 +140,7 @@ Menu before walking in front of the Rocket:
 | -2   |      1-13     | Yolo or swap to a low HP mon |
 
 Menu right away or two steps after defeating Mt Moon Man:
+- Toss Pokeballs (if you haven't already & have Paras)
 - Use Rare Candy
 - Teach TM12 (Water Gun) over Tackle (slot 2)
 - Use Moon Stone
@@ -154,7 +156,11 @@ If you encounter a Paras or a Geodude, faint it for EXP (PS for Paras, WG for Ge
 - Koffing: MPx2 or HA + MP
 
 
-If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
+If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
+- Use the same intro buffer as Route 3 Manip (Palette Hold)
+- <img src="https://i.imgur.com/rRnoayt.png">
+- <img src="https://i.imgur.com/MFBagiA.png">
+
 
 ## Nugget Bridge
 
