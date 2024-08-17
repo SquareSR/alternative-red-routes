@@ -581,6 +581,11 @@ Menu at the bottom of the water:
 
 Bike to the gym
 
+| HP On Exeggcute     | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
+
 **Beauty:**
 - Blizz
 
