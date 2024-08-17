@@ -547,7 +547,18 @@ In the Safari Zone:
 - EQ x3
 - Elixer on Weezing
 	- If Koga used X Attack, scroll up 2 and use X Spec until you die
-	- If you didn't die from Koga you can still try to get red bar by following the [intermediate backups](https://pastebin.com/BMQQYcEV). 
+
+| HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
+| ------------------- | ------------------ | -----------------------------------------------
+| 0-1                 | Machamp            | Normal Strats                                                                                                   
+| 2-4                 | Lapras             | Normal until Bruno; Use Max Ether turn 2 on Bruno instead of b4 fight                                       
+| 5-6                 | Cloyster           | Normal until Bruno; Use Max Ether turn 2 on Bruno instead of b4 fight
+| 7-11                | Rhydon/Grolithe    | X-Spec on Gio's Nidoking, (TB until hit), then EQ
+| 12-14               | Machop             | X-Spec on Gio's Nidoking, (TB until hit), then EQ
+| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
+| 23+                 | Exeggcute          | Poké Flute on Victreebel                      
+
+	
 
 Menu after Koga:
 - Use all Rare Candies
@@ -628,7 +639,7 @@ Leave the gym to reset the trainer
 Menu after entering the gym again:
 - Elixer
 
-> If 27+ hp, use an X-Special on Nidoking, then TB stall until hit if necessary. 
+> If 27+ hp, use an X-Special on Nidoking, (TB stall if needed until he hits you), then EQ and play normal 
 
 **Giovanni:**
 - EQ x4
