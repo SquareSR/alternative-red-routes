@@ -167,7 +167,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - Use the center & do NOT get instant text, instead go get the rare candy after centering.
 - Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
 
-**Bridge Rival:**
+**Bridge Rival:** (Swap to bird against the Rat and/or Potion Nido under 22 hp to be safe) 
 - Pidgeotto: HA x3 (if you get some bad rolls use MP to kill)
 	- If you get hit by 2 Sand-Attacks swap to your bird and let it die
 		- Try to put Pidgeotto in HA range before doing this to avoid getting Sand-Attacked again after swapping back
@@ -179,6 +179,8 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **BC:**
 - MP (+ PS)
 - MP (if you missed MP into String Shot hit use HA)
+
+> Potion before any fight if under 25 hp (this saves us from having to potion in fight and getting heal looped)
 
 **Lass:**
 - MP (+ PS)
@@ -196,10 +198,11 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15, healing is an option but is slow because you lose IT]
 | HP    | Strategy        |
 | ----- | --------------- |
-| 1-8   | Potion before fight  |
-| 8-15  | Potion turn 1   |
-| 16-27 | HA + HA       |
+| 1-15   | Potion before fight  |
+| 16-27 | HA + HA/PS       |
 | 28+   | MP (+ PS)       |
+
+> Always potion before Rocket if under 10 hp here.
 
 **Rocket:**
 - MP
@@ -245,7 +248,8 @@ Menu after Bill:
 	- If you are ever alive and confused swap to another poke (Squirlte) and let it be KO'd
 
 If 1-15 hp after Misty (or 16-24 and you want to play really safely):
-- Potion
+- Pickup the hidden full restore in the underground and use it right away.
+- <img src="https://i.imgur.com/jaosL5j.png">
 
 ## Vermilion City
                                
@@ -258,17 +262,17 @@ If 1-15 hp after Misty (or 16-24 and you want to play really safely):
 If 1-12 hp after this fight:
 - Potion before Rival
 
-**Boat Rival:**
+**Boat Rival:** 
 - Pidgeotto:
-	- HA x2 (HA + BB if taught; Potion turn 2 if 1-6)
+	- HA x2 (Potion turn 2 if 1-6)
 	- If you get Sand-Attacked swap to another pokemon and let it die
 - Rat:
-	- 1-17 Potion
-	- 18-22 MP
-	- 23+ HA + PS
+	- 1-17 **Potion**
+	- 18-22 **MP**
+	- 23+ **HA + PS**
 - Kadabra:
-	- 1-12 HA Kadabra & Potion turn 1 on Ivysaur, then Thrash
-	- 13+ Thrash Kadabra
+	- 1-12 **HA** Kadabra & Potion turn 1 on Ivysaur, then Thrash
+	- 13+ **Thrash** Kadabra
 
 Talk to the Captain to get HM01
 
@@ -276,7 +280,7 @@ Depending of your HP, you may fight the Gentleman in [this room](https://gunnerm
 
 | HP    | Strategy                                |
 | ----- | --------------------------------------- |
-| 1     | Do Gentleman and/or use a Potion in Cut Menu  |
+| 1     | Do Gentleman and use a Potion in Cut Menu  |
 | 2-11   | Do Gentleman                            |
 | 12-24  | Do Gentleman if you want to play safely |
 
@@ -299,7 +303,7 @@ Surge Cans Manip
 **Surge**
 - Voltorb:
 	- 1-24 Thrash
-	- 25+ BB + HA
+	- 25+ BBx2
 - Pikachu:
 	- Thrash
 - Raichu:
@@ -319,8 +323,8 @@ Get the Bike Voucher and use Dig on Paras
 
 **4 Turn Thrash Girl:**
 - MP
-- Thrash
-	- If you run out of MP just Thrash, you will be 25% to hit yourself on the last poke
+- Thrash x3
+
 
 #### Venonat
 | HP           | Strategy                    |
@@ -349,12 +353,14 @@ Menu after taking 1 step down:
 **Pokemaniac 2:**
 - TB
 
-**SAVE THE GAME before Oddish Girl:** unless you got Gentleman Candy
+**If under 43 hp, SAVE THE GAME before Oddish Girl:** unless you got Gentleman Candy
 - If you fought the Gentleman, Thrash turn 1. The ranges are guaranteed
 - If 18-22 hp TB + Thrash
 	- If you get put to sleep, Potion at 1-5
 	- If paralyzed, keep using Thrash
 - Otherwise, just Thrash at any other hp
+
+> Remember that if you die and reset to redo the fight, then you must repel right away after the fight. This doesn't matter though, we have tons of extra repel steps.
 
 After the fight:
 - Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
@@ -375,7 +381,7 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 > Potion before Gambler under 9 hp
                            
 **Gambler:**                           
-- Growlithe: BB  
+- Growlithe: BB (+ Thrash)
 - Vulpix: Thrash  
 
 ## Underground
@@ -598,6 +604,7 @@ Dig out and Bike to Sabrina's gym
 ## Saffron City
 
 Teleporter puzzle: Top left, Bottom left, Bottom left
+> Diagonal, Diagonal, Down
 
 **Sabrina:**
 - EQ x4
@@ -606,10 +613,10 @@ Walk back to the teleporter and Dig out and Fly to
 
 ## Viridian City
 
-**Cooltrainer:**
+**Cooltrainer monkaS:**
 - EQ
 
-[OPTIONAL SAVE: This next fight has a decent chance to die, and reviving will lose red bar so saving is advised]
+[SAVE: This next fight has a decent chance to die, and reviving will lose red bar so saving is advised]
 
 **Blackbelt:**
 - X Acc + HD
@@ -620,6 +627,8 @@ Leave the gym to reset the trainer
 
 Menu after entering the gym again:
 - Elixer
+
+> If 27+ hp, use an X-Special on Nidoking, then TB stall until hit if necessary. 
 
 **Giovanni:**
 - EQ x4
@@ -664,12 +673,13 @@ Don't deposit extra pokes unless you have no more Revives
 
 Before Bruno use a Max Ether on HD
 
+> Delay the Max Ether to turn 2 on Onix if you lost red bar on Lorelei
+
 **Bruno:**
 - X Acc + HD x5
 
 Menu before Agatha:
-- 1-18 Super Potion x 2 + Potion
-- 19+ Super Potion x 2
+- Super Potion x 2
 - Use the **Rare Candy**.
 
 **Agatha:**
