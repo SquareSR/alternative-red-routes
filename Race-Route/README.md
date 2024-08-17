@@ -330,12 +330,9 @@ Get the Bike Voucher and use Dig on Paras
 | ------------ | --------------------------- |
 | 1-4          | BB x2 and Potion on Venonat |
 | 5-14         | BB + Thrash                 |
-| 15-18, 20-21 | BB x4                       |
-| 19, 22+      | BB + Thrash                 |
+| 15-21 | BB x4                       |
+| 22+      | BB + Thrash                 |
 
-   
-- BB (Thrash if you fought the Gentleman)
-- Thrash
 
 ## Rock Tunnel
 
