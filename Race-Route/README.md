@@ -553,7 +553,7 @@ In the Safari Zone:
 | 0-1                 | Machamp            | Normal Strats                                                                                                   
 | 2-4                 | Lapras             | Normal until Bruno; Use Max Ether turn 2 on Bruno instead of b4 fight                                       
 | 5-6                 | Cloyster           | Normal until Bruno; Use Max Ether turn 2 on Bruno instead of b4 fight
-| 7-11                | Rhydon/Grolithe    | X-Spec on Gio's Nidoking, (TB until hit), then EQ
+| 7-11                | Rhydon/Growlithe    | X-Spec on Gio's Nidoking, (TB until hit), then EQ
 | 12-14               | Machop             | X-Spec on Gio's Nidoking, (TB until hit), then EQ
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
 | 23+                 | Exeggcute          | Poké Flute on Victreebel                      
