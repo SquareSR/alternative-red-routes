@@ -360,7 +360,7 @@ Menu after taking 1 step down:
 	- If paralyzed, keep using Thrash
 - Otherwise, just Thrash at any other hp
 
-> Remember that if you die and reset to redo the fight, then you must repel right away after the fight. This doesn't matter though, we have tons of extra repel steps.
+> Remember that if you die and reset to redo the fight, then you must repel right away after the fight. This doesn't matter much though, we have tons of extra repel steps. Either use your next repel at the start of the room with the hiker or simply use it once your repel runs out to be safe. 
 
 After the fight:
 - Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
