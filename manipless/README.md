@@ -1,4 +1,4 @@
-# Pokemon Red Glitchless Classic Guide
+# INCOMPLETE - Pokemon Red Glitchless Manipless Guide
 
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- TOOLS: Download "Red Classic Helper"
@@ -400,12 +400,19 @@ Gambler (Potion turn 1 if you're likely to die):
 - Vulpix: Thrash
 
 Underground: pick up the hidden Elixer.
+Pick up the Nugget.
 
 **Celadon Mart**
 
-2F - Clerk on the left hand side
+2F - 
+- Sell Nugget
+- Buy TM07
 - Buy 10 Super Repels
 - Buy 3-4 Super Potions
+- Buy 2 Revives // no lift key and no silph scope, still need one more item for Koga
+
+Up2
+- Buy Pokedoll
 
 6F - Rooftop Vending Machine
 - Buy 1 Soda Pop
@@ -413,36 +420,31 @@ Underground: pick up the hidden Elixer.
 - Give the Soda Pop to the girl first in exchange for TM48 Rock Slide and then one Fresh Water for TM13 Ice Beam
 
 5F - Clerk on the left hand side
-- Buy 13 X Accuracy
-- Buy 1-3 X Special
+- Buy 11-12 X Accuracy
+- Buy 1-2 X Special
 - Buy 5-6 X Speed
 
 Take the elevator to the first floor.
 
-Fly Menu:
+Fly Menu: // has to change to use srepel and teach rock slide
+- swap SS with TM07, srepel, teach RS
+- swap slot3 w/ X-Acc, teach Fly
+- Fly
+- Up to teach TM13 to nido
+- Walk to Lavender Tower
+
 - Swap slot 2 S.S. Ticket, down 12 with X Accuracy
 - Down 3 teach HM02 Fly to bird
 - Up 4 to place cursor on TM13
-- Fly to Celadon (down 1)
+- Fly to Lavender (down 3)
 - Teach TM13 Ice Beam to Nidoking over slot 4
 - Bike to the Game Corner
 
 ## HIDEOUT SPLIT
 
-Poster Grunt:
-- Raticate: Thrash x1-2
-- Zubat: Thrash
-
-Lift Key Rocket:
-- Koffing: Thrash x2 (if no Thrashes or 8+ SPC: IB + TB)
-- Zubat: Thrash or TB
-
-Get the Lift Key, the Rare Candy, and TM07.
-
-Take the elevator to B4F.
-
-Grunt Menu:
+Ghost Menu:
 - Swap slot 3 Potion, down 6 with Super Repel
+- Use Pokedoll
 - Down 3 teach TM48 Rock Slide over slot 2
 - Use slot 3 Super Repel
 - Down 3 swap Helix Fossil down 8 with X Speed
