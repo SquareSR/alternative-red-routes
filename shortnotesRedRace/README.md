@@ -64,7 +64,7 @@ Options: Battle Style to Set before leaving Brock's gym
 
 
 - F36/F37 Backups
-<img src="https://i.imgur.com/ARcgCOc.jpeg" width="800">  
+<img src="https://i.imgur.com/ARcgCOc.jpeg" width="500">  
 
 - Geo IGT, Pal Tap
 <img src="https://i.imgur.com/JFegsFF.png">  
