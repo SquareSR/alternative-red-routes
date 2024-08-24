@@ -9,7 +9,7 @@
  
 Bird Paths    
     
-<img src="https://i.imgur.com/rRnoayt.png">   
+<img src="https://i.imgur.com/899HQPn.png">   
     
     
 ## Viridian Forest  
