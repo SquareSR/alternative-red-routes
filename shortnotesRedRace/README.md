@@ -2,9 +2,11 @@
 
 ## Pallet
 
-> Potion
-> Pokeball
-> Antidote
+> Potion    
+   
+> Pokeball   
+   
+> Antidote    
             
                                         
 **Rival 1:**
