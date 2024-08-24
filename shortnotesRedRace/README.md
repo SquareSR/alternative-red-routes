@@ -50,15 +50,14 @@ Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
 
-**Bug Catcher 1:**
-- Caterpie: Leer + HA x2 (+ Tackle)
-- Weedle: Leer + HA x2
-	- Leer + HA + Tackle if you got String Shot hit OR Tackle will always kill
-- Caterpie: Leer + HA + Tackle
+#### Shorts Guy Rat (16 is 1/39 QA crit)
+> Potion under 16 hp
 
-Menu:
-- Potion to 28+
-- Toss Antidote if you still have it
+#### Shorts Guy Ekans
+| HP@0 or -1   | HP@-2 |  HP@-3 | Strategy |
+| -----  | ----- | ----- | -------- |
+|  5   |  6  |  7  |  Potion |
+
 
 **Shorts Guy:**
 - Rat: [1-15 Potion]
