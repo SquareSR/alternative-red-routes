@@ -58,61 +58,23 @@ Options: Battle Style to Set before leaving Brock's gym
 | -----  | ----- | ----- | -------- |
 |  5   |  6  |  7  |  Potion |
 
-
-**Shorts Guy:**
-- Rat: [1-15 Potion]
-	- Leer + HA x2
-- Ekans: [1-4 Potion, or 1-5 at -2 defense]
-	- Leer + HA x2
-		- always potion immediately after wrap hits
-
-**Bug Catcher 2:**
-- Weedle:
-	- HA x2 (Tackle is a range to kill turn 2)
-- Kakuna:
-	- Spam HA, finish with Tackle
-- Caterpie: [1-5 Potion]
-	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
-- Metapod:
-	- HA x2 + Tackle
-
-#### Before Bug Catcher 3
-| HP   | Healing Strategy  |
-| ---- | ----------------- |
-| 1-5  | Potion x2         |
-
-**Bug Catcher 3:**
-- Caterpie:
-	- HA x2
-- Metapod: (Note: You want at least 3 HAs for after this fight)
-	- Spam HA, finish with Tackle
-
-Catch a flyer:
-- Tackle then toss a Ball at any flyer (except L8 Pidgey where you Leer + Tackle then toss a Ball)
-
 ## Mount Moon
 
-- Do [Goon Manip into PoY](https://pastebin.com/GU0uriYw)
+- Do Route 3 Moon Manip
 
-Menu before walking in front of the Rocket:
-- Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
-- Potion to 36+
-- Save the game
 
-**Mt Moon Man:**
-- This fight will change depending on how many Horn Attacks you have left
-- 2 HA:
-	- Rat: Leer + HA + Tackle (or PS turn 3 if Tail Whip hit or PS always kills)
-	- Zubat: Leer + Tackle + HA (+ Tackle)
-- 3 HA:
-	- Rat: HA x2 (+ PS)
-	- Zubat: Leer + Tackle + HA (+ Tackle)
-- 4 HA:
-	- Rat: HA x2 (+ PS)
-	- Zubat: Leer + HA x2
-- 5+ HA:
-	- Rat: HA x2 (+ PS)
-	- Zubat: HA x3 (+ Tackle)
+- F36/F37 Backups
+<img src="https://i.imgur.com/dLmcWbh.png">  
+
+- Geo IGT, Pal Tap
+<img src="https://i.imgur.com/JFegsFF.png">  
+
+- Late IGT, hold A
+
+<img src="https://i.imgur.com/RgVnoMx.png">  
+
+- Post Hiker v2
+<img src="https://i.imgur.com/dLmcWbh.png">   
 
 #### Moon Man Zubat *When to Potion
 | DEF  | Not confused  | Confused      |
