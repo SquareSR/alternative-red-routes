@@ -5,42 +5,41 @@
 - GET PC POTION                                
                                         
 **Rival 1:**
-- Potion under 5 hp
+> Potion under 5 hp
  
 Bird Paths    
+> Slot 2 Yolo Ball   
     
 <img src="https://i.imgur.com/899HQPn.png">   
     
     
 ## Viridian Forest  
-             
-- pick up the Antidote and the hidden Potion in the forest
 
 **Weedle Guy:**
-- Heal under 8 hp
+> Heal under 8 hp
 
-If you were poisoned do the following:
-- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
-- Antidote
-- 1-15 Potion
+## Exit Forest
 
-## Pewter City
+Backup Bird
+> Save w/npc on screen, pal hold
 
-Shopping:
-- 7 Potions
+<img src="https://i.imgur.com/FwrPLqS.png">   
 
-If you weren't poisoned do the following:
-- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
-- 1-15 Potion and toss Antidote
-- [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
+#### Before Brock & on Geodude
+| DEF  |  HP   | Healing Strategy    |
+| ---- | ----- | ------------------- |
+| 15   | 1-15  | Potion              |
+| 16   | 1-14  | Potion              |
+| 17   | 1-13  | Potion              |
+|      | Stats | Check Defense at L9 |
 
-**Brock:**
-- Geodude [1-8 Potion]
-	- Swap to Squirtle, then spam Bubble
-- Onix [1-12 Potion]
-	- Swap to Squirtle
-		- IF ONIX USES BIDE: Tail Whip x2
-	- Spam Bubble
+#### On Onix
+| DEF  | HP@0  | HP@-2 | HP@-4 |
+| ---- | ----- | ----- | ----- |
+|  16  | 1-13  | 1-14  | 1-20  |
+|  17  | 1-12  | 1-14  | 1-20  |
+|  18  | 1-12  | 1-12  | 1-20  |
+|  19  | 1-12  | 1-12  | 1-17  |
 
 Options: Battle Style to Set before leaving Brock's gym
 
