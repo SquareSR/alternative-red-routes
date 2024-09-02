@@ -308,6 +308,21 @@ Surge Cans Manip
 - Raichu:
 	- If you are confused and dead to a self hit, swap to your bird or Squirtle
 
+</td><td>
+
+Pikachu [17.6%] | Quick Attack
+--------------- | ------------
+&nbsp;          | 4-5 [6-8]
+
+</td><td>
+
+Raichu            | Self Hit
+----------------- | --------
+&nbsp;            | 14
+w/Growl           | 9
+w/Screech         | 29
+w/Screech & Growl | 17
+
 Get the Bike Voucher and use Dig on Paras
 
 ## Cerulean City
@@ -366,6 +381,8 @@ After the fight:
 **Hiker:**
 - BB x3
 
+> Potion before if under 6 hp or under 10 hp to be safe against QA crit
+
 **Jr Trainer F:**
 - Thrash
 
@@ -418,14 +435,17 @@ Menu after getting Fly:
 
 Note: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of X items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
+> if needed Revives are Slot 13, which is 3 below Helix Fossil
+
 **Rival:**
 - Pidgeotto:
 	- 1-8 hp Potion turn 1, TB right away at 9+ hp
   - (scroll up to X Accuracy turn 2 only if you get Sand-Attacked)
 	- TB
-- TB
-- BB
-- Thrash x 2-3
+- Gyarados: TB
+- Growlithe: BB  (or Pot if under 9 hp)
+- Kadabra: Thrash x1
+- Ivy: Thrash x2
 
 [Tower Movement Map](https://imgur.com/gallery/Yf2tY3u)
 
