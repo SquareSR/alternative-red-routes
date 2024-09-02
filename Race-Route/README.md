@@ -695,6 +695,7 @@ Enter Victory Road and solve the puzzles.
 ## E4
 
 Don't deposit extra pokes unless you have no more Revives
+> note that revives are just 2 below HM01, pretty high up in the bag and easy to access if KO'd by Bruno, Agatha, or Champ
 
 **Lorelei:**
 - Dewgong:
