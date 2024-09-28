@@ -33,18 +33,18 @@ Backup Bird
 #### Before Brock & on Geodude
 | DEF  |  HP   | Healing Strategy    |
 | ---- | ----- | ------------------- |
-| 15   | 15  | Potion              |
-| 16   | 14  | Potion              |
-| 17   | 13  | Potion              |
+| 15   | 1-15  | Potion              |
+| 16   | 1-14  | Potion              |
+| 17   | 1-13  | Potion              |
 |      | Stats | Check Defense at L9 |
 
 #### On Onix
 | DEF  | HP@0  | HP@-2 | HP@-4 |
 | ---- | ----- | ----- | ----- |
-|  16  | 13  | 14  | 20  |
-|  17  | 12  | 14  | 20  |
-|  18  | 12  | 12  | 20  |
-|  19  | 12  | 12  | 17  |
+|  16  | 1-13  | 14  | 20  |
+|  17  | 1-12  | 14  | 20  |
+|  18  | 1-12  | 12  | 20  |
+|  19  | 1-12  | 12  | 17  |
 
 Options: Battle Style to Set before leaving Brock's gym
 
@@ -56,7 +56,7 @@ Options: Battle Style to Set before leaving Brock's gym
 #### Shorts Guy Ekans
 | HP@0 or -1   | HP@-2 |  HP@-3 | Strategy |
 | -----  | ----- | ----- | -------- |
-|  5   |  6  |  7  |  Potion |
+|  1-5   |  6  |  7  |  Potion |
 
 ## Mount Moon
 
