@@ -261,11 +261,11 @@ If 1-15 hp after Misty (or 16-24 and you want to play really safely):
 | 21-24 | HA + BB or Thrash   |
 | 25+   | BB + HA/BB + Thrash |
 
-- Raichu: hit self damage:
-		- 14 damage
-		- 9 damage w/ Growl
-		- 28 damage w/ Screech
-		- 21 damage w/ both
+- Raichu: hit self damage:           
+		- 14 damage         
+		- 9 damage w/ Growl         
+		- 28 damage w/ Screech       
+		- 21 damage w/ both          
   
 
 ### Fly Split
