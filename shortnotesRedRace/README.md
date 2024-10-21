@@ -2,11 +2,11 @@
 
 ## Pallet
 
-> Potion    
+- Slot 1 - Potion    
    
-> Pokeball   
+- Slot 2 - Pokeball   
    
-> Antidote    
+- Slot 3 - Antidote    
             
                                         
 **Rival 1:**
