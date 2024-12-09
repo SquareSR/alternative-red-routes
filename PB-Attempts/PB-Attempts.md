@@ -65,7 +65,7 @@ Bird Paths
 
 #### Bridge Rival
 
-img src="https://i.imgur.com/pFyHKZv.png" width="250"
+<img src="https://i.imgur.com/pFyHKZv.png" width="250">
 
 #### Bridge Rival Rat ( HA after two Tail Whips)
 
