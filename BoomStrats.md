@@ -24,8 +24,8 @@
 
 Leave the gym and re-enter.   
 
-> Delay Elixer with 25+ hp unless:    
-> if you have 0 Blizz left and 27-31 hp, (then use Elixer one step back into gym)      
+> Delay Elixer with 25+ hp.    
+> Exception: if 0 Blizz left and 27-31 hp, (then use Elixer one step back into gym)      
 
 
 ## Giovanni
@@ -48,8 +48,8 @@ Leave the gym and re-enter.
 | 1-27                | Play Normal.
 | 28+                 | modify **Viridian Rival**: Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + then play normal
 
-> 25-27 can also modify Viridian Rival like above if desparate; otherwise, do the Bruno Stall below if needed
+> 25-27 can also modify Viridian Rival like above if desperate; otherwise, do the Bruno Stall below if needed
 
 ## Bruno 
 
-> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix
+> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
