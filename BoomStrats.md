@@ -48,6 +48,8 @@ Leave the gym and re-enter.
 | 1-27                | Play Normal.
 | 28+                 | modify **Viridian Rival**: Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + then play normal
 
+> 25-27 can also modify Viridian Rival like above if desparate; otherwise, do the Bruno Stall below if needed
+
 ## Bruno 
 
 > if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix
