@@ -430,8 +430,8 @@ Bike Menu:
 
 <img src="https://i.imgur.com/gs5N4V5.png">
 
-- **Pokemaniac 1:**: BB, TB
-- **Pokemaniac 2:**: TB
+- **Pokemaniac 1**: BB, TB
+- **Pokemaniac 2**: TB
 - Oddish Girl (w/Gentleman Candy): Thrash, Thrash
 - **Oddish Girl (w/out Gentleman): if under 43 hp, SAVE THE GAME before the fight** 
     - 18-22 HP: TB + Thrash (otherwise, Thrash turn 1)
