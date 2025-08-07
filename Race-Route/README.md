@@ -311,7 +311,7 @@ If you picked up the Great Ball because you ahve Pidgey and no Paras, then menu 
 - Scroll back up to the top of the bag
 - then swap Great Ball to Slot 1
 - Save, Hard Reset, Normal Intro Buffer, No A presses, Normal Yolo Ball
-<img src="https://i.imgur.com/AJkWygf.png" width="100">
+<img src="https://i.imgur.com/AJkWygf.png" width="125">
 
 **Jr Trainer F:**
 - Thrash
