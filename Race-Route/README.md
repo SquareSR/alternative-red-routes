@@ -23,9 +23,8 @@
 > SPD: 10-11    
 > SPC: 11 or 12    
 >     
-> 10 ATK --> TW x3 on Weedle Guy.      
-> 11 SPC might be bad SPC     
-                                        
+> 10 ATK --> TW x3 on Weedle Guy.
+                                       
 ## Viridian City
 
 Get EXP from one L2 or L3 encounter in Route 1 (spam Tackle)
