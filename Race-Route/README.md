@@ -714,7 +714,7 @@ Walk back to the teleporter and Dig out and Fly (U1) to Viridian and Bike to the
 **Cooltrainer Rhyhorn**
 - EQ
 
-[SAVE: This next fight has a decent chance to die, and reviving will lose red bar so saving is advised]
+[Save before Blackbelt]
 
 **Blackbelt:**
 - Machoke: X Acc + HD
