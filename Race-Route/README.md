@@ -63,9 +63,6 @@ Nidoran Manip
 > Note DEF: 15, 16, 17     
 > Note 13 SPC --> Bad SPC       
 
-
-
-
 If you were PSN'd, menu right away:
 - Swap Nido and Squirtle
 - 1-15 HP: Potion
@@ -86,7 +83,7 @@ If not PSN'd, menu in Brock's Gym:
 - Swap Nido and Squirtle 
 - 1-15 HP: Potion 
 - Toss Antidote
-- [SAVE IF YOU HAVE BAD SPECIAL]
+- [Save if you have bad Special and no bird]
 
 > Use your Defense stat @L8 to decide when to Potion    
 > if you don't check, then assume 15 DEF @ L8      
@@ -104,22 +101,24 @@ If not PSN'd, menu in Brock's Gym:
 	- Say yes, swap back to Nido
 - Onix: Swap to Squirtle, then spam Bubble
 	- If Bide: TW x2
-    - If bad SPC, Bubble once into Bide, either yolo or swap to bird if caught one.
+    - If bad SPC + you Bubbled once into Bide, either yolo or swap to bird to sac if you have one.
 
 Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
 
-> if under 10 HP on BC1's Weedle, us a Potion on Nido after using Leer
+> if under 10 HP on BC1's Weedle, use a Potion on Nido in fight on the Weedle after using Leer
 
 **Bug Catcher 1:**
 - Caterpie: Leer + HA x2 (+ Tackle)
 - Weedle: Leer + HA + HA/Tackle
-- Caterpie: Leer + Tackle + HA
+   - Alternate Weedle: Leer + Tackle x3
+   - (if you gen 1 missed 1st Caterpie or have a huge lead early)  
+- Caterpie: Leer + Tackle + HA (+ Tackle)
 
 Menu:
-- Potion to 28+
-- Toss Antidote if you still have it
+- Potion to 28+ HP
+- Toss Antidote (if you still have it)
 
 **Shorts Guy:**
 - Rat: [1-15 Potion]
@@ -127,9 +126,6 @@ Menu:
 - Ekans: [1-5 Potion, or 1-6 at -2 defense]
 	- Leer + HA x2
 		- almost always potion immediately after wrap hits
-
-> If low on HAs, it's okay to use two Tackles to finish Kakuna   
-> Tackle always finishes BC2's Metapod if you outsped initially   
 
 **Bug Catcher 2:**
 - Weedle:
