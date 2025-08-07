@@ -721,13 +721,14 @@ Walk back to the teleporter and Dig out and Fly (U1) to Viridian and Bike to the
 - Machop: Blizz (or EQ if 0 Blizz left)
 - Machoke: HD
 
-Leave the gym to reset the trainer.
+> Leave the gym to reset the trainer      
+> Take one step up and buffer Start     
 
-Menu after entering the gym again:
-- Elixer
+**Menu**:
+- Slot 6 Elixer (3 below Super Repel)
 
 > Backup Boom Strats note:     
-> If 27+ hp, use S4 X-Special turn 1 against **Giovanni's Nidoking**,     
+> If 27+ hp, use Slot 4 X-Special turn 1 against **Giovanni's Nidoking**,     
 > (TB stall if needed until he hits you), then EQ and play normal.     
 
 **Giovanni:**
