@@ -25,7 +25,7 @@
 >     
 > 10 ATK --> TW x3 on Weedle Guy.
                                        
-## Viridian City
+## Parcel Quest
 
 If you get a L2 or L3 encounter, spam Tackle to get EXP   
 > run from L3 Pidgey on the first pass of Route 1    
