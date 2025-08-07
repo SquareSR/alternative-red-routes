@@ -213,22 +213,18 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - Use the center (& do NOT get instant text).
 - Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
 
-**Bridge Rival:** 
+**Bridge Rival:**
 
-> Potion Nido if under 18 HP on Bird, under 22 hp on Rat, under 15 (+3 if LS) on Bulba to be safe. 
-
-- Pidgeotto: HA x3
-    - MP turn 3 if HA can't KO
-    - Gust/QA crit is 15-18
-    - Sand Attack x1 --> keep spamming HA & adapt
+- **Pidgeotto**: HA x2 + HA or MP
+    - Sand Attack x1
+         - 31+ HP: spam HA & plan to swap to Bird on Rat and spam gust/peck to let bird be KO'd
          - 1-30 HP: Swap to Squirtle, Potion Nido, Spam TW until Squirtle is KO'd
-         - 31+ HP: Keep spamming HA, plan to swap to Bird on Rat and let it be KO'd
     - Sand Attack x2+
-         - if Pidgeotto is in HA one-shot range: swap to Bird and let it be KO'd
-         - otherwise, swap to Squirtle, either spam TW and/or Potion Nido and let it be KO'd
-- Abra: HA
-- Rat: MP [Potion under 22 HP]
-- Bulba: MP + HA (or MP) [Potion under 15 or 18 if seeded, unless HA KOs] 
+         - if Pidgeotto is in HA one-shot range: Swap to Bird and let it be KO'd
+         - otherwise, Swap to Squirtle, (Potion Nido if needed), spam TW to let Squirtle be KO'd
+- **Abra**: HA
+- **Rat**: MP [Potion under 22 HP]
+- **Bulba**: MP + HA (or MP) [Potion under 15 (or 18 if seeded), unless HA KOs] 
 
 **BC:**
 - MP (+ PS)
@@ -268,9 +264,15 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Bottom Hiker:**
 - WG
 
+> 1-10 HP: Potion
+
 **Lass:**
 - MP
-- HA x2
+- HA x2 (1-6 HP: Potion)
+
+> if 1-7 HP: Potion before Hiker    
+> if 16-20 HP @L22    
+> HA + PS Machop    
 
 **Hiker:**
 - WG
@@ -281,8 +283,8 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Lass:**
 - MP
 - HA
-- MP (HA if you fought the extra Moon encounter)
-	- Teach Thrash over Water Gun (slot 2)
+- MP (or use Thrash if you can)
+	- Teach Thrash over WG (slot 2)
 
 Menu after Bill:
 - Use Rare Candy
@@ -293,18 +295,22 @@ Menu after Bill:
 - Use the center & once again do NOT get instant text 
 
 **Dig Rocket:**
-- Thrash
+- Thrash x1-2
+- THrash x1-2
 
 **Jr Trainer F:**
-- Thrash
+- Thrash x2
 
-**optional potion to full if damage was taken, SAVE THE GAME, and talk to Misty:**
-- Thrash
-	- If you are ever alive and confused swap to another poke (Squirlte) and let it be KO'd
+**Potion to near full if too much damage was taken, SAVE THE GAME, and talk to Misty:**
+- Thrash x1, Thrash x2-3
+	- If confused on Starmie after X-Defend,
+    - then swap to Squirlte and spam TW to let it be KO'd.
+
 
 If 1-15 hp after Misty (or 16-24 and you want to play really safely):
 - Pickup the hidden full restore in the underground and use it right away.
-- <img src="https://i.imgur.com/jaosL5j.png">
+<img src="https://i.imgur.com/jaosL5j.png">
+- If you need to save time and have enough Potions, then 1-15 HP: Use Potion.   
 
 ## Vermilion City
                                
@@ -314,22 +320,27 @@ If 1-15 hp after Misty (or 16-24 and you want to play really safely):
 **Jr Trainer M:**
 - Thrash
 
-If 1-12 hp after this fight:
-- Potion before Rival
+If 1-12 HP (or 1-21 HP to be safe):
+- Potion before Boat Rival
 
 **Boat Rival:** 
 - Pidgeotto:
-	- HA x2 (Potion turn 2 if 1-6)
-	- If you get Sand-Attacked swap to another pokemon and let it die
-- Rat:
-	- 1-17 **Potion**
-	- 18-22 **MP**
-	- 23+ **HA + PS**
+	- HA x2 [1-12 HP: Potion]
+	- Sand Attack x1
+        -  1-12 HP: Swap to Squirtle, Potion Nido, Spam TW to let Squirtle be KO'd.
+        -  13-22 HP: Spam HA & plan to swap to Squirtle on Raticate (may be able to Pot Nido).
+        -  23+ HP: spam HA & plan to swap to bird on Raticate. 
+    - Sand Attack x2+
+        - Swap to Bird/Squirtle and let them be KO'd 
+- Raticate:
+	- 1-12 HP: **Potion**
+    - 13-22 HP: **Potion** [or MP (which risks Hyper Fang crit)]
+	- 23+ HP: **HA + PS**
 - Kadabra:
-	- 1-12 **HA** Kadabra & Potion turn 1 on Ivysaur, then Thrash
-	- 13+ **Thrash** Kadabra
+	- 1-12 HP: **HA** Kadabra & Potion turn 1 on Ivysaur, then Thrash
+	- 13+ HP: **Thrash** Kadabra
 
-Talk to the Captain to get HM01
+Talk to the Captain to get HM01.
 
 Depending of your HP, you may fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
@@ -339,21 +350,18 @@ Depending of your HP, you may fight the Gentleman in [this room](https://gunnerm
 | 2-11   | Do Gentleman                            |
 | 12-24  | Do Gentleman if you want to play safely |
 
-> Important note for shopping: **always buy items in the order that they are listed in this guide**. Doing so is both the fastest way to buy the items and sets up our inventory in the correct order.  
+Vermillion Mart:
+- 6 Repels
+- 4 Parlyz Heals
 
-Shopping:
-- Buy:
-	- 6 Repels
-	- 4 Parlyz Heals
-
-Menu before Cut bush:
-- Teach TM11 (Bubblebeam) over PS (slot 4)
+Cut Menu:
+- Teach TM11 (BB) over Slot 4 (PS)
 - [Rare Candy if you fought the Gentleman]
-- Teach HM01 to Paras
+- Teach HM01 (Cut) to Paras
 - Teach TM28 (Dig) to Paras
 - Use Cut
 
-Surge Cans Manip     
+Do Cans Manip
 
 **Surge**
 - Voltorb:
@@ -379,17 +387,22 @@ w/Growl           | 9
 w/Screech         | 29
 w/Screech & Growl | 17
 
-Get the Bike Voucher and use Dig on Paras
+Exit gym, Cut the tree, get the Bike Voucher, and Dig out. 
 
 ## Cerulean City
 
 - Get the Bike
-- Menu:
-	- Swap (using select) slot 1 with the Bike
-	- Teach TM24 (Thunderbolt) over HA (slot 3)
-	- Use the Bike
+Bike Menu:
+  - Swap Slot 1 Potion d9 w/ Bike
+  - U1 Teach TM24 (TB) over Slot 3 (HA)
+  - Use the Bike
 
 ## Route 9
+
+> Quick Reference     
+> SLot 7: Repel (3 below Nugget)     
+> Slot 8: Parlyz Heal     
+> Slot 9: Potion (3 below HM01)     
 
 **4 Turn Thrash Girl:**
 - MP
@@ -407,7 +420,13 @@ Get the Bike Voucher and use Dig on Paras
 
 ## Rock Tunnel
 
-[Map of both floors](https://imgur.com/gallery/uoueIjq)
+> Quick Reference     
+> SLot 7: Repel (3 below Nugget)     
+> Slot 8: Parlyz Heal     
+> Slot 9: Potion (3 below HM01)    
+
+<img src="https://i.imgur.com/gs5N4V5.png">
+
 
 Menu after taking 1 step down:
 - Scroll down and use a Repel
