@@ -14,11 +14,17 @@
                                         
 **Rival 1:**
 - TW (+TW if growl turn 1) + spam Tackle
-- Potion if under 6 HP
+- 1-5 HP: Use Potion
 
-> if 10 ATK @L6, TW x3 on Weedle Guy.   
-> (11-12 ATK is normal)    
-> 11 SPC might be bad SPC
+> L6 Squirtle Stats    
+> HP: 21-23    
+> ATK 10 or 11-12    
+> DEF: 12 or 13-14    
+> SPD: 10-11    
+> SPC: 11 or 12    
+>     
+> 10 ATK --> TW x3 on Weedle Guy.      
+> 11 SPC might be bad SPC     
                                         
 ## Viridian City
 
