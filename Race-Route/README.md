@@ -611,8 +611,13 @@ Menu before Snorlax:
 
 **Safari Zone**:
 - Use Slot 3 Super Repel in Zone 2 shown below:
+
+
 <img src="https://i.imgur.com/vV1rLdL.png">
-- Pick up the [Gold Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get HM03 (Surf) in the house.
+
+
+- Pick up the Gold Teeth and get HM03 (Surf) in the house.
+
 - Exit the house, Dig out of the Safari Zone, Fly (D2) back to Fuschia City, and walk into the gym. 
 
 **Juggler 1:**
