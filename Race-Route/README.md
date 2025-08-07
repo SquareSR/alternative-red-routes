@@ -190,7 +190,8 @@ Menu 1-2 steps after defeating Moon Man:
 - Use Moon Stone
 - Teach TM01 (MP) over Leer (slot 1)  
 
-> If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude). This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve some ranges.
+> If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude).      
+> This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve some ranges and let you HA both Bridge Zubat + usually Thrash final Oddish.        
 
 - Talk to the Nerd
 
