@@ -1,11 +1,14 @@
 # Race Route - 6 Repel & 2 Max Ether
 
-
-### Good documents
+### Resources 
 - [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
+- [Defensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
+- [Offensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
+- [racetime.gg](https://racetime.gg/)
 
 ### Before you start
 - Use Up + B + Select to clear save data.
+- Hard reset + set the requested palette (if applicable)
 - Set options to Fast Text and Animations OFF
 
 ## Pallet Town
