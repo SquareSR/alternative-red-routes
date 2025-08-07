@@ -13,21 +13,23 @@
 - GET PC POTION                                
                                         
 **Rival 1:**
-- Tail Whip + spam Tackle
+- TW (+TW if growl turn 1) + spam Tackle
+- Potion if under 6 HP
 
-| HP   | Healing Strategy          |
-| ---- | ------------------------- |
-| 1-5  | Potion                    |
+> if 10 ATK @L6, TW x3 on Weedle Guy.   
+> (11-12 ATK is normal)    
+> 11 SPC might be bad SPC
                                         
 ## Viridian City
 
-Get XP from one encounter in Route 1
-- During the parcel quest kill one encounter from a level 2 Rat, level 3 Rat, or a level 2 Pidgey. You can fight level 3 Pidgeys but you will take a bit of damage if you have a lower attack (10-11 at level 6) Squirtle. This early XP will get you Bubble for Brock
+Get EXP from one L2 or L3 encounter in Route 1 (spam Tackle)
+> run from L3 Pidgey on the way up 
 
 Shopping:
 - 5 Poke Balls 
 
-Nidoran Manip - SWAP POTION & POKEBALL BEFORE SAVING unless performing a slot 2 yoloball
+Nidoran Manip
+> SWAP POTION & POKEBALL BEFORE SAVING unless performing a slot 2 yoloball
 
 - Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
@@ -36,41 +38,60 @@ Nidoran Manip - SWAP POTION & POKEBALL BEFORE SAVING unless performing a slot 2 
 - pick up the Antidote and the hidden Potion in the forest
 
 **Weedle Guy:**
-- Tail Whip x2 + spam Tackle [1-6 Potion]
+- Tail Whip x2 + spam Tackle [1-7 Potion]
 - Check your leveled up stats after this fight, if you have 13 special you have bad special, if you have 14 or 15 you have good special
+- Defense is 15, 16, or 17 (assume bad defense if you don't check)
 
-If you were poisoned do the following:
-- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
+If you were PSN'd, menu right away:
+- Swap Nido and Squirtle
+- 1-15 HP: Potion
 - Antidote
-- 1-15 Potion
 
 ## Pewter City
 
 Shopping:
 - 7 Potions
 
-If you weren't poisoned do the following:
-- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
-- 1-15 Potion and toss Antidote
-- [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
+If not PSN'd, menu in Brock's Gym:
+- Swap Nido and Squirtle 
+- 1-15 HP: Potion 
+- Toss Antidote
+- [SAVE IF YOU HAVE BAD SPECIAL]
+
+> Assume low defense if you don't know your defense. 
+
+#### Before Brock & on Geodude
+| DEF  |  HP   | Healing Strategy    |
+| ---- | ----- | ------------------- |
+| 15   | 1-15  | Potion              |
+| 16   | 1-14  | Potion              |
+| 17   | 1-13  | Potion              |
+|      | Stats | Check Defense at L9 |
+
+#### On Onix
+| DEF  | HP@0  | HP@-2 | HP@-4 |
+| ---- | ----- | ----- | ----- |
+|  16  | 1-13  | 1-14  | 1-20  |
+|  17  | 1-12  | 1-14  | 1-20  |
+|  18  | 1-12  | 1-12  | 1-20  |
+|  19  | 1-12  | 1-12  | 1-17  |
 
 **Brock:**
-- Geodude [1-8 Potion]
-	- Swap to Squirtle, then spam Bubble
-- Onix [1-12 Potion]
-	- Swap to Squirtle
-		- IF ONIX USES BIDE: Tail Whip x2
-	- Spam Bubble
+- Geodude: Swap to Squirtle, then spam Bubble
+	- Say yes, swap back to Nido
+- Onix: Swap to Squirtle, then spam Bubble
+	- IF ONIX USES BIDE: Tail Whip x2
 
 Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
 
+> if under 10 HP on BC1's Weedle, us a Potion on Nido after using Leer
+
 **Bug Catcher 1:**
 - Caterpie: Leer + HA x2 (+ Tackle)
-- Weedle: Leer + HA x2
-	- Leer + HA + Tackle if you got String Shot hit OR Tackle will always kill
-- Caterpie: Leer + HA + Tackle
+- Weedle: Leer + HA + HA/Tackle
+- Caterpie: Leer + Tackle + HA
 
 Menu:
 - Potion to 28+
@@ -79,47 +100,52 @@ Menu:
 **Shorts Guy:**
 - Rat: [1-15 Potion]
 	- Leer + HA x2
-- Ekans: [1-4 Potion, or 1-5 at -2 defense]
+- Ekans: [1-5 Potion, or 1-6 at -2 defense]
 	- Leer + HA x2
-		- always potion immediately after wrap hits
+		- almost always potion immediately after wrap hits
+
+> If low on HAs, it's okay to use two Tackles to finish Kakuna   
+> Tackle always finishes BC2's Metapod if you outsped initially   
 
 **Bug Catcher 2:**
 - Weedle:
-	- HA x2 (Tackle is a range to kill turn 2)
+	- HA + HA/Tackle
 - Kakuna:
-	- Spam HA, finish with Tackle
+	- HAx2 + HA or Tackle x1-2
 - Caterpie: [1-5 Potion]
 	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
 - Metapod:
-	- HA x2 + Tackle
+	- HA x2 + Tackle (only HA turn 3 if you were slower)
 
 #### Before Bug Catcher 3
 | HP   | Healing Strategy  |
 | ---- | ----------------- |
 | 1-5  | Potion x2         |
 
+> ideally we want at least 3 HA left after BC3
+
 **Bug Catcher 3:**
-- Caterpie:
-	- HA x2
-- Metapod: (Note: You want at least 3 HAs for after this fight)
-	- Spam HA, finish with Tackle
+- Caterpie: HA x2
+- Metapod: Spam HA, finish with Tackle
 
 Catch a flyer:
-- Tackle then toss a Ball at any flyer (except L8 Pidgey where you Leer + Tackle then toss a Ball)
+- Bird: Tackle, then throw balls
+- If you have 5+ HA left, HA L8 Pidgey; otherwise
+- L8 Pidgey: Leer + Tackle, then throw balls
 
 ## Mount Moon
 
-- Do [Goon Manip into PoY](https://pastebin.com/GU0uriYw)
+- Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
 
 Menu before walking in front of the Rocket:
 - Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
-- Potion to 36+
-- Save the game
+- Potion to 36+ HP
+- SAVE THE GAME
 
 **Mt Moon Man:**
 - This fight will change depending on how many Horn Attacks you have left
 - 2 HA:
-	- Rat: Leer + HA + Tackle (or PS turn 3 if Tail Whip hit or PS always kills)
+	- Rat: Leer + HA + Tackle (or PS turn 3 if TW hit or PS always kills)
 	- Zubat: Leer + Tackle + HA (+ Tackle)
 - 3 HA:
 	- Rat: HA x2 (+ PS)
@@ -136,41 +162,45 @@ Menu before walking in front of the Rocket:
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
 | -1   |      1-11     |     1-26      |
-| -2   |      1-13     | Yolo or swap to a low HP mon |
+| -2   |      1-13     | Yolo or swap to a low-HP-mon |
 
-Menu right away or two steps after defeating Mt Moon Man:
-- Toss Pokeballs (if you haven't already & have Paras)
+Menu 1-2 steps after defeating Moon Man:
+- Toss Pokeballs (if you haven't already & have a Paras)
 - Use Rare Candy
-- Teach TM12 (Water Gun) over Tackle (slot 2)
+- Teach TM12 (WG) over Tackle (slot 2)
 - Use Moon Stone
-- Teach TM01 (Mega Punch) over Leer (slot 1)  
+- Teach TM01 (MP) over Leer (slot 1)  
 
-If you encounter a Paras or a Geodude, faint it for EXP (PS for Paras, WG for Geodude). This [Moon EXP](https://pastebin.com/8gP8HZY9) will improve some ranges.
+If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude). This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve some ranges.
 
 - Talk to the Nerd
 
 **Super Nerd:** (if you are out of HA just MP instead)
 - Grimer: MP + WG or HA
 - Voltorb: MP + PS
-- Koffing: MPx2 or HA + MP
+- Koffing: MPx2 or HA + MP (or WG if turn 1 crit)
 
 
 If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-- Use the same intro buffer as Route 3 Manip (Palette Hold)
+- Use the same intro buffer as Route 3 Manip (PAL Hold)
 - <img src="https://i.imgur.com/rRnoayt.png">
 - <img src="https://i.imgur.com/MFBagiA.png">
 
+> If you somehow do not have a Paras, pick up the [hidden great ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty.
 
 ## Nugget Bridge
 
-- Use the center & do NOT get instant text, instead go get the rare candy after centering.
+- Use the center (& do NOT get instant text).
 - Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
 
-**Bridge Rival:** (Swap to bird against the Rat and/or Potion Nido under 22 hp to be safe) 
-- Pidgeotto: HA x3 (if you get some bad rolls use MP to kill)
+**Bridge Rival:** 
+
+> Potion Nido if under 22 hp to be safe. 
+
+- Pidgeotto: HA x2 + HA or MP turn 3 if low rolled twice
 	- If you get hit by 2 Sand-Attacks swap to your bird and let it die
 		- Try to put Pidgeotto in HA range before doing this to avoid getting Sand-Attacked again after swapping back
-		- Get IT again after the fight
+        - If you get hit by 1 Sand-Attack try to fight through and swap on Rat 
 - Abra: HA
 - Rat: MP
 - Bulba: MP + HA (MP if you get Growled or miss a bunch into Leech Seed healing)
@@ -188,7 +218,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Youngster:**
 - MP
 - MP (+ PS)
-- MP (HA if you fought the extra Moon encounter)
+- MP (HA if you KO'd a Moon encounter)
 
 **Lass:**
 - MP (+ PS)
