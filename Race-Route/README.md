@@ -414,8 +414,8 @@ Bike Menu:
 | ------------ | --------------------------- |
 | 1-4          | BB x2 and Potion on Venonat |
 | 5-14         | BB + Thrash                 |
-| 15-21 | BB x4                       |
-| 22+      | BB + Thrash                 |
+| 15-21        | BB x4                       |
+| 22+          | BB + Thrash                 |
 
 
 ## Rock Tunnel
@@ -423,53 +423,36 @@ Bike Menu:
 > Quick Reference     
 > SLot 7: Repel (3 below Nugget)     
 > Slot 8: Parlyz Heal     
-> Slot 9: Potion (3 below HM01)    
+> Slot 9: Potion (3 below HM01)     
+> (10+ tiles of wiggle room on 2nd/3rd Repel in either direction)    
 
 <img src="https://i.imgur.com/gs5N4V5.png">
 
+- **Pokemaniac 1:**: BB, TB
+- **Pokemaniac 2:**: TB
+- Oddish Girl (w/Gentleman Candy): Thrash, Thrash
+- **Oddish Girl (w/out Gentleman): if under 43 hp, SAVE THE GAME before the fight** 
+    - 18-22 HP: TB + Thrash (otherwise, Thrash turn 1)
+	- Sleep --> Potion under 6 HP.
+    - Para --> Keep Thrashing, but Potion under 14 HP
+         - Do not use the para heal in fight, use it in the next Repel Menu
+- **Hiker:**: BB x3
 
-Menu after taking 1 step down:
-- Scroll down and use a Repel
-
-**Pokemaniac 1:**
-- BB
-- TB
-
-**Pokemaniac 2:**
-- TB
-
-**If under 43 hp, SAVE THE GAME before Oddish Girl:** unless you got Gentleman Candy
-- If you fought the Gentleman, Thrash turn 1. The ranges are guaranteed
-- If 18-22 hp TB + Thrash
-	- If you get put to sleep, Potion at 1-5
-	- If paralyzed, keep using Thrash
-- Otherwise, just Thrash at any other hp
-
-> Remember that if you die and reset to redo the fight, then you must repel right away after the fight. This doesn't matter much though, we have tons of extra repel steps. Either use your next repel at the start of the room with the hiker or simply use it once your repel runs out to be safe. 
-
-After the fight:
-- Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
-- Use another Repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
-	- If you were paralyzed, use a Parlyz Heal now
-	- You can delay these 2 Repels up to ~10 tiles
-
-**Hiker:**
-- BB x3
-
-> Potion before if under 6 hp or under 10 hp to be safe against QA crit
+> 1-5 HP: Potion before Jr. Trainer (reg QA)     
+> 1-9 HP: Potion before Jr. Trainer (crit QA)     
 
 **Jr Trainer F:**
-- Thrash
+- Thrash x3
 
 Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Route 8
 
-> Potion before Gambler under 9 hp
+> 1-8 HP: Potion before Gambler
                            
-**Gambler:**                           
+**Gambler:**
 - Growlithe: BB (+ Thrash)
-- Vulpix: Thrash  
+- Vulpix: Thrash
 
 ## Underground
 
@@ -498,36 +481,41 @@ Shopping:
 
 Take the elevator and get HM02 (Fly)
 
-Menu after getting Fly:
-- Swap slot 2 with TM07
-- Use a Super Repel
-- Teach TM48 (Rock Slide) over Mega Punch (slot 1)
-- Swap slot 3 with X Accs
-- Teach HM02 to the bird
-- Use Fly to go to Lavender
+Fly Menu (1):
+- Swap S2 (Helix) d8 w/ TM07
+- d1 use Super Repel
+- d4 teach TM48 (RS) over Slot 1 (MP)
+Fly Menu (2):
+- Swap S3 (S.S.Ticket) d13 w/ X Accuracy
+- d3 Teach HM02 to bird
+- Fly (D3) to Lavender
 
 ## Lavender Town
 
-Note: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of X items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
+> Note: If you are KO'd, then swap to another poke, let them be KO'd, swap back to Nido    
+> sometimes this may mean we need to re-set up X-Item(s)    
 
-> if needed Revives are Slot 13, which is 3 below Helix Fossil
+**Lavender Tower Rival:**
 
-**Rival:**
+> Quick Reference     
+> do not use your last potion, super potion instead if needed     
+> Slot 7 Potion (3 below HM01)     
+> Up to X Acc (1 above HM01)     
+> Slot 12 Super Potion      
+> Slot 13 Revive (3 below Helix)     
+
 - Pidgeotto:
-	- 1-8 hp Potion turn 1, TB right away at 9+ hp
-  - (scroll up to X Accuracy turn 2 only if you get Sand-Attacked)
-	- TB
+   - 1-8 HP: S7 Potion, (U4 X Acc if Sand), TB
+   - 9+ HP: TB
 - Gyarados: TB
-- Growlithe: BB  (or Pot if under 9 hp)
+- Growlithe: (1-8 HP: Potion), BB
 - Kadabra: Thrash x1
 - Ivy: Thrash x2
-
-[Tower Movement Map](https://imgur.com/gallery/Yf2tY3u)
 
 **Channeler 1:**
 - RS x2
 
-- Get the Elixers [here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [here](http://gunnermaniac.com/pokeworld?map=146#4/12)
+- Get the Elixer and the hidden Elixer.
 
 **Channeler 2:**
 - RS
@@ -535,13 +523,14 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 **Channeler 3:**
 - RS
 
+Pick up the Rare Candy.
 
-- Pick up the Rare Candy in your way
-- Teach TM07 (Horn Drill) over Rock Slide (slot 1)
+Menu before Ghost:
+- S2 teach TM07 (HD) over Slot 1 (RS)
 
 **Ghost Encounter:**
-- Swap slot 3 with Super Repels
-- Use Poke Doll
+- Swap S3 HM01 d7 w/ Super Repels
+- d3 use Poke Doll
 
 **Rocket 1:**
 - TB x3 (+ BB)
@@ -551,45 +540,47 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 
 **Rocket 3:**
 - TB x2
-- Thrash
+- Thrash x1-2
+- Thrash x1
 
 Get the Poke Flute and Fly to Celadon City
 
 ## Celadon City
 
-- Use the center
-- Bike to Saffron City
+- Use the Pokemon Center
+- Then Bike East into Saffron City
 
 ## Saffron City
 
-- Enter Silph Co and take the stairs to floor 5
+- Enter Silph Co and take the stairs to the 5th Floor
 - Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
 
 **Rocket 1:**
-- Thrash
+- Thrash x2-3
+
+> If under 90 HP and Parlyzed, use Slot 5 Parlyz Heal now
 
 Get the Card Key
 
 **Rival:**
 - Pidgeot:
 	- X Acc
-	- If you were paralyzed on Arbok, use a Parlyz Heal
-	- X Speed
-- HD x5
+	- (+ Parlyz Heal, if needed)
+	- d13 X Speed (3 below Revive)
+    - HD x5
 
-Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
+If under 78 HP, Silph Rocket 2 (Menu before Fight):
+- Slot 8 Elixer (3 below Parlyz Heal)
+- Rocket: X-Acc, BB, HD x2
 
-If 1-77, use an Elixer before the next fight
-
-**Rocket 2:**
+If 78+ HP, Silph Rocket 2:
 - Cubone:
 	- X Acc
-	- If Cubone damages you below 78 and you haven't used Elixer, use it now
+	- if Bone Club, then d6 Elixer (3 below Parlyz Heal)
 	- BB
 - Drowzee:
-	- If you haven't used Elixer, use it now
-	- HD
-- Marowak: HD
+	- d6 Elixer (3 below Parlyz Heal), if you haven't already
+	- HD x2
 
 **Giovanni:**
 - X Acc + HD
@@ -599,103 +590,104 @@ If 1-77, use an Elixer before the next fight
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
-Use Dig on Paras
+Dig out w/ Paras
 
 ## Celadon City
 
-- Use your Bike and go to Snorlax
+- Bike West to Snorlax
 
 Menu before Snorlax:
-- Use a Repel
-- Swap slot 5 (Parlyz Heal) for Rare Candies
-- Use Poke Flute
+- Use S4 Repel
+- d1 swap Parlyz Heal d11 w/ Rare Candy (3 below S.S. Ticket)
+- d1 use Poke Flute
 
 ## Cycling Road
 
-- Note: You can hold B to stop automatically moving down on Cycling Road
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
 
 ## Fuschia City
 
-Menu:
-- Use a Repel
-- Swap slot 6 (Potion) with X Spec   (if 0 Potions, then swap Helix Fossil with X Spec instead)
-- Teach TM26 (Earthquake) over Thrash (slot 2)
+**EQ Menu**:
+- Use S4 Repel
+- d2 swap Potion d8 w/ X Special (4 below HM01)
+- d5 teach TM26 (EQ) over Slot 2 (Thrash)
 - Use Bike
 
-[Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
+> if 0 Potions are left modify EQ Menu as follows:      
+> S4 Repel, d4 swap Helix d5 w/ X-Special, d5 teach TM26 (EQ) over Slot 2 (Thrash)     
+> in this case, pick up Safari Full Restore to fill the bag space   
 
-In the Safari Zone:
-- Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
-- Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get Surf
-- After getting Surf, Dig out of the safari and Fly back to Fuschia City
+**Safari Zone**:
+- Use Slot 3 Super Repel in Zone 2 shown below:
+<img src="https://i.imgur.com/vV1rLdL.png">
+- Pick up the [Gold Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get HM03 (Surf) in the house.
+- Exit the house, Dig out of the Safari Zone, Fly (D2) back to Fuschia City, and walk into the gym. 
 
 **Juggler 1:**
 - EQ x4
 
 **Juggler 2:**
-- EQ
-- EQ + TB
-	- If TB gets disabled, finish with BB if it's in range, finish with EQ if not or you don't know the range
+- Drowzee: EQ
+- Hypno: EQ + TB (if TB is disabled, then finish with EQ or BB)
 
 **Koga:**
 - EQ x3
-- Elixer on Weezing
-	- If Koga used X Attack, scroll up 2 and use X Spec until you die
+- Weezing: S8 Elixer (3 below Rare Candy)
+	- If X Attack, scroll U2 to use X Special
 
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | -----------------------------------------------
 | 0-1                 | Machamp            | Normal Strats                                                                                                   
-| 2-4                 | Lapras             | Normal until Bruno; Use Max Ether turn 2 on Bruno instead of b4 fight                                       
-| 5-6                 | Cloyster           | Normal until Bruno; Use Max Ether turn 2 on Bruno instead of b4 fight
-| 7-11                | Rhydon/Growlithe    | X-Spec on Gio's Nidoking, (TB until hit), then EQ
-| 12-14               | Machop             | X-Spec on Gio's Nidoking, (TB until hit), then EQ
+| 2-4                 | Lapras             | Normal until Bruno; Use PP Item turn 2 on Onix                                                   
+| *5-14               | ...                | Normal until Gio;  Blizz on Cooltrainer's Rhyhorn         
+| 5-6                 | Cloyster           | Elixer on Gio's Rhyhorn
+| 7-11                | Rhydon/Growlithe   | X-Spec on Gio's Nidoking
+| 12-14               | Machop             | Elixer on Gio's Nidoking
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
-| 23+                 | Exeggcute          | Poké Flute on Victreebel                      
+| 23+                 | Exeggcute          | Poké Flute on Victreebel         
 
-	
-
-Menu after Koga:
-- Use all Rare Candies
-- Bike to get Strength
+**Candy Menu** (after exiting Koga's Gym):
+- S5 Use all Rare Candies
+- Bike East to get Strength
 - Fly to Pallet Town
 
 ## Pallet Town
 
-Menu at the bottom of the water:
+Surf Menu (facing bottom of water):
 - Super Repel
-- Teach HM03 (Surf) to Squirtle
-- Surf
+- d15 teach HM03 (Surf) to Squirtle (4 below HM02)
+- use Surf
 
 ## Cinnabar Island
 
 - Pick up TM14 (Blizzard)
-- Menu:
-	- Teach HM04 (Strength) to Squirtle over Tackle (slot 1)
-	- Teach TM14 (Blizzard) over BB
-	- Use Repel (THIS IS THE **REPEL** NOT SUPER REPEL)
+- **Blizzard Menu**:
+	- d1 teach HM04 (Strength) to Squirtle over Slot 1 (Tackle)
+	- d1 teach TM14 (Blizz) over Slot 4 (BB)
+	- S4 use **Repel** (this is the last repel)
 - Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2)
 - Pick up the [Secret Key](https://gunnermaniac.com/pokeworld?map=216#5/13)
 - Dig out
 
 ## Celadon City
 
-Bike to the gym
-
-| HP On Exeggcute     | Overview of Strategy                                                                                                       
-| ------------------- | --------------------------------------                                            
-| 25-32               | Poké Flute on Vileplume until hit                                                                          
-| 33+                 | Poké Flute on Victreebel until hit   
+Bike to the gym, cut the trees. 
 
 **Beauty:**
 - Blizz
+
+| HP after Exeggcute  | Overview of Strategy for Erika                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 1-24                | Normal Strats: EQ, Blizz, EQ
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
 
 **Erika:**
 - EQ
 - Blizz
 - EQ
 
-Fly back to Cinnabar
+Fly (D2) back to Cinnabar
 
 ## Cinnabar Island
 
@@ -705,51 +697,64 @@ Quiz answers: A B B B A B
 - X Acc + EQ
 - HD x3
 
-Dig out and Bike to Sabrina's gym
+Dig out and Bike East to Sabrina's gym
 
 ## Saffron City
 
-Teleporter puzzle: Top left, Bottom left, Bottom left
-> Diagonal, Diagonal, Down
+> Puzzle: Diagonal, Diagonal, Down     
+> (i.e. Top Left, Bottom Left, Bottom Left)     
 
 **Sabrina:**
 - EQ x4
 
-Walk back to the teleporter and Dig out and Fly to
+> Backup Boom Strats note:    
+> if 21-30 HP, use Blizz instead of EQ on Cooltrainer's Rhyhorn   
+
+Walk back to the teleporter and Dig out and Fly (U1) to Viridian and Bike to the Gym.
 
 ## Viridian City
 
-**Cooltrainer monkaS:**
+**Cooltrainer Rhyhorn**
 - EQ
 
 [SAVE: This next fight has a decent chance to die, and reviving will lose red bar so saving is advised]
 
 **Blackbelt:**
-- X Acc + HD
-- Blizz
-- HD
+- Machoke: X Acc + HD
+- Machop: Blizz (or EQ if 0 Blizz left)
+- Machoke: HD
 
-Leave the gym to reset the trainer
+Leave the gym to reset the trainer.
 
 Menu after entering the gym again:
 - Elixer
 
-> If 27+ hp, use an X-Special on Nidoking, (TB stall if needed until he hits you), then EQ and play normal 
+> Backup Boom Strats note:     
+> If 27+ hp, use S4 X-Special turn 1 against **Giovanni's Nidoking**,     
+> (TB stall if needed until he hits you), then EQ and play normal.     
 
 **Giovanni:**
-- EQ x4
-- Blizz (+ Blizz)
-	- Note: Don't go below 2 Blizzards in this fight, use EQ to finish Rhydon if you need to
+- Rhyhorn: EQ
+- Dugtrio: EQ
+- Nidoqueen: EQ
+- **Nidoking**: EQ
+- Rhydon: Blizz (+ Blizz) (+EQ if only 2 Blizz are left)
 
 Menu after leaving the gym:
 - Super Repel
 - Bike
 
-**Rival:**
-- X Acc + Blizz + TB
-- HD x2
-- X Spec (on Growlithe) (the badge boost to speed lets us outspeed everything)
-- HD x3  
+> remember to X Special **on Growlithe** in the next fight     
+> the badge boost is required there to outspeed Zam     
+
+**Viridian Rival:**
+- **Pidgeot**:
+    - **X Acc** + Blizz + TB
+- Rhyhorn: HD
+- Gyarados: HD
+- **Growlithe**
+    - **d2 use X Spceial** 
+    - HD x3
 
 ## Victory Road
 
@@ -759,18 +764,20 @@ Use Super repels at your preferred locations.
 
 Enter Victory Road and solve the puzzles.
 
-- After dropping down before the last boulder on [this tile](https://gunnermaniac.com/pokeworld?map=194#24/16):
-	- Use Strength
-  - Enter items:
-	- Down 2 to use a Max Ether on HD
-	- Up 2 to use Super Repel
-	- Bike
-- Optional Safety: Pick up the hidden [Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7) if low on potions.
+- After dropping down before [the last boulder](https://gunnermaniac.com/pokeworld?map=194#24/16):
+   - Use Strength.
+   - Enter items:
+	 - d2 use Max Ether on Up 1 Nido on Slot 1 Horn Drill
+	 - U2 use last Super Repel
+	 - Bike
 
-## E4
+> Optional Safety:     
+> Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7) if low on healing items.     
 
-Don't deposit extra pokes unless you have no more Revives
-> note that revives are just 2 below HM01, pretty high up in the bag and easy to access if KO'd by Bruno, Agatha, or Champ
+## Elite Four
+
+Only if zero Revives are left:
+- Deposit Squirtle and Paras
 
 **Lorelei:**
 - Dewgong:
@@ -778,33 +785,29 @@ Don't deposit extra pokes unless you have no more Revives
 	- Swap back to Nido and X Acc
 	- HD x5
 
-Before Bruno use a Max Ether on HD
+> Backup Boom Strat note:    
+> **If you lost red bar during Lorelei**,    
+> then skip Menu before Bruno    
+> Backup Bruno: X-Acc, d2 Max Ether on HD, and HD x5    
 
-> Delay the Max Ether to turn 2 on Onix if you lost red bar on Lorelei
+Menu before Bruno:
+- use Slot 4 Max Ether on HD
 
 **Bruno:**
 - X Acc + HD x5
 
 Menu before Agatha:
-- Super Potion x 2
-- Use the **Rare Candy**.
+- S7 Super Potion x2
+- d10 use **Rare Candy** (2 below HM03)
 
 **Agatha:**
-- Gengar: X Spec + EQ
-	- If you get put to sleep use the Poke Flute, and if you get confused risk it since you would need to X Spec again if you swapped
-- Golbat: Blizz
-	- If you miss Blizz, and Golbat uses Haze, use
-		- 2x TB on Golbat
-		- Consider using a Super Potion on Arbok at 25-60 
-		- 25 HP and lower has red bar, and is usually worth taking the risk
-		- You are slower than the last Gengar, so it will have a turn to use a move on you
-	- If you miss Blizz, but Golbat doesn't use Haze, use Blizz again, or TB if out of Blizzards
+- Gengar: Slot 3 X Special + EQ
+    - Hypnosis hit --> d10 Poke Flute (2 below HM02)
+- Golbat: Blizz (or TB x2 if you miss Blizz into Haze)
+    - Haze notes:
+        - 25-60 HP: consider Super Potion on Arbok (Para Heal if Glared)
+        - 1-24 HP: yolo (or Full Restore [3 below HM03] on Arbok if you picked it up)
 - EQ x3
-
-Menu before Lance:
-- Use Elixer
-- Heal using the chart below
-- [OPTIONAL SAVE: Lance is somewhat likely to kill you, so saving is recommended]
 
 HP      | ITEMS
 ------- | ---------------------------
@@ -815,26 +818,37 @@ HP      | ITEMS
 57-76   | Super Potion + Potion
 77-98   | Super Potion
 99-106  | Potion x2
-107-126 | Potion
+107-127 | Potion
 
-If you don't have enough Potions, use the next healing option
-- Feel free to use your Full Restore if you picked it up and you want to play really safe
+**Menu before Lance**:
+- **Use Slot 4 Elixer** and heal to 128+ HP.
+- (Slot 6 - Super Potion; Slot 9 - Potion as needed)
+- Save before Lance
 
 **Lance:**
-- Gyarados: X Spec + TB
-- Dragonair 1: Blizz
-- Dragonair 2: X Spec + Blizz   (again the badge boost lets us outspeed everything)
-- Aero: TB
+- Gyarados: Slot 3 X Special + TB
+- Dragonair 1: X Special (+ X Accuracy if you have 3 left) + Blizz
+- Dragonair 2: Blizz
+- Aerodactyl: TB
 - Dragonite: Blizz
 
-After Lance:
-- Heal to 22+
-- [OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy + X Special + Revive]
+HP     |      Standard Strat    | Alternate Strat
+------ | ---------------------- | --------------------------------
+4-17   |       Potion           | Super Potion
+18-21  |       Super Potion     | yolo if you need red bar to win
+22-37  |       Don't heal       | Super Potion
+38-44  |       Don't heal       | Potion or Super Potion
+Any HP | Heal to 45+ for safety | or yolo if required
+
+**Menu before Champ**:
+- Heal to 22+ HP
+- (Only Save if you have zero Revives or if you only have one X Accuracy left.)
 
 **Champion:**
-- Pidgeot: X Spec
+- Pidgeot Turn 1: use **Slot 3 X Special**
+- Pidgeot Turn 2: 
 	- If Pidgeot does NOT use Sky Attack turn 1:
-		- Pidgeot: X Acc + HD
+		- Pidgeot: **Up 1 X Acc** + HD
 		- Alakazam: HD
 		- Rhydon: HD
 		- Gyarados: **TB**
@@ -843,4 +857,5 @@ After Lance:
 	- If Pidgeot begins to use Sky Attack turn 1 (*Pidgeot is glowing*):
 		- Pidgeot: **Blizz**
 		- Alakazam: **EQ**
-		- Rhydon: X Acc + HD x4
+		- Rhydon: **Up 1 X Acc** + HD x4
+
