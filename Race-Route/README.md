@@ -305,6 +305,13 @@ If 1-15 hp after Misty (or 16-24 and you want to play really safely):
 - If you need to save time and have enough Potions, then 1-15 HP: Use Potion.   
 
 ## Vermilion City
+
+If you picked up the Great Ball because you ahve Pidgey and no Paras, then menu immediately after exiting the underground in Route 6
+- Swap TM34 with Great Ball
+- Scroll back up to the top of the bag
+- then swap Great Ball to Slot 1
+- Save, Hard Reset, Normal Intro Buffer, No A presses, Normal Yolo Ball
+<img src="https://i.imgur.com/AJkWygf.png" width="175">
                                
 **Jr Trainer F:**
 - Thrash
