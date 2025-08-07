@@ -64,7 +64,7 @@ If Bad 13 SPC - Do 58/60 Backup Pidgey Manip:
 - Walk up and menu with Weedle Guy just on screen.
 - Hold a Palette Swap into standard intro.
 - There are 4 A Presses (2 in House, 2 in Route 2).
-<img src="https://i.imgur.com/fg8s3lj.png" width="200">
+<img src="https://i.imgur.com/fg8s3lj.png" width="175">
 
 ## Pewter City
 
