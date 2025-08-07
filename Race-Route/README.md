@@ -5,52 +5,77 @@
 - [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
 
 ### Before you start
-- Clear any existing save file by pressing Up + B + Select on the game title screen
-- Set your options to fast text and animations OFF
+- Use Up + B + Select to clear save data.
+- Set options to Fast Text and Animations OFF
 
 ## Pallet Town
 
-- GET PC POTION                                
+- Get PC Potion                                
                                         
 **Rival 1:**
-- TW (+TW if growl turn 1) + spam Tackle
+- TW (+TW again if Growl turn 1) + spam Tackle
 - 1-5 HP: Use Potion
 
 > L6 Squirtle Stats    
 > HP: 21-23    
-> ATK 10 or 11-12    
-> DEF: 12 or 13-14    
+> ATK 10-12    
+> DEF: 12-14    
 > SPD: 10-11    
-> SPC: 11 or 12    
+> SPC: 11-12    
 >     
 > 10 ATK --> TW x3 on Weedle Guy.
                                        
 ## Viridian City
 
-Get EXP from one L2 or L3 encounter in Route 1 (spam Tackle)
-> run from L3 Pidgey on the way up 
+If you get a L2 or L3 encounter, spam Tackle to get EXP   
+> run from L3 Pidgey on the first pass of Route 1    
 
 Shopping:
 - 5 Poke Balls 
 
 Nidoran Manip
-> SWAP POTION & POKEBALL BEFORE SAVING unless performing a slot 2 yoloball
+> Swap Potion & Pokeball before Saving     
+> or be ready to perform a Slot 2 Yoloball     
 
 - Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
 ## Viridian Forest
              
-- pick up the Antidote and the hidden Potion in the forest
+- Get the Antidote and the hidden Forest Potion
+
+> If you do not have EXP yet, spam Tackle if you get a L3 Caterpie   
+> otherwise, run from any wild encounters
+> If 10 ATK 
 
 **Weedle Guy:**
-- Tail Whip x2 + spam Tackle [1-7 Potion]
-- Check your leveled up stats after this fight, if you have 13 special you have bad special, if you have 14 or 15 you have good special
-- Defense is 15, 16, or 17 (assume bad defense if you don't check)
+- 11-12 ATK @L6
+    - TW x2 + spam Tackle [1-7 HP: Potion]
+- 10 ATK @L6
+    - TW x3 + spam Tackle [1-7 HP: Potion]
+
+> L8 Squirtle Stats    
+> HP: 25-27       
+> ATK 12-15    
+> DEF: 15-17    
+> SPD: 11-14    
+> SPC: 13-15    
+>     
+> Note DEF: 15, 16, 17     
+> Note 13 SPC --> Bad SPC       
+
+
+
 
 If you were PSN'd, menu right away:
 - Swap Nido and Squirtle
 - 1-15 HP: Potion
 - Antidote
+
+Optional 58/60 Backup Pidgey if bad SPC:
+- Menu with Weedle Guy on edge of screen.
+- Hold a Palette Swap into standard intro.
+- There are 4 A Presses.
+<img src="https://i.imgur.com/fg8s3lj.png">
 
 ## Pewter City
 
@@ -63,29 +88,23 @@ If not PSN'd, menu in Brock's Gym:
 - Toss Antidote
 - [SAVE IF YOU HAVE BAD SPECIAL]
 
-> Assume low defense if you don't know your defense. 
-
-#### Before Brock & on Geodude
-| DEF  |  HP   | Healing Strategy    |
-| ---- | ----- | ------------------- |
-| 15   | 1-15  | Potion              |
-| 16   | 1-14  | Potion              |
-| 17   | 1-13  | Potion              |
-|      | Stats | Check Defense at L9 |
-
-#### On Onix
-| DEF  | HP@0  | HP@-2 | HP@-4 |
-| ---- | ----- | ----- | ----- |
-|  16  | 1-13  | 1-14  | 1-20  |
-|  17  | 1-12  | 1-14  | 1-20  |
-|  18  | 1-12  | 1-12  | 1-20  |
-|  19  | 1-12  | 1-12  | 1-17  |
+> Use your Defense stat @L8 to decide when to Potion    
+> if you don't check, then assume 15 DEF @ L8      
 
 **Brock:**
+
+#### When to Potion on Brock:
+| DEF  | Heal on Geodude | Heal on Onix | after 1 Screech | after 2 Screech |
+| ---- | --------------- | ------------ | ----------------| ----------------|
+| 15   |      1-15       |     1-13     |       1-14      |      1-20       |
+| 16   |      1-14       |     1-12     |       1-14      |      1-20       |
+| 17   |      1-13       |     1-12     |       1-12      |      1-20       |
+
 - Geodude: Swap to Squirtle, then spam Bubble
 	- Say yes, swap back to Nido
 - Onix: Swap to Squirtle, then spam Bubble
-	- IF ONIX USES BIDE: Tail Whip x2
+	- If Bide: TW x2
+    - If bad SPC, Bubble once into Bide, either yolo or swap to bird if caught one.
 
 Options: Battle Style to Set before leaving Brock's gym
 
