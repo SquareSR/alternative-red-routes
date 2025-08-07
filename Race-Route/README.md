@@ -304,9 +304,10 @@ If 1-15 hp after Misty (or 16-24 and you want to play really safely):
 <img src="https://i.imgur.com/jaosL5j.png">
 - If you need to save time and have enough Potions, then 1-15 HP: Use Potion.   
 
-## Vermilion City
+## Route 6
 
-If you picked up the Great Ball because you ahve Pidgey and no Paras, then menu immediately after exiting the underground in Route 6
+If you picked up the hidden Great Ball because you have a Pidgey and no Paras,
+then menu immediately after exiting the underground in Route 6:
 - Swap TM34 with Great Ball
 - Scroll back up to the top of the bag
 - then swap Great Ball to Slot 1
@@ -318,6 +319,8 @@ If you picked up the Great Ball because you ahve Pidgey and no Paras, then menu 
 
 **Jr Trainer M:**
 - Thrash
+
+## Vermilion City
 
 If 1-12 HP (or 1-21 HP to be safe):
 - Potion before Boat Rival
