@@ -16,14 +16,9 @@
 - TW (+TW again if Growl turn 1) + spam Tackle
 - 1-5 HP: Use Potion
 
-> L6 Squirtle Stats    
-> HP: 21-23    
-> ATK 10-12    
-> DEF: 12-14    
-> SPD: 10-11    
-> SPC: 11-12    
->     
-> 10 ATK --> TW x3 on Weedle Guy.
+> L6 Squirtle:      
+> 10 ATK --> TW x3 on Weedle Guy     
+> 11 SPC --> likely bad Special     
                                        
 ## Parcel Quest
 
@@ -43,25 +38,19 @@ Nidoran Manip
              
 - Get the Antidote and the hidden Forest Potion
 
-> If you do not have EXP yet, spam Tackle if you get a L3 Caterpie   
-> otherwise, run from any wild encounters
-> If 10 ATK 
+> If you do not have EXP yet, spam Tackle if you get a L3 Caterpie     
+> otherwise, run from any wild encounters       
 
 **Weedle Guy:**
-- 11-12 ATK @L6
+- Good ATK (11-12 ATK @L6)
     - TW x2 + spam Tackle [1-7 HP: Potion]
-- 10 ATK @L6
+- Bad ATK (10 ATK @L6)
     - TW x3 + spam Tackle [1-7 HP: Potion]
 
 > L8 Squirtle Stats     
-> Check Defense & Special     
->    
-> DEF: 15-17    
-> SPD: 11-14    
-> SPC: 13-15    
->     
+> Check Defense & Special again      
 > DEF is 15 or 16 or 17     
-> 13 SPC --> Bad SPC       
+> 13 SPC --> Bad Special       
 
 If you were PSN'd Menu:
 - Swap Nido and Squirtle
@@ -101,7 +90,7 @@ If you were not PSN'd, Menu in Brock's Gym:
 	- Say yes, swap back to Nido
 - Onix: Swap to Squirtle, then spam Bubble
 	- If Bide: TW x2
-    - If bad SPC + you Bubbled once into Bide, either yolo or swap to bird to sac if you have one.
+    - If bad Special + you Bubbled once into Bide, either yolo or swap to bird to sac if you have one.
 
 Options: Battle Style to Set before leaving Brock's gym
 
