@@ -30,7 +30,7 @@
 If you get a L2 or L3 encounter, spam Tackle to get EXP   
 > run from L3 Pidgey on the first pass of Route 1    
 
-Shopping:
+Viridian Mart:
 - 5 Poke Balls 
 
 Nidoran Manip
@@ -53,39 +53,39 @@ Nidoran Manip
 - 10 ATK @L6
     - TW x3 + spam Tackle [1-7 HP: Potion]
 
-> L8 Squirtle Stats    
-> HP: 25-27       
-> ATK 12-15    
+> L8 Squirtle Stats     
+> Check Defense & Special     
+>    
 > DEF: 15-17    
 > SPD: 11-14    
 > SPC: 13-15    
 >     
-> Note DEF: 15, 16, 17     
-> Note 13 SPC --> Bad SPC       
+> DEF is 15 or 16 or 17     
+> 13 SPC --> Bad SPC       
 
-If you were PSN'd, menu right away:
+If you were PSN'd Menu:
 - Swap Nido and Squirtle
 - 1-15 HP: Potion
 - Antidote
 
-Optional 58/60 Backup Pidgey if bad SPC:
-- Menu with Weedle Guy on edge of screen.
+If Bad 13 SPC - Do 58/60 Backup Pidgey Manip:
+- Walk up and menu with Weedle Guy just on screen.
 - Hold a Palette Swap into standard intro.
-- There are 4 A Presses.
+- There are 4 A Presses (2 in House, 2 in Route 2).
 <img src="https://i.imgur.com/fg8s3lj.png">
 
 ## Pewter City
 
-Shopping:
+Pewter Mart:
 - 7 Potions
 
-If not PSN'd, menu in Brock's Gym:
+If you were not PSN'd, Menu in Brock's Gym:
 - Swap Nido and Squirtle 
 - 1-15 HP: Potion 
 - Toss Antidote
 - [Save if you have bad Special and no bird]
 
-> Use your Defense stat @L8 to decide when to Potion    
+> Use your Defense stat @L8 to decide when to Potion in fight    
 > if you don't check, then assume 15 DEF @ L8      
 
 **Brock:**
@@ -121,11 +121,11 @@ Menu:
 - Toss Antidote (if you still have it)
 
 **Shorts Guy:**
-- Rat: [1-15 Potion]
+- Rat: [1-15 Potion; if @-2 1-18 Pot]
 	- Leer + HA x2
-- Ekans: [1-5 Potion, or 1-6 at -2 defense]
+- Ekans: [1-5 Potion; if @-2 1-6 Pot, if @-3 1-8 Pot]
 	- Leer + HA x2
-		- almost always potion immediately after wrap hits
+		- in general use a Potion immediately after turn 1 of any Wrap hit
 
 **Bug Catcher 2:**
 - Weedle:
@@ -133,7 +133,7 @@ Menu:
 - Kakuna:
 	- HAx2 + HA or Tackle x1-2
 - Caterpie: [1-5 Potion]
-	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
+	- HA x2 (Tackle turn 2 only if Weedle hit 2 String Shots)
 - Metapod:
 	- HA x2 + Tackle (only HA turn 3 if you were slower)
 
@@ -150,7 +150,7 @@ Menu:
 
 Catch a flyer:
 - Bird: Tackle, then throw balls
-- If you have 5+ HA left, HA L8 Pidgey; otherwise
+- If 5+ HA left, you can HA L8 Pidgey; otherwise
 - L8 Pidgey: Leer + Tackle, then throw balls
 
 ## Mount Moon
@@ -158,14 +158,13 @@ Catch a flyer:
 - Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
 
 Menu before walking in front of the Rocket:
-- Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
+- Toss any remaining Poke Balls (only if you have a Paras)
 - Potion to 36+ HP
-- SAVE THE GAME
+- Save the Game
 
 **Mt Moon Man:**
-- This fight will change depending on how many Horn Attacks you have left
 - 2 HA:
-	- Rat: Leer + HA + Tackle (or PS turn 3 if TW hit or PS always kills)
+	- Rat: Leer + HA + Tackle (or PS turn 3 if TW hit or PS always KOs)
 	- Zubat: Leer + Tackle + HA (+ Tackle)
 - 3 HA:
 	- Rat: HA x2 (+ PS)
@@ -177,7 +176,7 @@ Menu before walking in front of the Rocket:
 	- Rat: HA x2 (+ PS)
 	- Zubat: HA x3 (+ Tackle)
 
-#### Moon Man Zubat *When to Potion
+#### Moon Man Zubat (When to Potion)
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
@@ -203,10 +202,10 @@ If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodu
 
 If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
 - Use the same intro buffer as Route 3 Manip (PAL Hold)
-- <img src="https://i.imgur.com/rRnoayt.png">
-- <img src="https://i.imgur.com/MFBagiA.png">
+<img src="https://i.imgur.com/rRnoayt.png">
+<img src="https://i.imgur.com/MFBagiA.png">
 
-> If you somehow do not have a Paras, pick up the [hidden great ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty.
+> If you somehow do not have a Paras and do not have a Spearow to trade for DUX, then pick up the [hidden great ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty.
 
 ## Nugget Bridge
 
@@ -215,21 +214,27 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 
 **Bridge Rival:** 
 
-> Potion Nido if under 22 hp to be safe. 
+> Potion Nido if under 18 HP on Bird, under 22 hp on Rat, under 15 (+3 if LS) on Bulba to be safe. 
 
-- Pidgeotto: HA x2 + HA or MP turn 3 if low rolled twice
-	- If you get hit by 2 Sand-Attacks swap to your bird and let it die
-		- Try to put Pidgeotto in HA range before doing this to avoid getting Sand-Attacked again after swapping back
-        - If you get hit by 1 Sand-Attack try to fight through and swap on Rat 
+- Pidgeotto: HA x3
+    - MP turn 3 if HA can't KO
+    - Gust/QA crit is 15-18
+    - Sand Attack x1 --> keep spamming HA & adapt
+         - 1-30 HP: Swap to Squirtle, Potion Nido, Spam TW until Squirtle is KO'd
+         - 31+ HP: Keep spamming HA, plan to swap to Bird on Rat and let it be KO'd
+    - Sand Attack x2+
+         - if Pidgeotto is in HA one-shot range: swap to Bird and let it be KO'd
+         - otherwise, swap to Squirtle, either spam TW and/or Potion Nido and let it be KO'd
 - Abra: HA
-- Rat: MP
-- Bulba: MP + HA (MP if you get Growled or miss a bunch into Leech Seed healing)
+- Rat: MP [Potion under 22 HP]
+- Bulba: MP + HA (or MP) [Potion under 15 or 18 if seeded, unless HA KOs] 
 
 **BC:**
 - MP (+ PS)
 - MP (if you missed MP into String Shot hit use HA)
 
-> Potion before any fight if under 25 hp (this saves us from having to potion in fight and getting heal looped)
+> Potion before any fight if under 25 hp     
+> (this saves us from having to potion in fight and getting heal looped)     
 
 **Lass:**
 - MP (+ PS)
