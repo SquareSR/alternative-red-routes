@@ -613,7 +613,7 @@ Menu before Snorlax:
 - Use Slot 3 Super Repel in Zone 2 shown below:
 
 
-<img src="https://i.imgur.com/vV1rLdL.png">
+- <img src="https://i.imgur.com/vV1rLdL.png">
 
 
 - Pick up the Gold Teeth and get HM03 (Surf) in the house.
