@@ -33,6 +33,19 @@
 If you get a L2 or L3 encounter, spam Tackle to get EXP   
 > run from L3 Pidgey on the first pass of Route 1    
 
+## Viridian City
+
+> Note if you do not have EXP yet after Route 1:             
+> Viridian Forest:       
+> Tackle spam if you get a L3 Caterpie - otherwise, run from any wild encounters.           
+> After forest / Route 2 (with a L7 Squirtle):      
+> KO any Rt 2 encounter: (TW if it's L4-5) + spam Tackle                             
+> If L5 Pidgey hits too many sand attacks, then either           
+> run if it's above half HP or throw pokeball if it's below half HP           
+> then find another encounter to KO to reach L8 & learn Bubble.      
+> If a wild Weedle PSNs you and you already used the Antidote, then      
+> use the pokemon center in Pewter after you get EXP.      
+
 Viridian Mart:
 - 5 Poke Balls 
 
@@ -45,10 +58,6 @@ Nidoran Manip
 ## Viridian Forest
              
 - Get the Antidote and the hidden Forest Potion
-
-> If you do not have EXP yet, spam Tackle if you get a L3 Caterpie       
-> otherwise, run from any wild encounters        
-> with the plan to KO a route 2 encounter before Brock w/ (TW +) Tackle spam      
 
 **Weedle Guy:**
 - Good ATK (11-12 ATK @L6)
