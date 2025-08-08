@@ -35,10 +35,13 @@ If you get a L2 or L3 encounter, spam Tackle to get EXP
 
 ## Viridian City
 
-> Note if you do not have EXP yet after Route 1:             
+> Note if you do not have EXP yet after Route 1:           
+>          
 > Viridian Forest:       
-> Tackle spam if you get a L3 Caterpie - otherwise, run from any wild encounters.           
-> After forest / Route 2 (with a L7 Squirtle):      
+> Tackle spam if you get a L3 Caterpie - otherwise, run from any wild encounters.          
+>        
+> Route 2 / after Viridian Forest (with a L7 Squirtle):            
+>           
 > KO any Rt 2 encounter: (TW if it's L4-5) + spam Tackle                             
 > If L5 Pidgey hits too many sand attacks, then either           
 > run if it's above half HP or throw pokeball if it's below half HP           
