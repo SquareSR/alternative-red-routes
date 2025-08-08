@@ -46,8 +46,9 @@ Nidoran Manip
              
 - Get the Antidote and the hidden Forest Potion
 
-> If you do not have EXP yet, spam Tackle if you get a L3 Caterpie     
-> otherwise, run from any wild encounters       
+> If you do not have EXP yet, spam Tackle if you get a L3 Caterpie       
+> otherwise, run from any wild encounters        
+> with the plan to KO a route 2 encounter before Brock w/ (TW +) Tackle spam      
 
 **Weedle Guy:**
 - Good ATK (11-12 ATK @L6)
@@ -74,7 +75,7 @@ If Bad 13 SPC - Do 58/60 Backup Pidgey Manip:
 ## Pewter City
 
 Pewter Mart:
-- 7 Potions
+- **7 Potions**
 
 If you were not PSN'd, Menu in Brock's Gym:
 - Swap Nido and Squirtle 
