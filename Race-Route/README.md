@@ -468,7 +468,9 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Celadon City
 
-Shopping:
+> If you fought Gentleman, you can buy +1 X Accuracy
+
+Celadon Mart:
 - Floor 2:
 	- Sell TM34
 	- Sell both Nuggets
@@ -482,9 +484,9 @@ Shopping:
 	- Buy a Soda Pop and trade it to the girl
 	- Come back and buy a Fresh Water
 - Floor 5:
-	- Buy 12 X Accs
-	- Buy 9 X Specs 
-	- Buy 1 X Speeds 
+	- Buy 12 X Accuracy
+	- Buy 9 X Special
+	- Buy 1 X Speed
 
 Take the elevator and get HM02 (Fly)
 
