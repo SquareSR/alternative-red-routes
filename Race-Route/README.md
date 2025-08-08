@@ -6,6 +6,11 @@
 - [Offensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
 - [racetime.gg](https://racetime.gg/)
 
+### Other Routes
+- [3 Repel Flex Lass (in progress)](https://docs.google.com/document/d/1T58hfhc6-tzkCN2fLi7-xm1OG0g8iwj1u-aPlhjhbcM/edit?usp=sharing)
+- [2021 6 Repel race route notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
+
+
 ### Before you start
 - Use Up + B + Select to clear save data.
 - Hard reset + set the requested palette (if applicable)
