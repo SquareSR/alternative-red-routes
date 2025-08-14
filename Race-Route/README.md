@@ -667,9 +667,9 @@ Menu before Snorlax:
 | 0-1                 | Machamp            | Normal Strats                                                                                                   
 | 2-4                 | Lapras             | Normal until Bruno; Use PP Item turn 2 on Onix                                                   
 | *5-14               | ...                | Normal until Gio;  Blizz on Cooltrainer's Rhyhorn         
-| 5-6                 | Cloyster           | Elixer on Gio's Rhyhorn
+| 5-6                 | Cloyster           | Use PP Item turn 2 on Bruno's Onix
 | 7-11                | Rhydon/Growlithe   | X-Spec on Gio's Nidoking
-| 12-14               | Machop             | Elixer on Gio's Nidoking
+| 12-14               | Machop             | X-Spec on Gio's Nidoking
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
 | 23+                 | Exeggcute          | Poké Flute on Victreebel         
 
