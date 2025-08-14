@@ -225,7 +225,14 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 <img src="https://i.imgur.com/rRnoayt.png">
 <img src="https://i.imgur.com/MFBagiA.png">
 
-> If you somehow do not have a Paras and do not have a Spearow to trade for DUX, then pick up the [hidden great ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty.
+> If you somehow do not have a Paras and do not have a Spearow to trade for DUX,      
+> then pick up the [hidden Great Ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty      
+>        
+> <img src="https://i.imgur.com/bttz8xv.png" width="250">         
+>       
+> only if you need this great ball immediately open the bag:      
+> (toss any regular pokeballs), Swap TM34 with Great Ball, Swap Great Ball with Potion, so Great Ball is Slot 1     
+
 
 ## Nugget Bridge
 
@@ -339,22 +346,29 @@ Menu after Bill:
 
 ## After Misty
 
-If 1-15 HP (or 16-24 an want to play safe / skip fly red bar):
-- Pickup the hidden full restore in the underground and use it right away.
-- <img src="https://i.imgur.com/jaosL5j.png">
-- Otherwise, use a Potion before the Jr. Trainers if 1-15 HP after Misty.  
+> If you somehow have zero Potions left, go to the **Cerulean Mart** after Misty           
+> Buy 5 Potions + quickly menu to swap TM34 with Potions to fix our bag.     
+> Pick up the hidden Full Restore      
+> <img src="https://i.imgur.com/jaosL5j.png"  width="125">       
+> do not use it, sell the full restore later in Celadon.     
+> (5 potions cost 1500 and the full restore sells for 1500)        
+
+If 1-15 HP (or 16-24 HP):
+- Fastest Option (if 3+ Potions left):
+   - use **Potion** on Nido.
+- Safest Option:
+   - Pickup the hidden full restore in the underground
+   - <img src="https://i.imgur.com/jaosL5j.png"  width="150">
+   - and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
 
 ## Route 6
 
 Ignore the note below if you either caught Paras or have a Spearow to trade for DUX:
 
 > If you picked up the hidden Great Ball because you have a Pidgey and no Paras,     
-> then menu immediately after exiting the house after the underground:     
-> - Swap TM34 with Great Ball     
-> - Scroll back up to the top of the bag    
-> - then swap Great Ball to Slot 1     
-> - Save, Hard Reset, Normal Intro Buffer, No A presses, Normal Yolo Ball    
-> - <img src="https://i.imgur.com/AJkWygf.png" width="125">     
+> then menu immediately after exiting the house after the underground:        
+> - Save, Hard Reset, Normal Intro Buffer, zero A presses, Normal Yolo Ball      
+> - <img src="https://i.imgur.com/AJkWygf.png" width="115">       
 
 **Jr Trainer F:**
 - Thrash x3
@@ -364,22 +378,22 @@ Ignore the note below if you either caught Paras or have a Spearow to trade for 
 
 ## Vermilion City
 
-If 1-12 HP (or 1-21 HP to be safe):
-- Potion before Boat Rival
+Before Boat Rival:
+- Potion to 13+ or 22+ HP to be safe.
 
 **Boat Rival:** 
-- Pidgeotto:
-	- HA x2 [1-12 HP: Potion]
+- Pidgeotto: [1-12 HP: Potion]
+	- HA x2 
 	- Sand Attack x1
-        -  1-12 HP: Swap to Squirtle, Potion Nido, Spam TW to let Squirtle be KO'd.
-        -  13-22 HP: Spam HA & plan to swap to Squirtle on Raticate (may be able to Pot Nido).
-        -  23+ HP: spam HA & plan to swap to Bird on Raticate. 
+        -  1-12 HP ---> **Swap to Squirtle**, Potion Nido, Spam TW to let Squirtle be KO'd.
+        -  13-22 HP --> **Spam HA**  & plan to swap to Squirtle on Raticate (may be able to Pot Nido).
+        -  23+ HP ----> **Spam HA**  & plan to swap to Bird on Raticate. 
     - Sand Attack x2+
-        - Swap to Bird/Squirtle right away and let them be KO'd 
+        - Swap to Bird/Squirtle right away and let them be KO'd by Pidgeotto 
 - Raticate:
-	- 1-12 HP: **Potion**
-    - 13-22 HP: **Potion** [or MP, which does risk Hyper Fang crit]
-	- 23+ HP: **HA + PS**
+	- 1-12 HP ---> **Potion**
+    - 13-22 HP --> **Potion** [or **MP**, which risks being KO'd by Hyper Fang crit]
+	- 23+ HP --- > **HA + PS**
 - Kadabra:
 	- 1-12 HP: **HA** Kadabra & Potion turn 1 on Ivysaur, then Thrash
 	- 13+ HP: **Thrash** Kadabra
