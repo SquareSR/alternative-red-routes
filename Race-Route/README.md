@@ -36,7 +36,7 @@ If you get a L2 or L3 encounter, spam Tackle to get EXP
 
 ## Viridian City
 
-Read the indented note only if no EXP yet after Route 1:
+Below is a note for what to do if **No EXP yet after Route 1**:
 
 > In Viridian Forest:       
 > Tackle spam on L3 Caterpie, if you get one - otherwise, run from wild encounters.          
