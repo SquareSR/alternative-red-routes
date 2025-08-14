@@ -878,7 +878,8 @@ Only if zero Revives are left:
 > Backup Boom Strat note:    
 > **If you lost red bar during Lorelei**,    
 > then skip the Menu before Bruno    
-> Backup Bruno: **X Accuracy**, d2 **Max Ether** on HD, + HD x5    
+> Backup Bruno: **X Accuracy**, d2 **Max Ether** on HD, + HD x5       
+> just gives Onix one extra turn to hit us back into red bar      
 
 **Menu before Bruno**:
 - use Slot 4 - **Max Ether** on HD
