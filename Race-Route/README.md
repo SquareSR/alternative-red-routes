@@ -819,7 +819,7 @@ Only if zero Revives are left:
 > Backup Bruno: X-Acc, d2 Max Ether on HD, and HD x5    
 
 Menu before Bruno:
-- use Slot 4 Max Ether on HD
+- use Slot 4 - Max Ether on HD
 
 **Bruno:**
 - X Acc + HD x5
@@ -829,7 +829,7 @@ Menu before Agatha:
 - d10 use **Rare Candy** (2 below HM03)
 
 **Agatha:**
-- Gengar: Slot 3 X Special + EQ
+- Gengar: Slot 3 - X Special + EQ
     - Hypnosis hit --> d10 Poke Flute (2 below HM02)
 - Golbat: Blizz (or TB x2 if you miss Blizz into Haze)
     - Haze notes:
@@ -849,13 +849,13 @@ HP      | ITEMS
 107-127 | Potion
 
 **Menu before Lance**:
-- **Use Slot 4 Elixer** and heal to 128+ HP.
+- **Use Slot 4 - Elixer** and heal to 128+ HP.
 - (Slot 6 - Super Potion; Slot 9 - Potion as needed)
 - Save before Lance
 
 **Lance:**
-- Gyarados: Slot 3 X Special + TB
-- Dragonair 1: X Special (+ X Accuracy if you have 3 left) + Blizz
+- Gyarados: **Slot 3 - X Special** + TB
+- Dragonair 1: **X Special** (+ Up 1 - X Acc if you have 3 X Accs left) + Blizz
 - Dragonair 2: Blizz
 - Aerodactyl: TB
 - Dragonite: Blizz
@@ -873,10 +873,10 @@ Any HP | Heal to 45+ for safety | or yolo if required
 - (Only Save if you have zero Revives or if you only have one X Accuracy left.)
 
 **Champion:**
-- Pidgeot Turn 1: use **Slot 3 X Special**
+- Pidgeot Turn 1: use **Slot 3 - X Special**
 - Pidgeot Turn 2: 
 	- If Pidgeot does NOT use Sky Attack turn 1:
-		- Pidgeot: **Up 1 X Acc** + HD
+		- Pidgeot: **Up 1 - X Acc** + HD
 		- Alakazam: HD
 		- Rhydon: HD
 		- Gyarados: **TB**
