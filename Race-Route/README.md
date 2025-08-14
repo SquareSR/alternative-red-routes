@@ -473,20 +473,20 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 - **Pokemaniac 1**: BB, TB
 - **Pokemaniac 2**: TB
 
-> Save before Oddish Girl if under 43 HP. 
+> Save before Oddish Girl if under 43 HP.     
+> Unless you did Gentleman Candy, then don't save and always thrash turn 1.     
 
 - **Oddish Girl**
-    - Gentleman Candy --> Thrash turn 1
     - 1-17 or 23+ HP --> Thrash turn 1
     - 18-22 HP --------> TB + Thrash
-	   - Sleep --> Potion under 6 HP.
-       - Para --> keep Thrashing, but Potion under 14 HP
-       - Do not use the para heal in fight, use it in the next Repel Menu
+	   - Sleep --------> Potion under 6 HP.
+       - Para'd -------> keep using Thrash, but use Potion under 14 HP.
+       - Do not use Para Heal in fight, use it in the next Repel Menu instead.
 
 - **Hiker:**: BB x3
 
-> 1-5 HP: Potion before Jr. Trainer (reg QA)     
-> 1-9 HP: Potion before Jr. Trainer (crit QA)     
+> 1-5 HP: Potion before Jr. Trainer (to live reg QA)     
+> 1-9 HP: Potion before Jr. Trainer (to live crit QA)     
 
 **Jr Trainer F:**
 - Thrash x3
@@ -521,8 +521,8 @@ Celadon Mart:
 - Floor 4:
 	- Buy Poke Doll
 - Roof:
-	- Buy a Soda Pop and trade it to the girl
-	- Come back and buy a Fresh Water
+	- Buy Soda Pop and trade it to the girl
+	- Come back and buy Fresh Water
 - Floor 5:
 	- Buy 12 X Accuracy
 	- Buy 9 X Special
@@ -531,12 +531,12 @@ Celadon Mart:
 Take the elevator and get HM02 (Fly)
 
 Fly Menu (1):
-- Swap S2 (Helix) d8 w/ TM07
-- d1 use Super Repel
-- d4 teach TM48 (RS) over Slot 1 (MP)
+- Swap S2 **Helix** d8 w/ **TM07**
+- d1 use **Super Repel**
+- d4 teach **TM48** (RS) over Slot 1 (MP)
 Fly Menu (2):
-- Swap S3 (S.S.Ticket) d13 w/ X Accuracy
-- d3 Teach HM02 to bird
+- Swap S3 **S.S.Ticket** d13 w/ **X Accuracy**
+- d3 Teach **HM02** to bird
 - Fly (D3) to Lavender
 
 ## Lavender Town
@@ -548,13 +548,13 @@ Fly Menu (2):
 
 > Quick Reference     
 > do not use your last potion, super potion instead if needed     
-> Slot 7 Potion (3 below HM01)     
+> Slot 7 - Potion (3 below HM01)     
 > Up to X Acc (1 above HM01)     
-> Slot 12 Super Potion      
-> Slot 13 Revive (3 below Helix)     
+> Slot 12 - Super Potion      
+> Slot 13 - Revive (3 below Helix)     
 
 - Pidgeotto:
-   - 1-8 HP: S7 Potion, (U4 X Acc if Sand), TB
+   - 1-8 HP: S7 - Potion, (U4 X Acc if Sand), TB
    - 9+ HP: TB
 - Gyarados: TB
 - Growlithe: (1-8 HP: Potion), BB
@@ -575,11 +575,11 @@ Fly Menu (2):
 Pick up the Rare Candy.
 
 Menu before Ghost:
-- S2 teach TM07 (HD) over Slot 1 (RS)
+- S2 teach **TM07** (HD) over Slot 1 (RS)
 
 **Ghost Encounter:**
-- Swap S3 HM01 d7 w/ Super Repels
-- d3 use Poke Doll
+- Swap S3 **HM01** d7 w/ **Super Repels**
+- d3 use **Poke Doll**
 
 **Rocket 1:**
 - TB x3 (+ BB)
@@ -592,44 +592,44 @@ Menu before Ghost:
 - Thrash x1-2
 - Thrash x1
 
-Get the Poke Flute and Fly to Celadon City
+Get the Poke Flute and Fly (D1) to Celadon.
 
-## Celadon City
+## Koga Split
 
 - Use the Pokemon Center
 - Then Bike East into Saffron City
 
-## Saffron City
+Enter Silph Co and take the stairs to the 5th Floor
+- Get the [hidden tree Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
 
-- Enter Silph Co and take the stairs to the 5th Floor
-- Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
-
-**Rocket 1:**
+**Rocket w/Arbok:**
 - Thrash x2-3
 
-> If under 90 HP and Parlyzed, use Slot 5 Parlyz Heal now
+> If under 90 HP and Parlyzed, menu + use Slot 5 - Parlyz Heal before the next fight.
 
 Get the Card Key
 
 **Rival:**
 - Pidgeot:
-	- X Acc
+	- X Accuracy
 	- (+ Parlyz Heal, if needed)
-	- d13 X Speed (3 below Revive)
+	- d13 - X Speed (3 below Revive)
     - HD x5
 
-If under 78 HP, Silph Rocket 2 (Menu before Fight):
-- Slot 8 Elixer (3 below Parlyz Heal)
-- Rocket: X-Acc, BB, HD x2
+> If under 78 HP, then **Menu before the next fight**:        
+> use Slot 8 - Elixer (3 below Parlyz Heal)
+> and simply: X-Acc, BB, HD, HD
 
-If 78+ HP, Silph Rocket 2:
+**Silph Rocket - entering with 78+ HP**: 
 - Cubone:
-	- X Acc
-	- if Bone Club, then d6 Elixer (3 below Parlyz Heal)
-	- BB
+    - X Acc
+    - if Bone Club, then d6 - Elixer (3 below Parlyz Heal)
+    - BB
 - Drowzee:
-	- d6 Elixer (3 below Parlyz Heal), if you haven't already
-	- HD x2
+    - d6 Elixer (3 below Parlyz Heal) [if you haven't already]
+    - HD
+- Marowak
+    - HD
 
 **Giovanni:**
 - X Acc + HD
