@@ -8,6 +8,7 @@
 
 ### Other Routes
 - [6 Repel + PPUP - Race Route Notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
+- [3 Repel + PPUP - Race Route by MaddiicT](https://pastebin.com/pNNQR9r4)
 
 
 ### Before you start
