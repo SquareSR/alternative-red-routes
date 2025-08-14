@@ -395,18 +395,23 @@ Before Boat Rival:
     - 13-22 HP --> **Potion** [or **MP**, which risks being KO'd by Hyper Fang crit]
 	- 23+ HP --- > **HA + PS**
 - Kadabra:
-	- 1-12 HP: **HA** Kadabra & Potion turn 1 on Ivysaur, then Thrash
-	- 13+ HP: **Thrash** Kadabra
+	- 1-12 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
+	- 13+ HP ---> **Thrash** 
 
 Talk to the Captain to get HM01.
 
 Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
-| HP    | Strategy                                   |
-| ----- | ------------------------------------------ |
-| 1     | Do Gentleman and use a Potion in Cut Menu  |
-| 2-11   | Do Gentleman                              |
-| 12-24  | Do Gentleman if you want to play safely   |
+| HP    | Strategy                                 |
+| ----- | ---------------------------------------- |
+| 1     | Do Gentleman + use a Potion in Cut Menu  |
+| 2-11   | Do Gentleman                            |
+| 12-24  | Do Gentleman to be extra safe           |
+
+> A note to keep in mind while the boat is leaving:       
+> the text box after using Cut is a case of temporary Instant Text.     
+> after Cut has been used, just start **holding B** (+ next dpad direction)       
+> to perfectly auto-clear "Paras Hacked away with cut"        
 
 Vermillion Mart:
 - 6 Repels
@@ -419,25 +424,18 @@ Vermillion Mart:
 - Up 1 - Teach **TM28** (Dig) to Paras
 - Use Cut
 
-> whenever cut is used, just hold B (+ next dpad direction) to auto-clear "Paras Hacked away with cut"       
-> this text box is a case of temporary Instant Text     
-
 Do Cans Manip
 
 **Surge**
 - Voltorb:
-	- 1-24 Thrash
-	- 25+ BBx2
+	- 1-24 HP --> **Thrash**
+	- 25+ HP ---> **BB x2**
 - Pikachu:
 	- Thrash
+    - Pika QA is usually 4 reg or 6-7 crit
 - Raichu:
-	- If you are confused and dead to a self hit, swap to your bird or Squirtle
-
-</td><td>
-
-Pikachu [17.6%] | Quick Attack
---------------- | ------------
-&nbsp;          | 4-5 [6-8]
+	- Thrash x2
+    - If you are confused and dead to a self hit, swap to your bird or Squirtle
 
 </td><td>
 
@@ -503,7 +501,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
        - Para'd -------> keep using Thrash, but use Potion under 14 HP.
        - Do not use Para Heal in fight, use it in the next Repel Menu instead.
 
-- **Hiker:**: BB x3
+- **Hiker**: BB x3
 
 > 1-5 HP: Potion before Jr. Trainer (to live reg QA)     
 > 1-9 HP: Potion before Jr. Trainer (to live crit QA)     
@@ -574,7 +572,7 @@ Fly Menu (2):
 > Slot 13 - Revive (3 below Helix)     
 
 - Pidgeotto:
-   - 1-8 HP: S7 - Potion, (U4 X Acc if Sand), TB
+   - 1-8 HP: Slot 7 - Potion, (Up 4 X Accuracy if Sand hits), TB
    - 9+ HP: TB
 - Gyarados: TB
 - Growlithe: (1-8 HP: Potion), BB
@@ -595,7 +593,7 @@ Fly Menu (2):
 Pick up the Rare Candy.
 
 Menu before Ghost:
-- S2 teach **TM07** (HD) over Slot 1 (RS)
+- S2 - teach **TM07** (HD) over Slot 1 (RS)
 
 **Ghost Encounter:**
 - Swap S3 **HM01** d7 w/ **Super Repels**
@@ -605,7 +603,7 @@ Menu before Ghost:
 - TB x3 (+ BB)
 
 **Rocket 2:**
-- X Acc + HD x2
+- X Accuracy + HD x2
 
 **Rocket 3:**
 - TB x2
@@ -625,15 +623,16 @@ Enter Silph Co and take the stairs to the 5th Floor
 **Rocket w/Arbok:**
 - Thrash x2-3
 
-> If under 90 HP and Parlyzed, menu + use Slot 5 - Parlyz Heal before the next fight.
+> If under 90 HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
+> 90+ HP and Paralyzed: delay using Para Heal until in the next fight.     
 
 Get the Card Key
 
 **Rival:**
 - Pidgeot:
-	- X Accuracy
+	- **X Accuracy**
 	- (+ Parlyz Heal, if needed)
-	- d13 - X Speed (3 below Revive)
+	- d13 - **X Speed** (3 below Revive)
     - HD x5
 
 > If under 78 HP, then **Menu before the next fight**:        
@@ -644,7 +643,7 @@ Get the Card Key
 > - Drowzee: HD     
 > - Marowak: HD     
 
-**Silph Rocket - entering with 78+ HP**: 
+**Silph Rocket - with 78+ HP**: 
 - Cubone:
     - **X Accuracy**
     - if Bone Club hits, then d6 use **Elixer** (3 below Parlyz Heal)
@@ -688,18 +687,18 @@ Menu before Snorlax:
 
 > if we ran out of either potions or para heals some time after Surge, then modify EQ Menu as follows:      
 > S4 - **Repel**, d4 swap **Helix** d5 w/ **X-Special**, d5 teach **TM26** (EQ) over Slot 2 (Thrash)     
-> in this case, pick up [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS) to fill the bag space   
+> <img src="https://i.imgur.com/vm9OURj.png" width = "120"> in this case, pick up [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS) to fill the bag space          
 
-**Safari Zone**:
-- Use Slot 3 Super Repel in Zone 2 shown below:
+## Safari Zone
 
-
-- <img src="https://i.imgur.com/vV1rLdL.png">
+- Use Slot 3 - **Super Repel** in Zone 2 around the tile shown below:
+- <img src="https://i.imgur.com/6SNJtan.png" width = "150">
 
 
 - Pick up the Gold Teeth and get HM03 (Surf) in the house.
 
-- Exit the house, Dig out of the Safari Zone, Fly (D2) back to Fuschia City, and walk into the gym. 
+- Exit the house, Dig out of the Safari Zone
+- Fly (D2) back to Fuschia City, and walk into the gym. 
 
 **Juggler 1:**
 - EQ x4
@@ -727,14 +726,14 @@ Menu before Snorlax:
 - **Bike** East to get Strength
 - Fly to Pallet Town
 
-> Walk to the bottom facing the water and menu.
+> Walk to the bottom left, face the water, and Menu.
 
 **Surf Menu**:
 - **Super Repel**
 - d15 teach **HM03** (Surf) to Squirtle (4 below HM02)
 - use Surf
 
-## Cinnabar Island
+## Cinnabar Mansion
 
 - Pick up **TM14** (Blizzard)
 
@@ -746,7 +745,7 @@ Menu before Snorlax:
 Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2) and [Secret Key](https://gunnermaniac.com/pokeworld?map=216#5/13).
 - Dig out
 
-## Celadon City
+## Erika's Gym
 
 Bike to the gym, cut the trees. 
 
@@ -764,14 +763,15 @@ Bike to the gym, cut the trees.
 - Blizz
 - EQ
 
-Fly (D2) back to Cinnabar
+**Cut the middle tree** to exit the gym.
+- **Fly (D2)** back to Cinnabar Island
 
-## Cinnabar Island
+## Blaine's Gym
 
-Quiz answers: A B B B A B
+Quiz answers: **A B B B A B**
 
 **Blaine:**
-- X Accuracy + EQ
+- **X Accuracy** + EQ
 - HD x3
 
 Dig out and Bike East to Sabrina's gym
@@ -784,28 +784,29 @@ Dig out and Bike East to Sabrina's gym
 **Sabrina:**
 - EQ x4
 
-Walk back to the teleporter and Dig out and Fly (U1) to Viridian and Bike to the Gym.
+Walk back to the teleporter and Dig out.
+- **Fly (U1)** to Viridian and Bike to the Gym.
 
 ## Viridian City
 
-**Cooltrainer Rhyhorn**
+**Cooltrainer's Rhyhorn**
 - EQ
 
 [Save before Blackbelt]
 
 **Blackbelt:**
-- Machoke: X Acc + HD
-- Machop: Blizz (or EQ if 0 Blizz left)
-- Machoke: HD
+- Machoke: **X Accuracy** + **HD**
+- Machop: **Blizz** (or EQ if somehow 0 Blizz are left)
+- Machoke: **HD**
 
 > Leave the gym to reset the trainer      
-> Take one step up and buffer Start     
+> Take one step up and buffer Start to Menu     
 
-**Menu**:
-- Slot 6 Elixer (3 below Super Repel)
+**Elixer Menu**:
+- Slot 6 - **Elixer** (3 below Super Repel)
 
 > Backup Boom Strats note:     
-> If 27+ hp, then use Slot 4 - **X Special** turn 1 against **Giovanni's 4th Pokemon - Nidoking**,     
+> If 27+ hp, then use **Slot 4 - X Special** turn 1 against **Giovanni's 4th Pokemon - Nidoking**,     
 > (TB stall after if needed until he hits you), then **EQ** and play normal.     
 
 **Giovanni:**
@@ -818,7 +819,7 @@ Walk back to the teleporter and Dig out and Fly (U1) to Viridian and Bike to the
 Menu after leaving the gym and hopping the ledge:
 - **Bike**
 
-Menu before the grass (cursor is on items):
+Menu before the Nido grass (cursor is on items):
 - Slot 3 - use **Super Repel**
 
 > remember to X Special **on Growlithe** in the next fight     
@@ -835,15 +836,14 @@ Menu before the grass (cursor is on items):
 
 ## Badge Check
 
-- Bike...
-- Use Surf...
-- Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
+- Get on Bike.
+- When using Surf: Up 1 to Pkmn, D1 to Squirtle, D1 to Surf.
+- Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water.
 - Get back on Bike
 
 ## Victory Road
 
-Boulder #1
-- Menu one step up into cave
+Menu on step up into cave - "Boulder #1"
 - Use **Super Repel**
 - then use **Strength**
 
@@ -861,9 +861,8 @@ Boulder #4 *after droping through the hole*:
 - Bike
 
 > Optional Safety (especially if low on healing items):     
-> Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7).       
-
-<img src="https://i.imgur.com/hIcu2MX.png" width="175" >
+> Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)       
+> <img src="https://i.imgur.com/hIcu2MX.png" width="175" >      
 
 ## Elite Four
 
