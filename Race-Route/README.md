@@ -176,7 +176,7 @@ Options: Battle Style to Set before leaving Brock's gym
 
 **PoY Backup**
 - **Standard Intro**
-<img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
+- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
 
 **Grogir Backup**
 - **Hold A on Bios**
