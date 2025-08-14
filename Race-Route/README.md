@@ -169,7 +169,7 @@ Options: Battle Style to Set before leaving Brock's gym
 	- Leer + Tackle, then throw balls
 	- or HA x1, then throw balls (only if 6+ HA are left)
 
-## Mount Moon
+## Mount Moon 
 
 - Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
 - Last Floor of Leo Manip:
