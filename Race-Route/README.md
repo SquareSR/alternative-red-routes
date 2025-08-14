@@ -430,12 +430,13 @@ w/Screech & Growl | 17
 
 Exit gym, Cut the tree, get the Bike Voucher, and Dig out. 
 
-## Cerulean City
+## Fly Split
 
-- Get the Bike
-Bike Menu:
-  - Swap Slot 1 Potion d9 w/ Bike
-  - U1 Teach TM24 (TB) over Slot 3 (HA)
+- Get the Bike and exit shop.
+
+**Bike Menu**:
+  - Swap Slot 1 - **Potion** down 9 w/ Bike
+  - U1 Teach **TM24** (TB) over Slot 3 (HA)
   - Use the Bike
 
 ## Route 9
@@ -450,7 +451,7 @@ Bike Menu:
 - Thrash x3
 
 
-**Bug Catcher:**
+**Venonat Trainer:**
 | HP           | Strategy                    |
 | ------------ | --------------------------- |
 | 1-4          | BB x2 and Potion on Venonat |
@@ -471,12 +472,17 @@ Bike Menu:
 
 - **Pokemaniac 1**: BB, TB
 - **Pokemaniac 2**: TB
-- Oddish Girl (w/Gentleman Candy): Thrash, Thrash
-- **Oddish Girl (w/out Gentleman): if under 43 hp, SAVE THE GAME before the fight** 
-    - 18-22 HP: TB + Thrash (otherwise, Thrash turn 1)
-	- Sleep --> Potion under 6 HP.
-    - Para --> Keep Thrashing, but Potion under 14 HP
-         - Do not use the para heal in fight, use it in the next Repel Menu
+
+> Save before Oddish Girl if under 43 HP. 
+
+- **Oddish Girl**
+    - Gentleman Candy --> Thrash turn 1
+    - 1-17 or 23+ HP --> Thrash turn 1
+    - 18-22 HP --------> TB + Thrash
+	   - Sleep --> Potion under 6 HP.
+       - Para --> keep Thrashing, but Potion under 14 HP
+       - Do not use the para heal in fight, use it in the next Repel Menu
+
 - **Hiker:**: BB x3
 
 > 1-5 HP: Potion before Jr. Trainer (reg QA)     
