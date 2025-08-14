@@ -172,15 +172,17 @@ Options: Battle Style to Set before leaving Brock's gym
 ## Mount Moon 
 
 - Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
-- Last Floor of Leo Manip:
-- <img src="https://i.imgur.com/Ppd4t5L.png" width = "300">
+- Hold a palette swap.
+- Last floor movement:
+<img src="https://i.imgur.com/Ppd4t5L.png" width = "300">
 
 **PoY Backup** (if needed)
-- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
+- Standard Intro
+<img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
 
 **Grogir Backup** (if needed)
 - **Hold A on Bios**
-- <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
+<img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
 **Menu** before walking in front of the Rocket:
 - Toss any remaining Poke Balls (only if you have a Paras)
