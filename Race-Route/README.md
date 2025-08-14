@@ -173,8 +173,6 @@ Options: Battle Style to Set before leaving Brock's gym
 
 - Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
 - Hold a palette swap.
-- Last floor movement:
-<img src="https://i.imgur.com/Ppd4t5L.png" width = "300">
 
 **PoY Backup** (if needed)
 - Standard Intro
