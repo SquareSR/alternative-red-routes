@@ -892,13 +892,13 @@ Only if zero Revives are left:
 - d10 use **Rare Candy** (2 below HM03)
 
 **Agatha:**
-- Gengar: Slot 3 - **X Special** + **EQ**
+- Gengar: **Slot 3 - X Special** + **EQ**
     - Hypnosis hit --> d10 Poke Flute (2 below HM02)
 - Golbat: **Blizz**
     - Haze notes:
         - TB x2 on Golbat if you miss Blizz into Haze
         - 1-24 HP: yolo (or Full Restore [3 below HM03] on Arbok if you have one)
-        - 25-60 HP: consider Super Potion on Arbok (Para Heal if Glared)
+        - 25-60 HP: consider FR or Super Potion on Arbok (Para Heal if Glared)
 - EQ x3
 
 HP      | ITEMS
@@ -914,8 +914,8 @@ HP      | ITEMS
 
 **Menu before Lance**:
 - **Use Slot 4 - Elixer** and heal to 128+ HP.
-- (Slot 6 - Super Potion; Slot 9 - Potion as needed)
-- Save before Lance
+- (**Slot 6 - Super Potion**; **Slot 9 - Potion** as needed)
+- **Save before Lance**
 
 **Lance:**
 - Gyarados: **Slot 3 - X Special** + TB
@@ -934,10 +934,10 @@ Any HP | Heal to 45+ for safety | or yolo if required
 
 **Menu before Champ**:
 - Heal to 22+ HP
-- (Only Save if you have zero Revives or if you only have one X Accuracy left.)
+- (Only Save if you have zero Revives or if you have only one X Accuracy left.)
 
 **Champion:**
-- Pidgeot Turn 1: use **Slot 3 - X Special**
+- Pidgeot Turn 1: **Slot 3 - X Special**
 - Pidgeot Turn 2: 
 	- If Pidgeot does NOT use Sky Attack turn 1:
 		- Pidgeot: **Up 1 - X Acc** + HD
