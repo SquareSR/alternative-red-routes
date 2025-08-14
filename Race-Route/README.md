@@ -617,7 +617,8 @@ Get the Card Key
     - HD x5
 
 > If under 78 HP, then **Menu before the next fight**:        
-> use Slot 8 - Elixer (3 below Parlyz Heal)     
+> use Slot 8 - Elixer (3 below Parlyz Heal)      
+>      
 > **Silph Rocket - under 78 HP**:      
 > - Cubone: X-Accuracy + BB     
 > - Drowzee: HD     
