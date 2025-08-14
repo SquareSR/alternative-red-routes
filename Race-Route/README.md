@@ -7,8 +7,7 @@
 - [racetime.gg](https://racetime.gg/)
 
 ### Other Routes
-- [3 Repel Flex Lass (in progress)](https://docs.google.com/document/d/1T58hfhc6-tzkCN2fLi7-xm1OG0g8iwj1u-aPlhjhbcM/edit?usp=sharing)
-- [2021 6 Repel race route notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
+- [6 Repel + PPUP - Race Route Notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
 
 
 ### Before you start
@@ -35,19 +34,22 @@ If you get a L2 or L3 encounter, spam Tackle to get EXP
 
 ## Viridian City
 
-> Note if you do not have EXP yet after Route 1:           
->          
-> Viridian Forest:       
-> Tackle spam if you get a L3 Caterpie - otherwise, run from any wild encounters.          
+Read the indented note only if no EXP yet after Route 1:
+
+> In Viridian Forest:       
+> Tackle spam on L3 Caterpie, if you get one - otherwise, run from wild encounters.          
 >        
 > Route 2 / after Viridian Forest (with a L7 Squirtle):            
 >           
-> KO any Rt 2 encounter: (TW if it's L4-5) + spam Tackle                             
+> KO one encounter in Route 2:     
+> If you already used Antidote, then run from Weedles.         
+> L2-3 Encounter: spam Tackle     
+> L4-5 Encounter: TW + spam Tackle                                  
+>      
 > If L5 Pidgey hits too many sand attacks, then either           
-> run if it's above half HP or throw pokeball if it's below half HP           
-> then find another encounter to KO to reach L8 & learn Bubble.      
-> If a wild Weedle PSNs you and you already used the Antidote, then      
-> use the pokemon center in Pewter after you get EXP.      
+> (1) run if it's above half HP or               
+> (2) throw pokeball if it's below half HP           
+> then find another encounter to KO to reach L8 & learn Bubble.     
 
 Viridian Mart:
 - 5 Poke Balls 
@@ -78,11 +80,10 @@ If you were PSN'd Menu:
 - 1-15 HP: Potion
 - Antidote
 
-If Bad 13 SPC - Do 58/60 Backup Pidgey Manip:
+If Bad Special (13 @L8) - Do **Backup Pidgey Manip**:
 - Walk up and menu with Weedle Guy just on screen.
-- Hold a Palette Swap into standard intro.
-- There are 4 A Presses (2 in House, 2 in Route 2).
-<img src="https://i.imgur.com/fg8s3lj.png" width="175">
+- Hold a Palette Swap into standard intro (manip has four A presses total).
+- <img src="https://i.imgur.com/fg8s3lj.png" width="175">
 
 ## Pewter City
 
@@ -96,16 +97,16 @@ If you were not PSN'd, Menu in Brock's Gym:
 - [Save if you have bad Special and no bird]
 
 > Use your Defense stat @L8 to decide when to Potion in fight    
-> if you don't check, then assume 15 DEF @ L8      
+> if you didn't check, then assume 15 DEF @ L8      
 
 **Brock:**
 
 #### When to Potion on Brock:
-| DEF  | Heal on Geodude | Heal on Onix | after 1 Screech | after 2 Screech |
-| ---- | --------------- | ------------ | ----------------| ----------------|
-| 15   |      1-15       |     1-13     |       1-14      |      1-20       |
-| 16   |      1-14       |     1-12     |       1-14      |      1-20       |
-| 17   |      1-13       |     1-12     |       1-12      |      1-20       |
+| DEF  | Heal on Geodude | Heal on Onix | after 1 Screech | after 2 Screeches |
+| ---- | --------------- | ------------ | ----------------| ------------------|
+| 15   |      1-15       |     1-13     |       1-14      |       1-20        |
+| 16   |      1-14       |     1-12     |       1-14      |       1-20        |
+| 17   |      1-13       |     1-12     |       1-12      |       1-20        |
 
 - Geodude: Swap to Squirtle, then spam Bubble
 	- Say yes, swap back to Nido
@@ -117,23 +118,22 @@ Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
 
-> if under 10 HP on BC1's Weedle, use a Potion on Nido in fight on the Weedle after using Leer
-
 **Bug Catcher 1:**
-- Caterpie: Leer + HA x2 (+ Tackle)
-- Weedle: Leer + HA + HA/Tackle
-   - Alternate Weedle: Leer + Tackle x3
-   - (if you gen 1 missed 1st Caterpie or have a huge lead early)  
+- Caterpie:
+	- Leer + HA x2 (+ Tackle)
+- Weedle: [1-9 Potion]
+    - Leer + HA + HA/Tackle
+    - Alternate Weedle: Leer + Tackle x3 (saves an HA, loses one turn)
 - Caterpie: Leer + Tackle + HA (+ Tackle)
 
-Menu:
+**Menu before Shorts Guy**:
 - Potion to 28+ HP
 - Toss Antidote (if you still have it)
 
 **Shorts Guy:**
-- Rat: [1-15 Potion; if @-2 1-18 Pot]
+- Rat: [1-15 Potion; 1-18 if @-2]
 	- Leer + HA x2
-- Ekans: [1-5 Potion; if @-2 1-6 Pot, if @-3 1-8 Pot]
+- Ekans: [1-5 Potion; 1-6 if @-2; 1-8 if @-3]
 	- Leer + HA x2
 		- in general use a Potion immediately after turn 1 of any Wrap hit
 
@@ -158,16 +158,18 @@ Menu:
 - Caterpie: HA x2
 - Metapod: Spam HA, finish with Tackle
 
-Catch a flyer:
-- Bird: Tackle, then throw balls
-- If 5+ HA left, you can HA L8 Pidgey; otherwise
-- L8 Pidgey: Leer + Tackle, then throw balls
+**Catch a flyer**:
+- **Bird**:
+	- Tackle, then throw balls
+- **L8 Pidgey**:
+	- Leer + Tackle, then throw balls
+	- or HA x1, then throw balls (if 5+ HA left)
 
 ## Mount Moon
 
 - Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
 
-Menu before walking in front of the Rocket:
+**Menu** before walking in front of the Rocket:
 - Toss any remaining Poke Balls (only if you have a Paras)
 - Potion to 36+ HP
 - Save the Game
@@ -195,20 +197,23 @@ Menu before walking in front of the Rocket:
 
 Menu 1-2 steps after defeating Moon Man:
 - Toss Pokeballs (if you haven't already & have a Paras)
-- Use Rare Candy
-- Teach TM12 (WG) over Tackle (slot 2)
-- Use Moon Stone
-- Teach TM01 (MP) over Leer (slot 1)  
+- Slot 4 - use **Rare Candy**
+- Slot 3 - teach **TM12** (WG) over Tackle (slot 2)
+- Slot 5 - use **Moon Stone**
+- Slot 4 - teach **TM01** (MP) over Leer (slot 1)  
 
 > If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude).      
 > This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve Bridge ranges, let you HA both Bridge Zubat, + usually Thrash 2nd Oddish before Bill.        
 
 - Talk to the Nerd
 
-**Super Nerd:** (if you are out of HA just MP instead)
-- Grimer: MP + WG or HA
-- Voltorb: MP + PS
-- Koffing: MPx2 or HA + MP (or WG if turn 1 crit)
+**Super Nerd**:
+- Grimer:
+	- MP + WG or HA
+- Voltorb:
+	- MP + PS
+- Koffing: (WG turn 2 if turn 1 crit)
+	- MP x2 or HA + MP
 
 
 If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
@@ -226,12 +231,15 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Bridge Rival:**
 
 - **Pidgeotto**: HA x2 + HA or MP
+
     - Sand Attack x1
-         - 31+ HP: spam HA & plan to swap to Bird on Rat and spam gust/peck to let bird be KO'd
          - 1-30 HP: Swap to Squirtle, Potion Nido, Spam TW until Squirtle is KO'd
+         - 31+ HP: spam HA & plan to swap to Bird on Rat and spam gust/peck to let bird be KO'd
+
     - Sand Attack x2+
          - if Pidgeotto is in HA one-shot range: Swap to Bird and let it be KO'd
          - otherwise, Swap to Squirtle, (Potion Nido if needed), spam TW to let Squirtle be KO'd
+
 - **Abra**: HA
 - **Rat**: MP [Potion under 22 HP]
 - **Bulba**: MP + HA (or MP) [Potion under 15 (or 18 if seeded), unless HA KOs] 
@@ -240,7 +248,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - MP (+ PS)
 - MP (if you missed MP into String Shot hit use HA)
 
-> Potion before any fight if under 25 hp     
+> Potion **before** any bridge fight if under 25 HP to play safe    
 > (this saves us from having to potion in fight and getting heal looped)     
 
 **Lass:**
@@ -259,11 +267,11 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15]
 | HP    | Strategy        |
 | ----- | --------------- |
-| 1-15   | Potion before fight  |
+| 1-15  | Potion before fight  |
 | 16-27 | HA + HA/PS       |
 | 28+   | MP (+ PS)       |
 
-> Always potion before Rocket if under 10 hp here.
+> 1-9 HP: Potion before Rocket.
 
 **Rocket:**
 - MP
@@ -274,69 +282,81 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Bottom Hiker:**
 - WG
 
-> 1-10 HP: Potion
+> 1-10 HP: Potion before Lass.
 
 **Lass:**
 - MP
 - HA x2 (1-6 HP: Potion)
 
-> if 1-7 HP: Potion before Hiker    
-> if 16-20 HP @L22    
-> HA + PS Machop    
+> 1-7 HP: Potion before the Hiker
 
 **Hiker:**
-- WG
-- WG
-- MP (+ PS)
-- WG
+- Geodude 1
+   - WG
+- Geodude 2
+   - WG
+- Machop [1-9 Potion]
+   - MP (+ PS)
+   - or HA + PS, if 16-20 HP
+- Geodude 3
+   - WG
 
 **Lass:**
 - MP
 - HA
-- MP (or use Thrash if you can)
+- MP (or Thrash if you can already)
 	- Teach Thrash over WG (slot 2)
 
 Menu after Bill:
-- Use Rare Candy
-- Use Escape Rope
+- Use Slot 5 - Rare Candy
+- Use Slot 3 - Escape Rope
 
 ## Cerulean City
 
-- Use the center & once again do NOT get instant text 
+- Use the Center & once again do NOT get instant text 
 
 **Dig Rocket:**
 - Thrash x1-2
-- THrash x1-2
+- Thrash x1-2
 
 **Jr Trainer F:**
 - Thrash x2
 
-**Potion to near full if too much damage was taken, SAVE THE GAME, and talk to Misty:**
-- Thrash x1, Thrash x2-3
-	- If confused on Starmie after X-Defend,
-    - then swap to Squirlte and spam TW to let it be KO'd.
+**Menu before Misty**:
+- Potion to near full HP (if a lot of damage was taken)
+- Save the Game.
 
+**Misty**:
+- Staryu:
+    - Thrash x1
+- Starmie:
+    - Thrash x2-3
+	- If confused on Starmie after X-Defend, swap to Squirtle + spam TW to let it be KO'd.
 
-If 1-15 hp after Misty (or 16-24 and you want to play really safely):
+## After Misty
+
+If 1-15 HP (or 16-24 an want to play safe / skip fly red bar):
 - Pickup the hidden full restore in the underground and use it right away.
-<img src="https://i.imgur.com/jaosL5j.png">
-- If you need to save time and have enough Potions, then 1-15 HP: Use Potion.   
+- <img src="https://i.imgur.com/jaosL5j.png">
+- Otherwise, use a Potion before the Jr. Trainers if 1-15 HP after Misty.  
 
 ## Route 6
 
-If you picked up the hidden Great Ball because you have a Pidgey and no Paras,
-then menu immediately after exiting the underground in Route 6:
-- Swap TM34 with Great Ball
-- Scroll back up to the top of the bag
-- then swap Great Ball to Slot 1
-- Save, Hard Reset, Normal Intro Buffer, No A presses, Normal Yolo Ball
-<img src="https://i.imgur.com/AJkWygf.png" width="125">
+Ignore the note below if you either caught Paras or have a Spearow to trade for DUX:
+
+> If you picked up the hidden Great Ball because you have a Pidgey and no Paras,     
+> then menu immediately after exiting the house after the underground:     
+> - Swap TM34 with Great Ball     
+> - Scroll back up to the top of the bag    
+> - then swap Great Ball to Slot 1     
+> - Save, Hard Reset, Normal Intro Buffer, No A presses, Normal Yolo Ball    
+> - <img src="https://i.imgur.com/AJkWygf.png" width="125">     
 
 **Jr Trainer F:**
-- Thrash
+- Thrash x3
 
 **Jr Trainer M:**
-- Thrash
+- Thrash x2
 
 ## Vermilion City
 
@@ -349,12 +369,12 @@ If 1-12 HP (or 1-21 HP to be safe):
 	- Sand Attack x1
         -  1-12 HP: Swap to Squirtle, Potion Nido, Spam TW to let Squirtle be KO'd.
         -  13-22 HP: Spam HA & plan to swap to Squirtle on Raticate (may be able to Pot Nido).
-        -  23+ HP: spam HA & plan to swap to bird on Raticate. 
+        -  23+ HP: spam HA & plan to swap to Bird on Raticate. 
     - Sand Attack x2+
-        - Swap to Bird/Squirtle and let them be KO'd 
+        - Swap to Bird/Squirtle right away and let them be KO'd 
 - Raticate:
 	- 1-12 HP: **Potion**
-    - 13-22 HP: **Potion** [or MP (which risks Hyper Fang crit)]
+    - 13-22 HP: **Potion** [or MP, which does risk Hyper Fang crit]
 	- 23+ HP: **HA + PS**
 - Kadabra:
 	- 1-12 HP: **HA** Kadabra & Potion turn 1 on Ivysaur, then Thrash
@@ -362,7 +382,7 @@ If 1-12 HP (or 1-21 HP to be safe):
 
 Talk to the Captain to get HM01.
 
-Depending of your HP, you may fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
+Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
 | HP    | Strategy                                |
 | ----- | --------------------------------------- |
@@ -375,10 +395,10 @@ Vermillion Mart:
 - 4 Parlyz Heals
 
 Cut Menu:
-- Teach TM11 (BB) over Slot 4 (PS)
-- [Rare Candy if you fought the Gentleman]
-- Teach HM01 (Cut) to Paras
-- Teach TM28 (Dig) to Paras
+- Slot 7 - Teach **TM11** (BB) over Slot 4 (PS)
+- [Slot 8 - use Rare Candy, if you fought the Gentleman]
+- Slot 7 - Teach **HM01** (Cut) to Paras
+- Up 1 - Teach **TM28** (Dig) to Paras
 - Use Cut
 
 Do Cans Manip
