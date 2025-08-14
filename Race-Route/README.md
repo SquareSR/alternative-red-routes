@@ -379,7 +379,7 @@ Ignore the note below if you either caught Paras or have a Spearow to trade for 
 ## Vermilion City
 
 Before Boat Rival:
-- Potion to 13+ or 22+ HP to be safe.
+- Potion to 13+ or 23+ HP to be safe.
 
 **Boat Rival:** 
 - Pidgeotto: [1-12 HP: Potion]
@@ -402,22 +402,25 @@ Talk to the Captain to get HM01.
 
 Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
-| HP    | Strategy                                |
-| ----- | --------------------------------------- |
+| HP    | Strategy                                   |
+| ----- | ------------------------------------------ |
 | 1     | Do Gentleman and use a Potion in Cut Menu  |
-| 2-11   | Do Gentleman                            |
-| 12-24  | Do Gentleman if you want to play safely |
+| 2-11   | Do Gentleman                              |
+| 12-24  | Do Gentleman if you want to play safely   |
 
 Vermillion Mart:
 - 6 Repels
 - 4 Parlyz Heals
 
-Cut Menu:
+**Cut Menu**:
 - Slot 7 - Teach **TM11** (BB) over Slot 4 (PS)
 - [Slot 8 - use Rare Candy, if you fought the Gentleman]
 - Slot 7 - Teach **HM01** (Cut) to Paras
 - Up 1 - Teach **TM28** (Dig) to Paras
 - Use Cut
+
+> whenever cut is used, just hold B (+ next dpad direction) to auto-clear "Paras Hacked away with cut"       
+> this text box is a case of temporary Instant Text     
 
 Do Cans Manip
 
