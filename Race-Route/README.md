@@ -353,12 +353,11 @@ Menu after Bill:
 > do not use it, sell the full restore later in Celadon.     
 > (5 potions cost 1500 and the full restore sells for 1500)        
 
-If 1-15 HP (or 16-24 HP):
-- Fastest Option (if 3+ Potions left):
-   - use **Potion** on Nido.
-- Safest Option:
+If 1-15 HP (or 16-24 HP) after Misty:
+- If 3+ Potions are left:
+   - use a **Potion** on Nido.
+- Otherwise:
    - Pickup the hidden full restore in the underground
-   - <img src="https://i.imgur.com/jaosL5j.png"  width="150">
    - and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
 
 ## Route 6
