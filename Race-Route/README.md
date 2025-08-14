@@ -66,11 +66,9 @@ Nidoran Manip
              
 - Get the Antidote and the hidden Forest Potion
 
-**Weedle Guy:**
-- Good ATK (11-12 ATK @L6)
-    - TW x2 + spam Tackle [1-7 HP: Potion]
-- Bad ATK (10 ATK @L6)
-    - TW x3 + spam Tackle [1-7 HP: Potion]
+**Weedle Guy:** [1-7 HP: Potion]
+- TW x2-3 + spam Tackle 
+    - TW x3 is best if Bad ATK (10 ATK @L6)
 
 > L8 Squirtle Stats     
 > Check Defense & Special again      
