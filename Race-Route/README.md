@@ -502,8 +502,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 
 - **Hiker**: BB x3
 
-> 1-5 HP: Potion before Jr. Trainer (to live reg QA)     
-> 1-9 HP: Potion before Jr. Trainer (to live crit QA)     
+> 1-9 HP: Potion before Jr. Trainer (to live crit QA - reg QA does 5)     
 
 **Jr Trainer F:**
 - Thrash x3
