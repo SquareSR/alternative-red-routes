@@ -171,8 +171,7 @@ Options: Battle Style to Set before leaving Brock's gym
 
 ## Mount Moon 
 
-- Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing)
-- **Hold a palette swap**
+- Do [Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing) (**Hold a palette swap**)
 
 **PoY Backup**
 - **Standard Intro**
