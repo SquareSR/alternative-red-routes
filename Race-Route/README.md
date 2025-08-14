@@ -9,6 +9,7 @@
 ### Other Routes
 - [6 Repel + PPUP - Race Route Notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
 - [3 Repel + PPUP - Race Route by MaddiicT](https://pastebin.com/pNNQR9r4)
+- [3 Repel Race Route Flex Rt3 Lass](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/race-route/)
 
 
 ### Before you start
