@@ -348,7 +348,7 @@ Menu after Bill:
 
 > If you somehow have zero Potions left, go to the **Cerulean Mart** after Misty           
 > Buy 5 Potions + quickly menu to swap TM34 with Potions to fix our bag.     
-> Pick up the hidden Full Restore      
+> Pick up the hidden Full Restore in the underground           
 > <img src="https://i.imgur.com/jaosL5j.png"  width="125">       
 > do not use it, sell the full restore later in Celadon.     
 > (5 potions cost 1500 and the full restore sells for 1500)        
@@ -407,10 +407,10 @@ Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Rig
 | 2-11   | Do Gentleman                            |
 | 12-24  | Do Gentleman to be extra safe           |
 
-> A note to keep in mind while the boat is leaving:       
-> the text box after using Cut is a case of temporary Instant Text.     
-> after Cut has been used, just start **holding B** (+ next dpad direction)       
-> to perfectly auto-clear "Paras Hacked away with cut"        
+> Note:           
+> The text box after using cut = Instant Text.           
+> After pressing A to use Cut, **hold B**        
+> to perfectly auto-clear "Paras Hacked away with Cut."        
 
 Vermillion Mart:
 - 6 Repels
@@ -431,7 +431,7 @@ Do Cans Manip
 	- 25+ HP ---> **BB x2**
 - Pikachu:
 	- Thrash
-    - Pika QA is usually 4 reg or 6-7 crit
+    - Pika QA is 4 reg or 6-7 crit
 - Raichu:
 	- Thrash x2
     - If you are confused and dead to a self hit, swap to your bird or Squirtle
