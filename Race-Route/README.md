@@ -54,7 +54,7 @@ Read the indented note only if no EXP yet after Route 1:
 > then find another encounter to KO to reach L8 & learn Bubble.     
 
 Viridian Mart:
-- 5 Poke Balls 
+- Buy **5 Poke Balls**
 
 Nidoran Manip
 > Swap Potion & Pokeball before Saving     
@@ -84,13 +84,14 @@ If you were PSN'd Menu:
 
 If Bad Special (13 @L8) - Do **Backup Pidgey Manip**:
 - Walk up and menu with Weedle Guy just on screen.
+- Still Swap Nido to the lead + potion/antidote as needed
 - Hold a Palette Swap into standard intro (manip has four A presses total).
 - <img src="https://i.imgur.com/fg8s3lj.png" width="175">
 
 ## Pewter City
 
 Pewter Mart:
-- **7 Potions**
+- Buy **7 Potions**
 
 If you were not PSN'd, Menu in Brock's Gym:
 - Swap Nido and Squirtle 
@@ -113,9 +114,9 @@ If you were not PSN'd, Menu in Brock's Gym:
 - Geodude: Swap to Squirtle, then spam Bubble
 	- Say yes, swap back to Nido
 - Onix: Swap to Squirtle, then spam Bubble
-	- If Bide: TW x2
-    - If bad Special + you Bubbled once into Bide, either yolo or swap to bird to sac if you have one.
-    - If bad Special + 2 Screeches, you can swap to bird if Onix still has a turn. 
+	- Turn 1 Bide --> TW x2
+    - If bad Special + Bubble x1 into Turn 2 Bide, then either swap to bird to sac if you have one (otherwise just yolo).
+    - If bad Special + 2 Screech hits, you can swap to + sac bird if Onix still has a turn.
 
 Options: Battle Style to Set before leaving Brock's gym
 
@@ -126,7 +127,7 @@ Options: Battle Style to Set before leaving Brock's gym
 	- Leer + HA x2 (+ Tackle)
 - Weedle: [1-9 Potion]
     - Leer + HA + HA/Tackle
-    - Alternate Weedle: Leer + Tackle x3 (saves an HA, loses one turn)
+    - Alt Weedle: Leer + Tackle x3 (save an HA, costs 1 turn)
 - Caterpie: Leer + Tackle + HA (+ Tackle)
 
 **Menu before Shorts Guy**:
@@ -148,7 +149,7 @@ Options: Battle Style to Set before leaving Brock's gym
 - Caterpie: [1-5 Potion]
 	- HA x2 (Tackle turn 2 only if Weedle hit 2 String Shots)
 - Metapod:
-	- HA x2 + Tackle (only HA turn 3 if you were slower)
+	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod)
 
 #### Before Bug Catcher 3
 | HP   | Healing Strategy  |
@@ -166,7 +167,7 @@ Options: Battle Style to Set before leaving Brock's gym
 	- Tackle, then throw balls
 - **L8 Pidgey**:
 	- Leer + Tackle, then throw balls
-	- or HA x1, then throw balls (if 5+ HA left)
+	- or HA x1, then throw balls (only if 6+ HA are left)
 
 ## Mount Moon
 
@@ -233,15 +234,15 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 
 **Bridge Rival:**
 
-- **Pidgeotto**: HA x2 + HA or MP
+- **Pidgeotto**:
+    - HA x2 + HA or MP
 
     - Sand Attack x1
-         - 1-30 HP: Swap to Squirtle, Potion Nido, Spam TW until Squirtle is KO'd
-         - 31+ HP: spam HA & plan to swap to Bird on Rat and spam gust/peck to let bird be KO'd
+         - 1-30 HP --> **Swap to Squirtle**  & Potion Nido, Spam TW until Squirtle is KO'd
+         - 31+ HP ---> **keep spamming HA**  & the plan is to sacrifice our Bird against Rattata
 
     - Sand Attack x2+
-         - if Pidgeotto is in HA one-shot range: Swap to Bird and let it be KO'd
-         - otherwise, Swap to Squirtle, (Potion Nido if needed), spam TW to let Squirtle be KO'd
+         - **Swap to Squirtle** & (Potion Nido if 1-30 HP), spam TW to let Squirtle be KO'd
 
 - **Abra**: HA
 - **Rat**: MP [Potion under 22 HP]
@@ -311,8 +312,8 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 	- Teach Thrash over WG (slot 2)
 
 Menu after Bill:
-- Use Slot 5 - Rare Candy
-- Use Slot 3 - Escape Rope
+- Use Slot 5 - **Rare Candy**
+- Use Slot 3 - **Escape Rope**
 
 ## Cerulean City
 
@@ -326,7 +327,7 @@ Menu after Bill:
 - Thrash x2
 
 **Menu before Misty**:
-- Potion to near full HP (if a lot of damage was taken)
+- Potion to 75+ HP if needed
 - Save the Game.
 
 **Misty**:
