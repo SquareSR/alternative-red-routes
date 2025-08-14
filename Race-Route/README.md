@@ -113,6 +113,7 @@ If you were not PSN'd, Menu in Brock's Gym:
 - Onix: Swap to Squirtle, then spam Bubble
 	- If Bide: TW x2
     - If bad Special + you Bubbled once into Bide, either yolo or swap to bird to sac if you have one.
+    - If bad Special + 2 Screeches, you can swap to bird if Onix still has a turn. 
 
 Options: Battle Style to Set before leaving Brock's gym
 
