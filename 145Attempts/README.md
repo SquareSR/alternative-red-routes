@@ -3,11 +3,6 @@
 Marts:
 - **3 Poke Balls** & **8 Potions**
 
-| HP   |     Strategy             |
-| ---- | ------------------------ |
-| 1-12 |  Potion before Manip     |
-| 13+  |  Slot 2 Yolo ball        |
-
 ## Brock Split
 
 <img src="https://i.imgur.com/899HQPn.png">
