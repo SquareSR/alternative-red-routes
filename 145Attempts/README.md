@@ -323,28 +323,18 @@ Fly Menu:
 > Slot 7 - Potion (3 below HM01)     
 > Up to X Acc (1 above HM01)      
 
-| HP    | Strategy                                    |
-| ----- | ------------------------------------------- |
-| Late Drill l   | TB x2, BB, Thrash                                    |
-| Late Drill  |                          |
-| 8, 16 | TB x2, pot/acc growlithe                    |
-| 17-18 | Late Drill                                  |
-| 19    | Late Drill, Early Drill if you got Moon Exp |
-| 20-27 | Early Drill                                 |
-| 28+   | Late Drill                                  |
-
 Channeler 1:
 - Select + Down + Select + A
 - Swap RS to Slot 1 + use RS x2
 
 > fight channelers, get Elixers, get candy
 
-Menu before Ghost:
-- S2 - teach **TM07** (HD) over RS (slot 1)
+Late Drill - Menu before Ghost:
+- S2 **TM07** (HD) over RS (slot 1)
 
 **Ghost Encounter:**
 - Swap S3 **HM01** d7 w/ **Super Repels**
-- d3 use **Poke Doll**
+- d2 use **Poke Doll**
 
 > Fight the rockets.
 
@@ -357,51 +347,45 @@ Get the Poke Flute and Fly (D1) to Celadon.
 - Get the [hidden tree Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
 
 **Rocket w/Arbok:**
-- Thrash x2-3
-
-> If under ~71-89ish HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
-> ~71-90+ HP and Paralyzed: delay using Para Heal until in the next fight.     
+- X Accuracy (+ triple to Parlyz Heal, if needed) + HD
 
 Get the Card Key
 
 **Rival:**
-- Pidgeot:
+- Pidgeot: HD
 	- **X Accuracy**
-	- (+ d3 Parlyz Heal, if needed)
-	- d13 - **X Speed** (3 below Revive)
-    - HD x5
+	- d12 - **X Speed** (HM01 delays / spot exits)
+    - U1 - **X Special**
+- Gyarados: HD
+    - 38-45: **Up Potion** Zam (HM01 exits)
+    - 46-51: HD & X-Spc on Zam
+    - 52-75: **U2 Spot**
+    - 76-78: **X Special**
+    - 89-100: **U7 Potion** (HM01 exits)
+    - 101+: **d4 Flute** (2 below HM02)
+- Growlithe: **BB**
+    - 19-25 @+1: **X Spec** (3 below HM01 or U4 from Flute)
+    - 19-25 @+2: **Flute if @+2** (2 below HM02)
+- Zam: HD
+- Venu: HD
 
-> If under 78 HP, then **Menu before the next fight**:        
-> use Slot 8 - Elixer (3 below Parlyz Heal)      
->      
-> **Silph Rocket - under 78 HP**:      
-> - Cubone: X-Accuracy + BB     
-> - Drowzee: HD     
-> - Marowak: HD     
+**Menu before the next fight**:        
+- S8 Elixer (Parlyz Heal exits)      
 
-**Silph Rocket - with 78+ HP**: 
-- Cubone:
-    - **X Accuracy**
-    - if Bone Club hits, then d6 use **Elixer** (3 below Parlyz Heal)
-    - BB
-- Drowzee:
-    - d6 use **Elixer** [if you haven't already]
-    - HD
-- Marowak:
-    - HD
-
-> Quick Reference            
-> Slot 12 - Revive (2 below HM01)     
+**Silph Rocket - under 78 HP**:      
+- Cubone: X-Accuracy + BB
+- Drowzee: HD
+- Marowak: HD
 
 **Giovanni:**
 - **X Accuracy** + HD
 - HD
-- BB (24-37 could TB stall if desperate for red bar)
+- BB (24-37 TB stall for red bar)
 - HD
 
-Go back to the elevator and go to the 10th Floor (3 below 7th) to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
-
-Dig out w/ Paras
+**10th Floor**
+- 10th (7th exits)
+- Dig out w/ Paras
 
 ## Celadon City
 
@@ -409,8 +393,16 @@ Dig out w/ Paras
 
 Menu before Snorlax:
 - Slot 4 - **Repel**
-- d1 swap **Parlyz Heal** d11 w/ **Rare Candy** (2 below X Special)
+- d1 swap **Parlyz Heal**
+     - d11 w/ **Rare Candy** (*delay HM01 into 2 below X Speed*)
 - d1 use **Poke Flute**
+
+> If we ran out of Para Heals (Modify Snorlax Menu):     
+> S4 **Repel**     
+> d4 swap **Helix** (Potion exits)     
+> d7 w/ **Rare Candy) (2 below X Speed)     
+> d1 **Flute**     
+> Note: pick up an item & Candy Menu ends up being Candy (X Special exits)     
 
 ## Cycling Road
 
@@ -420,50 +412,24 @@ Menu before Snorlax:
 
 **EQ Menu**:
 - Slot 4 - **Repel**
-- d2 swap **Potion** d8 w/ **X Special** (4 below HM01)
-- d5 teach **TM26** (EQ) over Slot 2 (Thrash)
+- d2 swap **Potion** d7 w/ **X Special** (HM01 exits)
+- d6 teach **TM26** (EQ) over Slot 2 (Thrash)
 - Use Bike
-
-> if we ran out of either potions or para heals some time after Surge, then modify EQ Menu as follows:      
-> S4 - **Repel**,      
-> d4 swap **Helix** (rc exits)      
-> d5 w/ **X-Special** (HM01 delays),      
-> d5 teach **TM26** (EQ) over Slot 2 (Thrash)          
-> get [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS)      
 
 ## Safari Zone
 
-- Use Slot 3 - **Super Repel** in Zone 2
+- Use S3 **Super Repel** in Zone 2
 - Pick up the Gold Teeth and get HM03 (Surf) in the house.
 - Exit the house, Dig out of the Safari Zone
 - Fly (D2) back to Fuschia City, and walk/bike into the gym. 
 
-**Juggler 1:**
-- EQ x4
-
-**Juggler 2:**
-- Drowzee: EQ
-- Hypno: EQ + TB (or EQ/BB)
-
-> Quick Reference            
-> Slot 12 - Revive (2 below HM01)     
-
-**Koga:**
-- EQ x3
-- Weezing:
-    - Slot 8 - **Elixer**  (3 below Rare Candy)
-	- If X Attack, Up 2 to use X Special
-
-| HP after SD    |      Red Bar Lost on...       | Overview of Strategy                   
-| -------------- | ----------------------------- | -------------------------------------
-| 0-1            | Bruno's Machamp               | Normal
-| 2-6            | Lorelei's Lapras / Cloyster   | Use Max Ether turn 2 on Bruno's Onix
-| 7-11 / 12-14   | BB's Machop / VR's Growlithe  | X Special / Elixer on Gio's Nidoking
-| 15-22          | Blaine's Rapidash             | Poké Flute on Erika's Vileplume
-| 23+            | Beauty's Exeggcute            | Poké Flute on Erika's Victreebel         
+**Koga's Weezing:**
+- S8 **Elixer**  (3 below Rare Candy)
+- U2 **X Special** (do not go below 3 X Specials)
 
 **Candy Menu** (after exiting Koga's Gym):
 - Slot 5 - Use all **Rare Candies**
+- Or if 0 Para left --> (X Special exits)
 - **Bike** East to get Strength
 - Fly to Pallet Town
 
@@ -471,8 +437,12 @@ Menu before Snorlax:
 
 **Surf Menu**:
 - **Super Repel**
-- d15 teach **HM03** (Surf) to Squirtle (4 below HM02)
-- use Surf
+- d5 swap **Helix Fossil** (X Special exits)
+- d5 w/ **X Speed** (HM01 delays)
+- d5 HM03
+
+> 0 Para Surf Menu:      
+> Srepel, d5 swap, d4 X Speed, d6 HM03       
 
 ## Cinnabar Mansion
 
@@ -491,8 +461,7 @@ Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2) and [Se
 Bike to the gym, cut the trees. 
 
 > Quick Reference            
-> Slot 10 - Revive (2 below HM01)     
-> Slot 15 - Flute  (2 below HM02)     
+> Slot 14 - Flute  (2 below HM02)     
 
 **Beauty:**
 - Blizz
@@ -502,8 +471,6 @@ Bike to the gym, cut the trees.
 | 1-24                | Normal Strats: EQ, Blizz, EQ
 | 25-32               | Poké Flute on Vileplume until hit                                                      
 | 33+                 | Poké Flute on Victreebel until hit   
-
-> S15 Pokeflute (2 below HM02) 
 
 **Cut the middle tree** to exit the gym.
 - **Fly (D2)** back to Cinnabar Island
@@ -539,8 +506,7 @@ Walk back to the teleporter and Dig out.
 
 > Quick Reference      
 > Slot **4** - X Special      
-> Slot 6 - Elixer (srepel exits)     
-> Slot 10 - Revive (2 below HM01)      
+> Slot 6 - Elixer (srepel exits)       
 
 **Blackbelt:**
 - Machoke: **X Accuracy** + **HD**
@@ -559,22 +525,22 @@ Backup Boom Strats:
 - Dugtrio: EQ
 - Nidoqueen: EQ
 - **Nidoking**: EQ
-- Rhydon: Blizz (+ Blizz) (+EQ if only 2 Blizz are left)
+- Rhydon: Blizz x1-2
 
 Menu after leaving the gym and hopping the ledge:
 - **Srepel + Bike**
 
-> Alt VR (83+ HP or behind): (X Acc +) X Spec, TB/Blizz, EQ, TB, X-Spec, TB, EQ, Blizz       
+> Alt VR (if very behind): X Accuracy + X Speed + Blizz, EQ, TB, EQ, EQ, HD       
 > Skip Max Ether      
+> EQ Jynx      
 
 **Viridian Rival:**
 - **Pidgeot**:
-    - **X Accuracy** + **Blizz** + **TB**
-- Rhyhorn: **Horn Drill**
-- Gyarados: HD
-- **Growlithe**
-    - **d2 use X Special** 
-    - HD x3
+    - **X Accuracy**
+    - d5 **X Speed** (X Special exits)
+    - **Blizz** (+ TB)
+- Rhyhorn: HD or Blizz
+- Gyarados: HDx4
 
 ## Badge Check
 
@@ -595,16 +561,7 @@ Last Srepel Menu:
 
 ## Elite Four
 
-Only if zero Revives are left:
 - Deposit Squirtle and Paras
-
-#### Lorelei backup for Revive used post-Koga
-| HP     | Strategy                                                 |
-| ----   | -------------------------------------------------------- |
-| 1-65   | standard bird swap                                       |
-| 66-81  | **S3 X Spec**, **U1 X Acc**                              |
-| 82-92  | **S11 Potion** (HM01 delays), **U9 X Acc** (HM01 delays) |
-| 99+    | **X Accuracy**                                           |
 
 **Lorelei:**
 - Dewgong:
@@ -616,29 +573,26 @@ Only if zero Revives are left:
 
 **Menu before Bruno**:
 - use Slot 4 - **Max Ether** on HD
+- X Accuracy + HD spam
 
 > Quick Reference      
 > 03 - X Special      
-> 07 - Super Pot (Elixer exits)     
-> 08 - Revive    (2 below HM01)      
-> 10 - Potion    (Spot exits)      
+> 07 - Super Pot (Elixer exits)           
+> 10 - Potion    (Spot exits / HM01 delays)      
 > 13 - Flute     (2 below HM02)      
-> 17 - Candy     (2 below HM03)
-
-
-**Bruno:**
-- **X Accuracy** + HD x5
+> 17 - Candy     (2 below HM03)     
 
 **Menu before Agatha**:
-- S7 **Super Potion x2** (Elixer exits)
+- S7 **Super Potion x1** (Elixer exits)
+     - d3 **Potion** (Spot exits, if under 19 HP)
 - d10 use **Rare Candy** (2 below HM03)
 
 **Agatha:**
 - Gengar: **Slot 3 - X Special** + **EQ**
     - Hypnosis hit --> d10 Poke Flute (2 below HM02)
 - Golbat: **Blizz**
-    - Haze --> 1-24 is a good yolo; 25-60 consider FR (HM03 exits)
-    - S12 - Parlyz Heal (1 below HM02 / 1 above Flute)
+    - Haze --> on Arbok: **25-60**  d2 **X Speed** (or Up 8 from Flute, 2 above Spot)
+         - S11 Para Heal (1 below HM02)
 - EQ x3
 
 HP      | ITEMS
@@ -656,21 +610,19 @@ HP      | ITEMS
 - **Use S4 - Elixer** and heal to 128+ HP.
 - **S6 - Super Potion** (X Special exits)
 - **S9 - Potion** (Super Potion exits)
-- **Save before Lance**
 
 **Lance:**
 - Gyarados: **S3 - X Special** + TB
-- Dragonair 1: **X Special** (+ **U1 X Accuracy** if you have 3 X Accs left) + Blizz
-- Dragonair 2: Blizz
+- Dragonair 1: Blizz
+- Dragonair 2: **d1 X Speed** + Blizz
 - Aerodactyl: TB
 - Dragonite: Blizz
 
 > Quick Reference       
 > 02 - X Accuracy     
 > 03 - X Special      
-> 06 - SPot      (X Special exits)     
-> 07 - Revive    (2 below HM01)      
-> 09 - Potion    (HM01 delays / Spot exits)      
+> 05 - Super Potion 
+> 08 - Potion    (HM01 delays or exits if 0 spots)      
 
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
@@ -682,10 +634,9 @@ Any HP |      Heal to 43+       | Heal to 52+
 
 **Menu before Champ**:
 - Heal to 22+ HP
-- (Only Save if you have zero Revives or if you have only one X Accuracy left & dead to wing atk crit.)
 - Sky Atk: 72-85 / Wing Atk: 18-22 [44-52]
-- S6 Super Potion (X Special exits)
-- S9 Potion (HM01 delays / Spot exits)
+- S5 Super Potion 
+- S8 Potion (HM01 delays / or exits if 0 spots)
 
 
 **Champion:**
