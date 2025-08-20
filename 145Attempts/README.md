@@ -606,6 +606,13 @@ HP      | ITEMS
 - **S6 - Super Potion** (X Special exits)
 - **S9 - Potion** (Super Potion exits)
 
+#### Lance Gyarados Turn 2 if Hydro Pump Misses
+
+| HP      | Strategy                         |
+| ------- | -------------------------------- |
+| 126-133 | d1 X Speed                       |
+| 134+    | EQ (or X Acc if you have 2 left) |
+
 **Lance:**
 - Gyarados: **S3 - X Special** + TB
 - Dragonair 1: Blizz
