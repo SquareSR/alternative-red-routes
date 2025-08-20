@@ -628,7 +628,8 @@ HP      | ITEMS
 
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
-4-17   |       Pot x1           | Spot x1
+4-14   |       Pot x1           | Spot x1
+15-17  |       Pot x1           | yolo
 18-21  |       Spot x1          | yolo
 22-37  |       Don't heal       | Spot x1
 38-44  |       Don't heal       | Potion or Super Potion
