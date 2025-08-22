@@ -355,8 +355,8 @@ Get the Card Key
     - 38-45: **Up Potion** Zam (HM01 exits)
     - 46-51: HD & X-Spc on Zam
     - 52-75: **U2 Spot**
-    - 76-78: **X Special**
-    - 89-100: **U7 Potion** (HM01 exits)
+    - 76-85: **X Special**
+    - 86-100: **U7 Potion** (HM01 exits)p
     - 101+: **d4 Flute** (2 below HM02)
 - Growlithe: **BB**
     - 19-25 @+1: **X Spec** (3 below HM01 or U4 from Flute)
