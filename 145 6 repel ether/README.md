@@ -464,7 +464,7 @@ Bike to the gym, cut the trees.
 Quiz answers: **A B B B A B**
 
 **Blaine:**
-- **X Accuracy** + EQ, HD x3
+- **X Accuracy** + EQ/HD, HD x3
 
 Dig out and Bike East to Sabrina's gym
 
@@ -480,6 +480,9 @@ Dig out and Bike East to Sabrina's gym
 
 Walk back to the teleporter and Dig out.
 - **Fly (U1)** to Viridian and Bike to the Gym.
+- turn 1 spot:
+- S6 Elixer (Srepel exits) on U2 Nido
+- U5 Bike (Max Ether exits)
 
 ## Viridian City
 
@@ -514,9 +517,8 @@ Backup Boom Strats:
 Menu after leaving the gym and hopping the ledge:
 - **Srepel + Bike**
 
-> Alt VR (if very behind): X Accuracy + X Speed + Blizz, EQ, TB, EQ, EQ, HD       
-> Skip Max Ether      
-> EQ Jynx      
+> Alt VR (if early elixer):     
+> X Accuracy + d5 X Speed + Blizz or TB x2, Blizz, TB, HD x3       
 
 **Viridian Rival:**
 - **Pidgeot**:
@@ -530,18 +532,15 @@ Menu after leaving the gym and hopping the ledge:
 
 - Get on Bike.
 - Surf: U1 Pkmn, D1 Squirtle, D1 Surf.
-- Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water.
 
 ## Victory Road
 
-Last Srepel Menu:
-- **Strength**.
+Post-Water Menu:
+- down1 into items
+- Srepel
 - d2 **Max Ether** on (U1) Nido
-- u2 last **Super Repel**
-- Bike
-
-> Optional Safety (especially if low on healing items):     
-> Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)        
+- Bike  
+- Inside cave U1 Pkmn, D1 Squirtle, then normal VR
 
 ## Elite Four
 
@@ -553,11 +552,11 @@ Last Srepel Menu:
 	- Swap back to Nido and **X Accuracy**
 	- HD x5
 
-> Backup Bruno: **X Accuracy**, d2 **Max Ether** on HD, + HD x5
+> Backup Bruno: **X Accuracy**, d2 **Elixer**
 
 **Menu before Bruno**:
-- use Slot 4 - **Max Ether** on HD
-- X Accuracy + HD spam
+- use Slot 4 - **Elixer**
+- X Accuracy + Blizz, HD x2, Blizz, HD
 
 > Quick Reference      
 > 03 - X Special      
