@@ -196,12 +196,12 @@ If you were not poisoned, then menu one step into Brock's Gym:
 - If you fail the manip at some point (or get an IGT failure), then just run from the extra encounters until you get to one of the backup manip locations below.
 - Avoid trying to catch a random wild Paras since the catch is not guaranteed even at low HP, catch a manipped one instead.
 
-#### [_PoY's Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4)
-- Save immediately after going through the ladder after Moon Stone
+#### _PoY's [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4)
+- If Route 3 Manip has failed, then save immediately after going through the ladder after Moon Stone
 - 2A Presses, [Select Yoloball - click here for a video of the inputs](https://youtu.be/atQiH670ENs)
 - <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
 
-#### [Grogir's Post Zubat Backup](https://pastebin.com/5rKmACtf) 
+#### Grogir's [Post Zubat Backup Paras](https://pastebin.com/5rKmACtf) 
 - **Hold A on the Bios Screen** immediately after Hard Reset
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
@@ -265,17 +265,18 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
      - During first runs especially, it's okay to lose IT at some point in order to play safely. 
 - Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
 
-**Bridge Rival:**
-- Pidgeotto:
-    - HA x3
-    - (MP turn 3 if you get bad HA rolls)
+#### Bridge Rival:
+- Pidgeotto
+    - HA x3 (MP turn 3 if bad HA rolls)
 	  - If you get hit by 2 Sand-Attacks swap to your bird and let it be KO'd
-		- Try to put Pidgeotto in HA range before doing this to avoid getting Sand-Attacked again after swapping back
-		- Get IT again after the fight
-- Abra: HA
-- Rat: MP
-- Bulba: MP + HA
-    - (MP if you get Growled or miss a bunch into Leech Seed healing)
+          - Try to put Pidgeotto in HA range before doing this to avoid getting Sand-Attacked again
+          - Swap --> return to the Bike Shop after Rival, Potion (if needed), and reget IT
+- Abra
+     - HA
+- Rat
+     - MP (or HA if hit by TW x2)
+- Bulba
+     - MP + HA (or MP turn 2 if hit by Growl)
 
 > If under ~20 HP after Boat Rival, then either         
 > (1) use a Potion (if you have at least 3 left) and go back to get IT again       
@@ -298,8 +299,8 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 - MP (+ PS)
 - HA x2
 
-> 1-7 HP: Potion before the next fight (do not go back to reget IT)      
-> Note: Mankey is 1/3 to Karate Chop and does 12-15, healing is recommended, but is slow because you lose IT      
+> 1-7 HP: Potion before the next fight (do not go back for IT, it's too far away now)      
+> Note: Mankey is 1/3 to Karate Chop and typically does 12-14 dmg, so healing is recommended
 
 **Mankey:**
 - 8-14: Potion turn 1 (or HA + HA/PS to yolo)
@@ -327,7 +328,7 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 - MP (+ PS) (or @16-20 HP: HA + PS)
 - WG
 
-> 1-6 HP: Potion turn 1 on Lass
+> 1-6 HP: Potion turn 1 on Lass' 1st Oddish
 
 **Lass:**
 - MP
@@ -341,17 +342,24 @@ Menu after Bill:
 
 ## Cerulean City
 
-- Use the Pokemon Center
+- **Use the Pokemon Center**
 - Get IT again
 
 **Dig Rocket:**
 - Thrash x1-2
 - Thrash x1-2 (+PS)
 
+> Important Note: after defeating Misty she gives us TM11 (Bubblebeam)        
+> TM11 will be taught over Slot 4 Poison Sting at some point before Surge      
+> Remember that when teaching moves you can NOT wrap around to slot 4 like you can when using moves in fight.      
+> Remember to hit Down x3 when teaching over a move like Poison Sting in Slot 4 to avoid overwriting the wrong move       
+
+Enter Misty's Gym + avoid the swimmer by going Up then Left + around.
+
 **Jr Trainer F:**
 - Thrash x2
 
-**Misty:**
+#### Misty:
 - Thrash x1
 - Thrash x2-3
 	- If confused on Starmie, swap to bird and let it be KO'd.
@@ -400,8 +408,6 @@ Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Rig
 
 > Important note for shopping: **always buy items in the order that they are listed in this guide**.       
 > Doing so is both the fastest way to buy the items and sets up our inventory in the correct order.        
-> Additonal note: when teaching moves you can NOT wrap around to slot 4 like you can when using moves in fight.      
-> Remember to hit Down x3 when teaching over a move like Poison Sting in Slot 4       
 
 #### Vermillion Mart:
 - 6 Repel
