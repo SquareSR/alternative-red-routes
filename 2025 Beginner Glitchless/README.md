@@ -8,11 +8,12 @@
 	- [7A Press - Optimal](../../resources/nido-manip.md) (Highly recommended)
 	- [1A Press - Easy](https://youtu.be/2bwQZ6jPxRE)
 - Mount Moon Manip:
-	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
+	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC) (Highly recommended, use any of the backups below if you fail it)
 	- [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4) ([2A Press Path](https://i.imgur.com/jp61CLR.png), [video w/ Select yoloball inputs](https://youtu.be/atQiH670ENs))
 	- [Post Hiker Backup Paras v2](https://pastebin.com/j5gtY4cy) (7A press, normal yoloball)
+	- Grogir's [Post Zubat Backup Paras](https://pastebin.com/5rKmACtf) 
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
-	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S)
+	- [Entr's Full Moon Manip](https://pastebin.com/jnj9j47S) (Not optimal for this route)
 - Surge Cans Manip:
 	- [Optimal Cans Manip](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
       - 58/60 success rate with 2A presses
