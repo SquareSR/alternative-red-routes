@@ -501,10 +501,10 @@ Walk into the bike shop, get the Bike, and exit the shop.
      - Do not Para Heal in fight, use it in the next Repel Menu instead.
 
 After the fight:
-- Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
-- Use another Repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
-	- If you were paralyzed, use a Parlyz Heal now
-	- You can delay these 2 Repels up to ~10 tiles
+- Use a Repel around [this tile](gunnermaniac.com/pokeworld?map=232#32/16)
+- Use another Repel before the Hiker.
+	- If you were paralyzed, use a Parlyz Heal in one of the Repel Menus.
+	- You can Repel on different tiles if you prefer, we have a lot of extra steps.
 
 **Hiker:**
 - BB x3
@@ -600,7 +600,8 @@ Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?ma
 **Channeler 1:**
 - RS x2
 
-- Get both Elixers [one is in an item ball here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [the other is hidden here](http://gunnermaniac.com/pokeworld?map=146#4/12)
+#### Get both Elixers
+- First is a [visible item ball here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [the other is hidden here](http://gunnermaniac.com/pokeworld?map=146#4/12)
 - Take the heal pad
 
 **Channeler 2:**
@@ -649,14 +650,14 @@ Talk to Mr. Fuji twice to get the Poke Flute
 - Thrash x2-3
      - If paralyzed, just keep thrashing. 
 
-> If under 90 HP + Paralyze, then use Parlyz Heal now.     
-> Otherwise, delay using the the Parlyz Heal until the next fight.     
+> If under 90 HP + Paralyzed, then menu to use Parlyz Heal now.     
+> Otherwise, delay using a Parlyz Heal until you are in the next fight.     
 
 Take the teleporter twice, get the Card Key, take the teleporter twice again. 
 - Open the door on the left and take the teleporter. 
 - Walk right + open the middle left door. 
 - Take the teleporter + walk Up + Left to have Silph Rival walk up to you.
-     - This results in fewer steps over all when rival exits screen quicker after the fight. 
+     - This results in fewer steps overall since rival exits screen quicker after the fight this way. 
 
 #### Silph Rival:
 - Pidgeot
@@ -678,20 +679,16 @@ Take the teleporter twice, get the Card Key, take the teleporter twice again.
 	- if Bone Club hits, then use **Elixer** now (if you haven't already)
 	- **BB**
 - Drowzee
-	- If you haven't used *Elixer** yet, use it now.
+	- If you haven't used **Elixer** yet, use it now.
 	- **HD**
 - Marowak
         - **HD**
 
 #### Silph Giovanni:
-- Nidorino
-        - **X Accuracy** + HD
-- Kangaskhan
-        - HD
-- Rhyhorn
-        - **BB**
-- Nidoqueen
-        - HD
+- Nidorino: **X Accuracy** + HD
+- Kangaskhan: HD
+- Rhyhorn: **BB**
+- Nidoqueen: HD
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and a [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
@@ -701,7 +698,7 @@ Dig out.
 
 - Bike west to Snorlax
 
-Menu before Snorlax:
+#### Snorlax Menu
 - Slot 4 - Repel
 - d1 swap Parlyz Heal w/ Rare Candy
 - d1 use Poke Flute
@@ -710,12 +707,14 @@ Menu before Snorlax:
 
 - Note: You can hold B (or A) to stop on Cycling Road (otherwise you move down automatically)
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
-- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CyclingRoad.png" width="200">
+- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CyclingRoad.png" width="300">
 
 
 ## Fuschia City
 
-EQ Menu:
+- Exit Cycling Road, walk through the guard house, and menu when you exit.
+
+#### EQ Menu:
 - Slot 4 - Repel
 - d2 swap Potion w/ X Special
 - Teach TM26 (Earthquake) over Thrash (slot 2)
@@ -724,7 +723,7 @@ EQ Menu:
 > If zero potions left, then swap Helix Fossil with X Special instead. 
 
 - Cut both trees to enter Safari Zone
-- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CutBothTrees.png" width="200">
+- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CutBothTrees.png" width="350">
 
 [Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
 
@@ -732,15 +731,18 @@ In the Safari Zone:
 - Super Repel in Zone 2 around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
 - Pick up the [Gold Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7)
 - Enter the Surf House and get HM03 (Surf)
-- Exit the Surf House and use Dig
+- Exit the Surf House
+
+#### Menu (after exiting the house):
+- Use Dig
 - Fly (D2) back to Fuschia City
 - Walk West and enter Koga's Gym
-- <img src="https://i.imgur.com/pN22DR8.png">
+- <img src="https://i.imgur.com/pN22DR8.png" width="125">
 
-**Juggler 1:**
+#### Juggler 1:
 - EQ x4
 
-**Juggler 2:**
+#### Juggler 2:
 - EQ
 - EQ + TB
      - If TB gets disabled, finish with BB if it's in range, finish with EQ if not or you don't know the range
@@ -775,8 +777,8 @@ In the Safari Zone:
 
 > An NPC will walk in a random direction as you Fly in, possibly blocking your path. 
 
-Walk to down + left to face the water in the bottom left of town:
-<img src="https://i.imgur.com/xEpkSOT.png">
+Walk down + left to face the water in the bottom left of Pallet Town:
+- <img src="https://i.imgur.com/xEpkSOT.png" width="125">
 
 #### Surf Menu
 - Super Repel 
@@ -796,7 +798,7 @@ Walk to down + left to face the water in the bottom left of town:
      - <img src="https://i.imgur.com/Lprfchj.png">
 - 3F:
      - Hit the switch and fall through the hole.
-     - <img src="https://i.imgur.com/6Ygm5Jr.png">
+     - <img src="https://i.imgur.com/6Ygm5Jr.png" width="200">
 - After falling (1F)
      - Avoid the scientist, skip the item, take the stairs.
      - <img src="https://i.imgur.com/jd5OoGs.png">
@@ -819,15 +821,11 @@ Walk to down + left to face the water in the bottom left of town:
 
 ## Celadon City
 
-Bike down to cut the tree guarding [the path to Erika's Gym](https://i.imgur.com/oJtdXdj.png).
+Bike down to cut the tree blocking [the path to Erika's Gym](https://i.imgur.com/oJtdXdj.png). 
+- Enter the gym.  
+- <img src="https://i.imgur.com/cl4CRGn.png">
 
-> Follow the path below inside Erika's Gym      
-> Remember to turn up to talk to Erika (be careful not to just walk past her).       
-
-<img src="https://i.imgur.com/cl4CRGn.png">
-
-**Beauty's Exeggcute:**
-- Blizz
+#### Beauty's Exeggcute: **Blizz**
 
 | HP after Exeggcute  | Overview of Backup Boom Strats for Erika                                                                                                        
 | ------------------- | --------------------------------------                                            
@@ -866,27 +864,27 @@ Quiz answers: A B B B A B
      - HD
 
 Dig out and Bike to Sabrina's gym.
-- Northeast corner of Safron City
-- 1st gym is the fighting dojo, 2nd gym is Sabrina's
+- Northeast corner of Saffron City
+- 1st gym is the fighting dojo, 2nd gym is the correct gym
 
 ## Saffron City
 
 Take the only teleporter pad to enter the puzzle.
 
-> Avoid the first two trainer's lines of sight by hugging the bottom walls to avoid them.
+> Avoid the trainers' lines of sight by hugging the bottom walls.
 
 #### Teleporter Puzzle Solution: 
 - Top Left, Bottom Left, Bottom Left
 - (or think: Diagonal, Diagonal, hold Down)
 
-**Sabrina:**
+#### Sabrina:
 - EQ x4
 
 Walk back to the teleporter, Dig out, and Fly (U1) to Viridian City.
 
 ## Viridian City
 
-**Cooltrainer:**
+**Cooltrainer's Rhyhorn:**
 - EQ
 
 #### Optional Save before Blackbelt
@@ -908,12 +906,10 @@ Leave the gym and immediately reenter to reset the trainer.
 
 **Giovanni:**
 - EQ x4
-- Blizz (+ Blizz)
+- Rhydon: Blizz (+ Blizz)
 	- Note: Don't go below 2 Blizzards in this fight, use EQ to finish Rhydon if you need to
 
-> Notes assume optimal Super Repel locations     
-> You can use Super Repels at easier locations if you accidentally wasted one earlier or you just prefer it.      
-> There is a video showing this strategy under "Important Notes" at the top of this guide.     
+> The notes below assume optimal Super Repel locations         
 
 Menu after leaving the gym (+ hopping the ledge):
 - Super Repel
@@ -937,9 +933,6 @@ Menu after leaving the gym (+ hopping the ledge):
      - HD
 - Venusaur
      - HD
-
-> Note: Alternate Viridian Rival - only if you bought 3 X Speeds:       
-> X Acc + X Speed + Blizz (+ TB), HD x5      
 
 ## Badge Check
 
@@ -997,19 +990,16 @@ Menu after leaving the gym (+ hopping the ledge):
 #### Bruno:
 - X Accuracy + HD x5
 
-> Do not forget to use the Rare Candy (from Mansion) before Agatha     
-> For reference Rare Candy is near the bottom of the bag, 2 below HM03     
-
 #### Menu before Agatha:
 - Heal to 122+ HP
 - Super Potion x1-2 (+ Potion)
-- Rare Candy 
+- Use Rare Candy on Nido (2 below HM03)
 
 #### Agatha:
 - 1st Gengar: 
      - **X Special**
           - If Hypnosis hits, use the Poke Flute (2 below HM02)
-          - If confused, do NOT swap (it is not worth having to reset up the X Special).
+          - If confused, do NOT swap (it is not worth having to re-setup the X Special).
                - Yolo through confusion by continuing to attempt to get your moves off.
                - Under 57 HP, use Full Restore, but note that this does not remove confusion.
      - **EQ**
@@ -1027,7 +1017,7 @@ Menu after leaving the gym (+ hopping the ledge):
 - 2nd Gengar:
      - EQ
 
-HP      | ITEMS
+HP      | Healing Strategy before Lance
 ------- | ---------------------------
 4-7     | Super Potion x2 + Potion x2
 8-27    | Super Potion x2 + Potion
@@ -1037,8 +1027,7 @@ HP      | ITEMS
 78-98   | Super Potion
 99-106  | Potion x2
 107-127 | Potion
-
-<img src="https://i.imgur.com/QfIueNL.png" height="150" >
+<img src="https://i.imgur.com/QfIueNL.png" height="200" >
 
 Menu before Lance:
 - **Use Elixer**
@@ -1052,8 +1041,8 @@ Menu before Lance:
      - **X Special**
      - TB
 - Dragonair 1: 
-     - **X Special** (or X Speed instead if you have one)
-     - (+ X Accuracy, if you have 3 X Accuracy left, otherwise skip it)
+     - **X Special**
+     - (+ X Accuracy, only if you have 3 X Accuracy left)
      - Blizz
 - Dragonair 2: 
      - Blizz
@@ -1063,12 +1052,14 @@ Menu before Lance:
      - Blizz
 
 #### Menu After Lance (before entering the next room):
-- Heal to 45+ HP (or to only 22+ if you need red bar to PB)
-- Optional: Save the game if you don't have a spare X Accuracy + X Special + Revive + Extra Poke to Sacrifice
+- Heal to 45+ HP 
+     - (or to 22+ if you need red bar to PB)
+- Optional: Save the game 
+     - (especially if you don't have an extra X Accuracy + X Special + Revive + alive Squirtle or Paras to sac)
 
 > Animations are automatically turned on when you enter the Champ fight       
-> In red bar, faster to HD Rhydon and TB Gyarados      
-> Not in red bar, faster to Blizz Rhydon and HD Gyarados      
+> In red bar, it's faster to HD Rhydon and TB Gyarados      
+> Not in red bar, it's faster to Blizz Rhydon and HD Gyarados      
 > Either strategy is fine, just ensure that you have HDs left to KO Arcanine & Venusaur     
 
 #### Champion:
