@@ -8,10 +8,10 @@
 	- [7A Press - Optimal](../../resources/nido-manip.md) (Highly recommended)
 	- [1A Press - Easy](https://youtu.be/2bwQZ6jPxRE)
 - Mount Moon Manip:
-	- [Post Hiker Backup Paras v2](https://pastebin.com/j5gtY4cy) (7A press, normal yoloball)
-		- [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4) ([2A press path](https://i.imgur.com/jp61CLR.png), [select yoloball inputs](https://youtu.be/atQiH670ENs))
-	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
+	- [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4) ([2A Press Path](https://i.imgur.com/jp61CLR.png), [video w/ Select yoloball inputs](https://youtu.be/atQiH670ENs))
+	- [Post Hiker Backup Paras v2](https://pastebin.com/j5gtY4cy) (7A press, normal yoloball)
+	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S)
 - Surge Cans Manip:
 	- [Optimal Cans Manip](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
@@ -33,7 +33,7 @@
 
 ### Important Note
 - When learning a new move you cannot hit up to make the cursor wrap around to the bottom slot like you can in battle. For example, to teach over Slot 4, you must press down three times. Don't accidentally delete the wrong move.
-- Victory Road can be tricky. While there will be an image embedded showing the optimal strategy, it is recommended to watch this [easier version of Victory Road / Lorelei Segment Movement](https://youtu.be/AbekvWHeX50). In the description there are timestamps and a link to a video of the optimal movement (~5 sec faster). 
+- Victory Road can be tricky. While there will be an image embedded showing the optimal strategy, we recommended watching this [easier version of Victory Road / Lorelei Segment Movement](https://youtu.be/AbekvWHeX50). In the description there are timestamps and a link to a video of the optimal movement (~5 seconds faster). 
      - This guide assumes that you will use the optimal strategy in Victory Road, going slower/safer is optional. Note that the slower strategy still works if you accidentally wasted a Super Repel earlier, so it is worth knowing as a backup. 
 
 ### Before you start
@@ -42,10 +42,10 @@
 
 ## Pallet Town
 
-- Name yourself and rival 'A' (or any one character name)
+- Name yourself and rival 'A' (or any one-character name)
 - Pick Squirtle (middle ball) and name it 'A'
 
-**Rival 1:**
+#### Rival 1
 - TW + spam Tackle
 
 > **L6 Squirtle Stats**      
@@ -55,7 +55,7 @@
 
 ## Parcel Quest
 
-> Go up Route 1 to get Oak's Parcel from the Viridian Mart.    
+> Go up Route 1 to get Oak's Parcel from Viridian Mart.    
 > Return to Oak's Lab, give him the Parcel, and get the Pokedex.     
 > Go back up Route 1 (back to the Viridian Mart).      
 
@@ -101,7 +101,7 @@ If you were poisoned, then menu immediately after the fight:
 
 > If you were not poisoned, then delay this menu until one step into Brock's gym      
 > (saves time this way, but it's fine if you do it earlier).       
-> Note that swapping Nido to the lead is essential in order to swap-train Nido against Brock's Geodude & Onix.        
+> Note that swapping Nido to the lead is essential to swap-train Nido against Brock's Geodude & Onix.        
 > --> Nido will reach L8 and learn Horn Attack after Brock's Onix.   
 
 ## Pewter City
@@ -189,7 +189,7 @@ If you were not poisoned, then menu one step into Brock's Gym:
 #### Menu on the Route 3 Save Tile
 - Potion to 22+ HP (or 36+ HP if confident with yolo ball)
 
-#### Save & Do [Route 3 Moon Manip ](https://pastebin.com/tggXpQRC)
+#### Save & Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 - Hold a palette selection through bios immediately after Hard Reset
 - Get [TM12 (Water Gun)](https://gunnermaniac.com/pokeworld?map=59#5/32), [Rare Candy](https://gunnermaniac.com/pokeworld?map=59#35/31), [Escape Rope](https://gunnermaniac.com/pokeworld?map=59#36/23), [TM01 (Mega Punch)](https://gunnermaniac.com/pokeworld?map=61#29/5) and [Moon Stone](https://gunnermaniac.com/pokeworld?map=59#2/2)
 - Performing a full Moon Manip is not required when starting out, but it doesn't hurt to attempt it and see how far you get.
