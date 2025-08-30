@@ -880,13 +880,14 @@ Take the only teleporter pad to enter the puzzle.
 #### Sabrina:
 - EQ x4
 
-Walk back to the teleporter, Dig out, and Fly (U1) to Viridian City.
+Walk back to the teleporter, Dig out, Fly (U1) to Viridian City, and bike to Giovanni's Gym.
 
 ## Viridian City
 
+<img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/Blackbelt.png" width="300">
+
 **Cooltrainer's Rhyhorn:**
 - EQ
-- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/Blackbelt.png" width="300">
 
 #### Optional Save before Blackbelt
 - Blackbelt's Machoke has a decent chance to KO you and reviving will lose red bar so saving is advised.
