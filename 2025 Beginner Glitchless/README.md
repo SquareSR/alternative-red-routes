@@ -886,6 +886,7 @@ Walk back to the teleporter, Dig out, and Fly (U1) to Viridian City.
 
 **Cooltrainer's Rhyhorn:**
 - EQ
+- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/Blackbelt.png" width="200">
 
 #### Optional Save before Blackbelt
 - Blackbelt's Machoke has a decent chance to KO you and reviving will lose red bar so saving is advised.
