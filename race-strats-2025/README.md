@@ -259,7 +259,7 @@ Optional Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/po
 
 
 Vermillion Mart:
-- 3 Repels
+- 3 Repels (Ice Heal exits)
 - 4 Parlyz Heals
 
 > Gent: TM11, then candy (Nugget delays)
@@ -299,22 +299,21 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 - Get the Bike and exit shop.
 
 **Bike Menu**:
-  - Swap S3 **Helix** d9 w/ Bike (HM01 delays)
+  - Swap S3 **Helix** d7 w/ Bike (HM01 delays)
   - U1 **TM24**
   - Slot 3 Bike
 
 ## Route 9
 
 > Quick Reference     
-> S7: Potion (3 below Nugget)     
-> S8: Para H (4 below Nugget)     
+> S7: Potion (Nugget exits)     
+> S8: Para Heal (Nugget delays)     
 
 #### 4 Turn Thrash Girl (1st Oddish)
 
 | HP   | Strategy                                 |
 | ---- | ---------------------------------------- |
 | 4-5  | Thrash, swap on Bellsprout and split exp |
-| 6+   | MP                                       |
 
 **Venonat Trainer:**
 | HP           | Strategy                    |
@@ -322,78 +321,66 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | 1-4          | BB x2 and Potion on Venonat |
 | 5-14         | BB + Thrash                 |
 | 15-21        | BB x4                       |
-| 22+          | BB + Thrash                 |
 
 ## Rock Tunnel
 
-> Quick Reference     
-> Slot 1 Repel     
-> S7: Potion (3 below Nugget)     
-> S8: Para H (4 below Nugget)     
+> Slot 1 Repel
 
-#### Fly Split Red Bar (play normal if not going for red bar)
-- Note: Swap if confused by Slowpoke
+#### Fly Split Red Bar
 
 | HP @ L28 | Strategy                                         |
 | -------- | ------------------------------------------------ |
-| 1-21     | Normal                                           |
 | 20-29    | 1st Slowpoke BB + TB                             |
 | 30-31    | 2nd Slowpoke BB + TB                             |
-|  32+     | skip red bar                                     |
 
 #### Oddish Girl
 | HP @ L29 | Strategy                    |
 | -------- | --------------------------- |
-| 1-17     | Save & Thrash               |
-| 18-22    | Save & TB + Thrash          |
+| 18-22    | Save & Thrash or TB         |
 | 23-42    | Save & Thrash               |
 | 43+      | No-Save & Thrash            |
 
-> Quick Reference     
-> Slot 1 Repel     
-> S7: Potion (3 below Nugget)     
-> S8: Para H (4 below Nugget)       
+> Quick Reference after last Repel     
+> S6: Potion (Nugget exits)     
+> S7: Para Heal (Nugget delays)       
 
-#### After Hiker (delay Repel)
-|    HP  | Strategy              |
-| ------ | --------------------- |
-| 1-9    | S 6 Pot (Nugget exits) |
-| 6-9    | yolo if desperate     |
+#### Post Oddish Girl (delay Repel Menu to Post Hiker)
+|    HP  | Strategy                         |
+| ------ | -------------------------------- |
+| 1-2    | S1 Repel + S6 Pot (Nugget exits) |
+| 3-6    | yolo if desperate                |
 
 Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Route 8
 
 #### Gambler
-| HP    | Strategy                 |
-| ----- | ------------------------ |
-| 1-8   | S6 Potion before the fight  |
-| 5-8   | yolo if desperate        |
+| HP    | Strategy                  |
+| ----- | ------------------------- |
+| 1-4   | S6 Potion (Nugget exits)  |
+| 5-8   | yolo if desperate         |
 
 ## Underground
 
-- Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=121#21/5)
-- Get the [hidden Nugget](http://gunnermaniac.com/pokeworld?map=121#12/2)
+- Get [hidden Elixer](http://gunnermaniac.com/pokeworld?map=121#21/5) and [hidden Nugget](http://gunnermaniac.com/pokeworld?map=121#12/2).
 
-## Celadon City
+## Celadon Mart
 
-> If you fought Gentleman, buy +1 X Accuracy
-
-Celadon Mart:
 - Floor 2:
 	- Buy TM07
-	- Buy 10 Super Repels
-	- Buy 4 Super Potions
-	- Buy 2 Revives
+	- Buy 10 Super Repel
+	- Buy 4 Super Potion
+	- Buy 2 Revive
 - Floor 4:
 	- Sell TM34 + both Nuggets
     - Buy Poke Doll
 - Roof:
-	- Buy Soda Pop and Fresh Water + Trade Soda
+	- Buy Soda Pop + Trade Soda
+    - Buy Fresh Water
 - Floor 5:
 	- Buy 12 X Accuracy
-	- Buy 5 X Special (X ATK exits)
-	- Buy 4 X Speed
+	- Buy 6 X Special (X ATK exits)
+	- Buy 3 X Speed
 
 Take the elevator and get HM02 (Fly)
 
@@ -402,7 +389,7 @@ Fly Menu (1):
 - d1 use **Super Repel**
 - d4 teach **TM48** (RS) over MP (slot 2)
 
-> Late Drill
+> Early Drill, then teach TM07 now.
 
 Fly Menu (2):
 - Swap S3 **S.S.Ticket** d13 w/ **X Accuracy** (2 below Poke Doll)
@@ -414,13 +401,12 @@ Fly Menu (2):
 **Lavender Rival:**
 
 > Quick Reference        
-> Slot 7 - Potion (3 below HM01)     
-> Up to X Acc (1 above HM01)     
-> Slot 12 - Super Potion      
-> Slot 13 - Revive (3 below Helix)     
+> Slot 4 - Potion          
+> Slot 11 - Super Potion (Elixer exits)         
+> Slot 12 - Revive (S.S. Ticket exits)     
 
 - Pidgeotto:
-   - 1-8 HP: Slot 7 - Potion, (Up 4 X Accuracy if Sand hits), TB
+   - 1-8 HP: Slot 4 - Potion, (Up 4 X Accuracy if Sand hits), TB
    - 9+ HP: TB
 - Gyarados: TB
 - Growlithe: (1-8 HP: Potion), BB
