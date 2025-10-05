@@ -1,7 +1,7 @@
 ## Nidoran Split
 
 Marts:
-- **3 Poke Balls** & **8 Potions**
+- **3 Poke Balls** & **9 Potions**
 
 ## Brock Split
 
@@ -143,8 +143,7 @@ Menu after Bill:
 | 1-6  | **Potion** + d7 **TM11** (Ether exits)      |
 | 7-10 |  Male Jr. Trainer first                     |
 
-> Get Hidden Full Restore
-
+> Get **hidden Full Restore**
 
 ## Route 6
 
@@ -154,6 +153,7 @@ Before Boat Rival (good pace):
 
 **Boat Rival:** 
 - Pidgeotto: **HA x2**
+	  - Under 7 HP: Potion
 - Raticate: **MP** (23+: PS + HA)
 	  - Under 7 HP: Potion
 - Kadabra: **Thrash**
