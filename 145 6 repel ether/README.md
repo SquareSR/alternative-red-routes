@@ -23,7 +23,7 @@ Marts:
 
 ### BC1: 
 - Leer + HA x2
-- Leer + HA + HA/Tackle
+- Leer + Tackle + adapt
 - Leer + Tackle + HA
 
 | Heal to 28+ | @-1           |
@@ -38,7 +38,6 @@ Marts:
 > @-2 (5) yolo wrap @ 16-21+     
 
 ### Shorts Guy: 
-- Leer + HA x2
 - Leer + HA x2
 
 ### BC3: 
@@ -122,6 +121,8 @@ Menu after Moon Man:
 | 1-3 | S1 Potion turn 1    |
 | 16  | HA + PS if Moon Exp |
 
+- Get the [hidden Ether](https://gunnermaniac.com/pokeworld?map=1#288/3)
+
 #### Bill's House
 
 | HP @ L23 | Healing Strategy |
@@ -142,9 +143,8 @@ Menu after Bill:
 | 1-6  | **Potion** + d7 **TM11** (Ether exits)      |
 | 7-10 |  Male Jr. Trainer first                     |
 
-> Backup for Zero Potions left:         
-> Get the hidden FR      
-> Sell S3 Nugget + S7 Full Restore (S.S. Ticket exits)      
+> Get Hidden Full Restore
+
 
 ## Route 6
 
@@ -154,8 +154,8 @@ Before Boat Rival (good pace):
 
 **Boat Rival:** 
 - Pidgeotto: **HA x2**
-	  - Under 7 HP: Potion
 - Raticate: **MP** (23+: PS + HA)
+	  - Under 7 HP: Potion
 - Kadabra: **Thrash**
 	- 1-6 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**
 	- 7+ HP ---> **Thrash** 
@@ -165,17 +165,21 @@ Before Boat Rival (good pace):
 | under 5 | Gentleman 3rd Cabin from the Right         |
 | under 9 | Candy after TM11 - S7 (Ether delays)       |
 
-
 Vermillion Mart:
-- 6 Repels
-- 2 Parlyz Heals
+- Sell
+    - S2 TM34
+    - S3 Nugget
+    - S7 Full Restore (Ether delays)   
+- Buy
+    - 6 Repel (Ice Heal Exits)
+    - 3 Parlyz Heal
 
 **Cut Menu**:
 - Slot 6 TM11 (Ether exits)
 - Slot 6 HM01
 - Up 1   TM28
 
-Do Cans Manip
+0A Cans Manip
 
 **Surge**
 - Voltorb:
@@ -220,7 +224,7 @@ w/Screech & Growl | 17
 
 | HP           | Strategy                    |
 | ------------ | --------------------------- |
-| 15-21        | BB x4                       |
+| 15-19        | BB x4                       |
 | 20+          | BB + Thrash                 |
 | 38+          | Thrash                      |
 
@@ -228,10 +232,12 @@ w/Screech & Growl | 17
 
 | HP @ L28   | Strategy                        |
 | ---------- | ------------------------------- |
-| 20-27      | 1st Slowpoke: BB + TB           |
+| 20-22      | 1st Slowpoke: BB + TB           |
+| 23-27      | 1st Slowpoke: Thrash            |
 | 28-38      | Cubone: TB + BB                 |
 | 39-43      | 1st Slowpoke: BB x2 + TB        |
 | 44+        | TB Cubone and Thrash Slowpoke   |
+| *23-31     | 2nd Slowpoke: BB + TB           |
 
 ## Rock Tunnel
 
@@ -255,37 +261,32 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 ## Underground
 
 - Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=121#21/5)
-- Get the [hidden Nugget](http://gunnermaniac.com/pokeworld?map=121#12/2)
 
 ## Celadon City
 
 #### Shopping
 
-| HP    | Strategy                                    |
-| ----- | ------------------------------------------- |
-| 1-8   | Early Drill                                 |
-| 9-15  | Late Drill                                  |
-| 16    | Early Drill, Late Drill if Gentleman Candy  |
-| 17-18 | Late Drill                                  |
-| 19    | Late Drill, Early Drill if you got Moon Exp |
-| 20-27 | Early Drill                                 |
-| 28+   | Late Drill                                  |
+|      HP            |   Strategy    |
+| ------------------ | ------------- |
+| 1-8, 16*, 20-27    | Early Drill   |
+| 9-15, 17-19*, 28+  | Late Drill    |
 
-> If you fought Gentleman, +1 X Accuracy for free
+> Late Drill if 16 HP w/ Gentleman       
+> Early Drill if 19 HP w/ Moon Exp       
 
 Celadon Mart:
 - Floor 2:
 	- TM07
-	- 7 Super Repels
-	- 4 Super Potions (3)
+	- 7 Super Repel
+	- 4 Super Potion
 - Floor 4:
   - Poke Doll
 - Roof:
 	- Soda Pop + Trade it
 	- Fresh Water
 - Floor 5:
-	- 11 X Accuracy (12)
-	- 6 X Special (5)
+	- 12 X Accuracy
+	- 6 X Special (X Attack exits)
 	- 3 X Speed
 
 Take the elevator and get HM02 (Fly)
@@ -304,12 +305,17 @@ Fly Menu:
 **Lavender Rival:**
 
 > Quick Reference        
-> Slot 7/8 - Potion (3 below HM01)     
+> Slot 7/8 - Potion (HM01 exits)     
 > Up 4 - X Accuracy (1 above HM01)      
 
+Rival:
+- TB, TB, BB, Thrash, Thrash x2
+- X Accuracy, HD x5
+- TB, TB, X Accuracy, HD x3
+
 Channeler 1:
-- Select + Down + Select + A
-- Swap RS to Slot 1 + use RS x2
+- **Select + Down + Select + A**
+- Swap RS to Slot 1, RS, RS
 
 > fight channelers, get **both** Elixers, get candy
 
@@ -336,22 +342,23 @@ Get the Poke Flute and Fly (D1) to Celadon.
 Get the Card Key
 
 **Rival:**
-- Pidgeot: HD
-	- **Slot 3 - X Accuracy**
-	- d12 - **X Speed** (HM01 delays / spot exits)
-    - U1 - **X Special**
-- Gyarados: HD
+- Pidgeot:
+	- **S3 X Accuracy**
+	- **d12 X Speed** (HM01 delays)
+    - **U1 X Special**
+    - **HD**
+- Gyarados:
     - 38-45: **Up Potion** Zam (HM01 exits)
-    - 46-51: HD & X-Spc on Zam
-    - 52-75: **U2 Spot**
+    - 46-51: **HD** & **X Special** on Zam
+    - 52-75: **U2 Super Potion**
     - 76-85: **X Special**
-    - 86-100: **U7 Potion** (HM01 exits)p
+    - 86-100: **U7 Potion** (HM01 exits)
     - 101+: **d4 Flute** (2 below HM02)
-- Growlithe: **BB**
+    - then: **HD**
+- Growlithe:
     - 19-25 @+1: **X Spec** (3 below HM01 or U4 from Flute)
     - 19-25 @+2: **Flute if @+2** (2 below HM02)
-- Zam: HD
-- Venu: HD
+    - otherwise: **BB**
 
 **Menu before the next fight**:        
 - S2 Ether      
@@ -373,20 +380,20 @@ Get the Card Key
 
 ## Celadon City
 
-- Bike West to Snorlax
-
-Menu before Snorlax:
-- Slot 4 - **Repel**
-- d1 swap **Parlyz Heal**
-     - d11 w/ **Rare Candy** (*delay HM01 into 2 below X Speed*)
-- d1 use **Poke Flute**
-
 > If we ran out of Para Heals (Modify Snorlax Menu):     
 > S4 **Repel**     
 > d4 swap **Helix** (Potion exits)     
 > d7 w/ **Rare Candy) (2 below X Speed)     
 > d1 **Flute**     
 > Note: pick up an item & Candy Menu ends up being Candy (X Special exits)     
+
+- Bike West to Snorlax
+
+**Snorlax Menu**:
+- Slot 4 - **Repel**
+- d1 swap **Parlyz Heal**
+     - d11 w/ **Rare Candy** (2 below X Speed)
+- d1 use **Poke Flute**
 
 ## Cycling Road
 
@@ -408,16 +415,11 @@ Menu before Snorlax:
 - Fly (D2) back to Fuschia City, and walk/bike into the gym. 
 
 **Koga's Weezing:**
-- S8 **Elixer**  (3 below Rare Candy)
-- U2 **X Special** (do not go below 3 X Specials)
+- **S8 Elixer**  (3 below Rare Candy)
+- **U2 X Special** (do not go below 3 X Specials)
 
 **Candy Menu** (after exiting Koga's Gym):
 - Slot 5 - Use all **Rare Candies**
-- Or if 0 Para left --> (X Special exits)
-- **Bike** East to get Strength
-- Fly to Pallet Town
-
-> Walk to the bottom left, face the water, and Menu.
 
 **Surf Menu**:
 - **Super Repel**
@@ -444,17 +446,8 @@ Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2) and [Se
 
 Bike to the gym, cut the trees. 
 
-> Quick Reference            
-> Slot 14 - Flute  (2 below HM02)     
-
 **Beauty:**
 - Blizz
-
-| HP after Exeggcute  | Overview of Strategy for Erika
-| ------------------- | -----------------------------------
-| 1-24                | Normal Strats: EQ, Blizz, EQ
-| 25-32               | Poké Flute on Vileplume until hit                                                      
-| 33+                 | Poké Flute on Victreebel until hit   
 
 **Cut the middle tree** to exit the gym.
 - **Fly (D2)** back to Cinnabar Island
@@ -480,16 +473,15 @@ Dig out and Bike East to Sabrina's gym
 
 Walk back to the teleporter and Dig out.
 - **Fly (U1)** to Viridian and Bike to the Gym.
-- turn 1 spot:
+
+**Early Elixer Menu if turn 1 Blaine Spot**:
 - S6 Elixer (Srepel exits) on U2 Nido
-- U5 Bike (Max Ether exits)
+- U5 Bike
 
 ## Viridian City
 
 **Cooltrainer's Rhyhorn**
-- EQ (or Blizz)
-
-[Save before Blackbelt]
+- EQ
 
 > Quick Reference      
 > Slot **4** - X Special      
@@ -517,15 +509,15 @@ Backup Boom Strats:
 Menu after leaving the gym and hopping the ledge:
 - **Srepel + Bike**
 
-> Alt VR (if early elixer):     
-> X Accuracy + d5 X Speed + Blizz or TB x2, Blizz, TB, HD x3       
+> Alt VR (**if early elixer**):     
+> X Accuracy + d5 X Speed (Spec exits) + Blizz or TB x2, Blizz, TB, HD x3       
 
 **Viridian Rival:**
 - **Pidgeot**:
     - **X Accuracy**
     - d5 **X Speed** (X Special exits)
-    - **Blizz** (+ TB)
-- Rhyhorn: HD or Blizz
+    - **Blizz** (+ TB/Blizz)
+- Rhyhorn: **Blizz**
 - Gyarados: HDx4
 
 ## Badge Check
@@ -540,7 +532,9 @@ Post-Water Menu:
 - Srepel
 - d2 **Max Ether** on (U1) Nido
 - Bike  
-- Inside cave U1 Pkmn, D1 Squirtle, then normal VR
+
+Inside cave 
+- **U1** Pkmn, **D1** Squirtle Strength, then normal VR
 
 ## Elite Four
 
