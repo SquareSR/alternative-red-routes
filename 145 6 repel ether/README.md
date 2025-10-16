@@ -1,7 +1,7 @@
 ## Nidoran Split
 
 Marts:
-- **3 Poke Balls** & **9 Potions**
+- **3 Poke Balls** & **8 Potions**
 
 ## Brock Split
 
@@ -143,7 +143,7 @@ Menu after Bill:
 | 1-6  | **Potion** + d7 **TM11** (Ether exits)      |
 | 7-10 |  Male Jr. Trainer first                     |
 
-> Get **hidden Full Restore**
+> Get **hidden Full Restore** (if needed)
 
 ## Route 6
 
@@ -172,7 +172,7 @@ Vermillion Mart:
     - S7 Full Restore (Ether delays)   
 - Buy
     - 6 Repel (Ice Heal Exits)
-    - 3 Parlyz Heal
+    - 2 Parlyz Heal
 
 **Cut Menu**:
 - Slot 6 TM11 (Ether exits)
@@ -278,15 +278,15 @@ Celadon Mart:
 - Floor 2:
 	- TM07
 	- 7 Super Repel
-	- 4 Super Potion
+	- 4 (3) Super Potion
 - Floor 4:
   - Poke Doll
 - Roof:
 	- Soda Pop + Trade it
 	- Fresh Water
 - Floor 5:
-	- 12 X Accuracy
-	- 6 X Special (X Attack exits)
+	- 11 (12) X Accuracy
+	- 6 (5) X Special (X Attack exits)
 	- 3 X Speed
 
 Take the elevator and get HM02 (Fly)
@@ -593,7 +593,7 @@ HP      | ITEMS
 | HP      | Strategy                         |
 | ------- | -------------------------------- |
 | 126-133 | d1 X Speed                       |
-| 134+    | EQ (or X Acc if you have 2 left) |
+| 134+    | EQ                               |
 
 **Lance:**
 - Gyarados: **S3 - X Special** + TB
