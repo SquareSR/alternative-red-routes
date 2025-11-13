@@ -1,5 +1,4 @@
 # Boom Strats Backups
-- https://pastebin.com/BMQQYcEV
 
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | -----------------------------------------------
