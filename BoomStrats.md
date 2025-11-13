@@ -1,5 +1,7 @@
 # Boom Strats Backups
 
+> Scroll down to the bottom to see an extremely simplified, slightly less optimal version. 
+
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | -----------------------------------------------
 | 0-1                 | Machamp            | Normal Strats                                                                                                   
@@ -48,6 +50,31 @@ Leave the gym and re-enter.
 | 28+                 | modify **Viridian Rival**: Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + then play normal
 
 > 25-27 can also modify Viridian Rival like above if desperate; otherwise, do the Bruno Stall below if needed
+
+## Bruno 
+
+> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
+
+
+# Simplified Version:
+
+## Erika:
+
+| HP On Exeggcute     | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
+
+## After Blackbelt
+
+Leave the gym and re-enter the gym and use your Elixer before Giovanni as normal.   
+
+## Giovanni
+
+| HP After Blackbelt | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-26               | Play Normal.
+| 27+                | **Nidoking**: X-Spec Turn 1 (+TB), **EQ at any time if hit below 27 HP**;  
 
 ## Bruno 
 
