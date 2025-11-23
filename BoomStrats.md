@@ -5,6 +5,14 @@
 
 # Beginner/Intermediate Version:
 
+| HP after SD on Koga | Red Bar kept until... | Overview of Strategy                                                                                                       
+| ------------------- | ------------------ | -----------------------------------------------
+| 0-6                 | Elite 4            | Normal Strats                                                                                                   
+| 7-11                | Rhydon/Growlithe    | X-Spec / X-Spd on Gio's Nidoking
+| 12-14               | Machop             | TB Stall on Gio's Nidoking
+| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
+| 23+                 | Exeggcute          | Poké Flute on Victreebel              
+
 ## Erika:
 
 | HP On Exeggcute     | Overview of Strategy                                                                                                       
@@ -26,7 +34,9 @@ Leave the gym and re-enter the gym and use your Elixer before Giovanni as normal
 
 ## Bruno 
 
-> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
+- if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
+
+> If you are comfortable with the strats above, try learning implementing some of the more optimized strats below which may involve delaying our Elixer usage after Blackbelt at certain HP ranges. 
 
 # Intermediate/Advanced Version:
 
@@ -81,7 +91,7 @@ Leave the gym and re-enter.
 
 ## Bruno 
 
-> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
+- if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
 
 
 
