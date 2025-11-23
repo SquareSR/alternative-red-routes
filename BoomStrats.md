@@ -35,8 +35,11 @@ Leave the gym and re-enter the gym and use your Elixer before Giovanni as normal
 ## Bruno 
 
 - if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
-
-> If you are comfortable with the strats above, try learning implementing some of the more optimized strats below which may involve delaying our Elixer usage after Blackbelt at certain HP ranges. 
+ 
+> The strats above are not fully optimized, but they are simple to follow.      
+> The strats below are more optimized, but significantly more complicated yielding only a small advantage.     
+> It is highly suggested to follow the simplified beginner/intermediate strats if this is your first time doing backup boom strats.     
+> For some extra reading though, the below advanced notes are potentially insightful.     
 
 # Intermediate/Advanced Version:
 
