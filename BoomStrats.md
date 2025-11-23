@@ -1,6 +1,8 @@
 # Boom Strats Backups
 
-> Scroll down to the bottom to see an extremely simplified, slightly less optimal version. 
+> Scroll down to the bottom to see an extremely simplified, slightly less optimal version.      
+> When deciding between X-Special or X-Speed use the one that you have extra of      
+> In general 3 Repel Routes have extra X-Speeds and 4-6 Repel Routes have extra X-Specials.      
 
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | -----------------------------------------------
@@ -8,7 +10,7 @@
 | 2-4                 | Lapras             | Normal until Bruno; Use PP Item turn 2 on Bruno                                                   
 | *5-14               | ...                | Normal until Gio;  Blizz on Cooltrainer's Rhyhorn         
 | 5-6                 | Cloyster           | Elixer on Gio's Rhyhorn
-| 7-11                | Rhydon/Growlithe    | X-Spec on Gio's Nidoking
+| 7-11                | Rhydon/Growlithe    | X-Spec / X-Spd on Gio's Nidoking
 | 12-14               | Machop             | Elixer on Gio's Nidoking
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
 | 23+                 | Exeggcute          | Poké Flute on Victreebel                     
@@ -35,8 +37,8 @@ Leave the gym and re-enter.
 | ------------------- | --------------------------------------    
 | 1-24               | Play Normal.
 | 25-26              | **Rhyhorn**: Elixer + Blizz or EQ, then play normal.
-| 27-31*             | **Rhyhorn**: Blizz (+EQ);  **Nidoking**: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit**;  **Rhydon**: (Elixer) + Blizz
-| 32+		             | **Rhyhorn**: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
+| 27-31*             | **Rhyhorn**: Blizz (+EQ);  **Nidoking**: X-Spec or X-Spd Turn 1 (+Elixer) (+TB), **EQ at any time if hit**;  **Rhydon**: (Elixer) + Blizz
+| 32+		             | **Rhyhorn**: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec/X-Spd) (+TB), **EQ at any time if hit**
 
 > With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.   
 > (1) If Rhyhorn **hits you or lands a tail whip**, always Elixer right away (if you didn't already before the fight).
@@ -74,7 +76,7 @@ Leave the gym and re-enter the gym and use your Elixer before Giovanni as normal
 | HP After Blackbelt | Overview of Strategy                                                                                                       
 | ------------------- | --------------------------------------    
 | 1-26               | Play Normal.
-| 27+                | **Nidoking**: X-Spec Turn 1 (+TB), **EQ at any time if hit below 27 HP**;  
+| 27+                | **Nidoking**: X-Spec or X-Spd Turn 1 (+TB), **EQ at any time if hit below 27 HP**;  
 
 ## Bruno 
 
