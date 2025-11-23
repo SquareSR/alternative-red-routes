@@ -1,8 +1,34 @@
 # Boom Strats Backups
 
-> Scroll down to the bottom to see an extremely simplified, slightly less optimal version.      
 > When deciding between X-Special or X-Speed use the one that you have extra of      
 > In general 3 Repel Routes have extra X-Speeds and 4-6 Repel Routes have extra X-Specials.      
+
+# Beginner/Intermediate Version:
+
+## Erika:
+
+| HP On Exeggcute     | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
+
+## After Blackbelt
+
+Leave the gym and re-enter the gym and use your Elixer before Giovanni as normal.   
+
+## Giovanni
+
+| HP After Blackbelt | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-26               | Play Normal.
+| 27-31              | **Nidoking**: X-Spec or X-Spd Turn 1 (+TB), **EQ at any time if hit below 27 HP**;  
+| 32+                | **Nidoking**: Stall with TB, **if hit to 27-31 use 1 X-Spec or X-Spd (+TB)**, **EQ at any time if hit below 27 HP**;  
+
+## Bruno 
+
+> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
+
+# Intermediate/Advanced Version:
 
 | HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
 | ------------------- | ------------------ | -----------------------------------------------
@@ -13,7 +39,7 @@
 | 7-11                | Rhydon/Growlithe    | X-Spec / X-Spd on Gio's Nidoking
 | 12-14               | Machop             | Elixer on Gio's Nidoking
 | 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
-| 23+                 | Exeggcute          | Poké Flute on Victreebel                     
+| 23+                 | Exeggcute          | Poké Flute on Victreebel              
 
 ## Erika:
 
@@ -58,26 +84,4 @@ Leave the gym and re-enter.
 > if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
 
 
-# Simplified Version:
 
-## Erika:
-
-| HP On Exeggcute     | Overview of Strategy                                                                                                       
-| ------------------- | --------------------------------------                                            
-| 25-32               | Poké Flute on Vileplume until hit                                                                          
-| 33+                 | Poké Flute on Victreebel until hit   
-
-## After Blackbelt
-
-Leave the gym and re-enter the gym and use your Elixer before Giovanni as normal.   
-
-## Giovanni
-
-| HP After Blackbelt | Overview of Strategy                                                                                                       
-| ------------------- | --------------------------------------    
-| 1-26               | Play Normal.
-| 27+                | **Nidoking**: X-Spec or X-Spd Turn 1 (+TB), **EQ at any time if hit below 27 HP**;  
-
-## Bruno 
-
-> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on first Onix, then play normal.
