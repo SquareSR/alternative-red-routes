@@ -2,6 +2,7 @@
 
 > When deciding between X-Special or X-Speed use the one that you have extra of      
 > In general 3 Repel Routes have extra X-Speeds and 4-6 Repel Routes have extra X-Specials.      
+> Please interpret "X-Spec / X-Spd" as use either X-Special or X-Speed (doesn't matter which)      
 
 # Beginner/Intermediate Version:
 
