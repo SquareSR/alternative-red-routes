@@ -127,13 +127,13 @@ Menu after Moon Man:
 
 #### Bill's House
 
-> Very good pace --> try to heal to the 55-65ish HP range
+> Very good pace --> try to heal to the 55-68ish HP range
 
 | HP @ L23 | Healing Strategy |
 | -------- | ---------------- |
-| 1-7      | 3 Potion         |
+| 1-8      | 3 Potion         |
 | 8-28     | 2 Potion         |
-| 28-47    | 1 Potion         |
+| 28-48    | 1 Potion         |
 
 Menu after Bill:
 - Slot 1 - **Potion x1-3**
