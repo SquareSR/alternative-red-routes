@@ -1,4 +1,4 @@
-> 4 Repel, Ether, 7 srepel w/ FR Sell --> 4 Para heal + always 4 Super Pots + enough x-items.
+> 5 Repel, Ether, Sell FR 
 
 ## Nidoran Split
 
@@ -175,7 +175,7 @@ Vermillion Mart:
     - S3 Nugget
     - S7 Full Restore (Ether delays)   
 - Buy
-    - 4 Repel (Ice Heal Exits)
+    - 5 Repel (Ice Heal Exits)
     - 4 Parlyz Heal
 
 **Cut Menu**:
@@ -282,8 +282,8 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 Celadon Mart:
 - Floor 2:
 	- TM07
-	- 7 Super Repel
-	- 4 (3) Super Potion
+	- 8 Super Repel
+	- 4 Super Potion
 - Floor 4:
   - Poke Doll
 - Roof:
@@ -291,8 +291,8 @@ Celadon Mart:
 	- Fresh Water
 - Floor 5:
 	- 11 (12) X Accuracy
-	- 6 (5) X Special (X Attack exits)
-	- 3 X Speed
+	- 7 (6) X Special (X Attack exits)
+	- 4 (3) X Speed
 
 Take the elevator and get HM02 (Fly)
 
@@ -393,15 +393,18 @@ Get the Card Key
 
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
 
+- Turn Early and use Super Repel one before sign and buffer Up on the close.
+- <img src="https://i.imgur.com/sPFMjYv.png" width="100">
+
 ## Fuschia City
 
-**EQ Menu**:
-- s3 Srepel + d3 swap **Potion** d7 w/ **X Special** (HM01 exits)
-- d6 teach **TM26** (EQ) over Slot 2 (Thrash)
+- Bike & Cut both trees.
 
 ## Safari Zone
 
-- Use s3 **Super Repel** in Zone 3
+**Safari Menu in Zone 3**:
+- s4 Repel + d2 swap **Potion** d7 w/ **X Special** (HM01 exits)
+- d6 teach **TM26** (EQ) over Slot 2
 
 - Fly (D2) back to Fuschia City, and walk/bike into the gym. 
 
