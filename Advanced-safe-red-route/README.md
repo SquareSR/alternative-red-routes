@@ -322,6 +322,7 @@ Rival:
 Channeler 1:
 - **Select + Down + Select + A**
 - Swap RS to Slot 1, RS, RS
+- (or just use s2 RS on Early Drill)
 
 > fight channelers, get **both** Elixers, get candy
 
