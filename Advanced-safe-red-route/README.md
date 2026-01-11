@@ -377,6 +377,12 @@ Get the Card Key
 - HD
 - BB (24-37 stall for red bar - see below)
 - HD
+
+> d4 Potion (srepel exits)      
+> d11 X Special (HM01 exits)      
+> d12 X Speed (HM01 delays)      
+> u7 Potion (HM01 exits)      
+
 - <img src="https://i.imgur.com/QwFoxgQ.png">
 
 
