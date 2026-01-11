@@ -375,8 +375,11 @@ Get the Card Key
 **Giovanni:**
 - **X Accuracy** + HD
 - HD
-- BB (24-37 TB stall for red bar)
+- BB (24-37 stall for red bar - see below)
 - HD
+- <img src="https://i.imgur.com/QwFoxgQ.png">
+
+
 
 **10th Floor**
 - 10th (7th exits)
